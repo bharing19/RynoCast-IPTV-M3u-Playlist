@@ -1,13 +1,15 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-11-27 18:29:58
+# Generated: 2025-11-28 07:01:15
 # Expires: 2027-01-18
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (581) ---
+# --- ⚜️ROMANIA TV⚜️ (594) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME⚜️
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/538417.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-gN6gO42Frcir-0-t500x500.jpg" group-title="⚜️ROMANIA TV⚜️",COLINDE COLAJ
@@ -590,6 +592,28 @@ http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498641.m3u8
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498640.m3u8
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/netflix_logo_icon_170919.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX ACTION
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498639.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - ASIA EXPRESS
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/348526.m3u8
+#EXTINF:-1 tvg-logo="armagedon9322" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - CRACIUN
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/382728.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 1 - 5
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344332.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 6 - 10
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344334.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 11 - 15
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344335.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 16 - 20
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344336.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 21 - 25
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344337.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 26
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344341.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2024)
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344088.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2025)
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344330.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 2 (2025)
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/344089.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13WNWM5M/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ASIA EXPRES ᴴᴰ
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/296272.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA HORROR
@@ -1170,5 +1194,7 @@ http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/296307.m3u8
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/296305.m3u8
+#EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/526873.m3u8
 
-# Total: 581
+# Total: 594
