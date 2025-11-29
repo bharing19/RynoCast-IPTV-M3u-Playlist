@@ -42,12 +42,18 @@ jobs:
         mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
         rm -rf merged_tmp
 
-        # Split if file > 100 MB with .m3u extension
-        MAXSIZE=100000000
+        MAXSIZE=48000000
         FILESIZE=$(stat -c%s "MERGED_VOD.m3u")
+
         if [ $FILESIZE -ge $MAXSIZE ]; then
-          split -b $MAXSIZE MERGED_VOD.m3u MERGED_VOD_PART_ --additional-suffix=.m3u
+          split -b $MAXSIZE MERGED_VOD.m3u PART_
           rm MERGED_VOD.m3u
+
+          i=1
+          for part in PART_*; do
+            mv "$part" "MERGED_VOD_PART${i}.m3u"
+            i=$((i+1))
+          done
         fi
 
     - name: Commit and push merged playlist
