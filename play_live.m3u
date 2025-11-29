@@ -1,0 +1,1932 @@
+#EXTM3U
+# LIVE Playlist - Clean & Safe
+# Host: play.tecnomolly.com:8080
+# Generated: 2025-11-29 21:53:48
+# Expires: 2026-07-14
+# Family Safe Edition
+# ==============================================
+
+
+# --- ABC /USA (16) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/KSAT_with_2021_ABC_Logo.svg" group-title="ABC /USA",USA | ABC San Diego KGTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67913.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCSFCO.jpg" group-title="ABC /USA",USA | ABC 7 San Francisco (KGO)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67898.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/abcnewyork.jpg" group-title="ABC /USA",USA | ABC 7 New York (WABC)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43011.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCELPASOTX.jpg" group-title="ABC /USA",USA | ABC 7 El Paso Tx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/178241.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCHONOLULU.jpg" group-title="ABC /USA",USA | ABC 4 Honolulu (KITV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67900.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCCOLUMBIA.jpg" group-title="ABC /USA",USA | ABC 25 Columbia (WOLO)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67911.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCATLANTA.jpg" group-title="ABC /USA",USA | ABC 2 Atlanta (WSB)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67908.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCSANANTONIO.jpg" group-title="ABC /USA",USA | ABC 12 San Antonio (KSAT)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31109.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ABCRALEIGH.jpg" group-title="ABC /USA",USA | ABC 11 Raleigh-Durham (WTVD)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67907.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/abcmiami.jpg" group-title="ABC /USA",USA | ABC 10 Miami (WPLG)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43010.m3u8
+#EXTINF:-1 tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="ABC /USA",ABC/ Salt Lake City
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/236623.m3u8
+#EXTINF:-1 tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="ABC /USA",ABC Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/236856.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/abc7losangeles.jpg" group-title="ABC /USA",USA | ABC 7 Los Angeles
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/237542.m3u8
+#EXTINF:-1 tvg-logo="https://weartv.com/resources/assets/wear/images/brand-icons/WEAR-310.png" group-title="ABC /USA",ABC 3 Wear News
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353109.m3u8
+#EXTINF:-1 tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="ABC /USA",ABC WEWS CLEVELAND
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353285.m3u8
+#EXTINF:-1 tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="ABC /USA",ABC KTNV 13
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353291.m3u8
+
+# --- Argentina (15) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/a24.jpg" group-title="Argentina",AR | A24
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67525.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbhz71MG/telefe.jpg" group-title="Argentina",AR | Telefe
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181625.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="Argentina",AR | America Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/210627.m3u8
+#EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/01/b7h20c62f5-tv-publica-en-vivo.jpg" group-title="Argentina",AR | TV Publica
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/210647.m3u8
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/06/la-nacion-ln-en-vivo-las-24-hora.jpg" group-title="Argentina",AR | La Nacion
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/210850.m3u8
+#EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="Argentina",AR | TyC Sport
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/210879.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21beErplVzL.jpg" group-title="Argentina",AR | ESPN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/210881.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1622535890932228097/Uof9oXC-_400x400.jpg" group-title="Argentina",AR | Fox Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/211219.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="Argentina",AR | Fox Sports 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/211220.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FL0X7bDXEAYcy_G.jpg" group-title="Argentina",AR | Fox Sports 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/211227.m3u8
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg" group-title="Argentina",ESPN Premium
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277361.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="Argentina",Paka Paka
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277400.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DOOr0RuuYN8/hqdefault.jpg" group-title="Argentina",AR | ESPN 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/292587.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png" group-title="Argentina",AR | ESPN 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/292588.m3u8
+#EXTINF:-1 tvg-logo="https://media.cdn.eldestapeweb.com/eldestape/122021/1639068588354/El-Trece.jpg?&cw=600&ch=365" group-title="Argentina",ARG | El Trece
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/316825.m3u8
+
+# --- Bolivia (8) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xVpPHf7/reduno.jpg" group-title="Bolivia",BO | Red Uno
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68403.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLw0RdDM/boliviatv.jpg" group-title="Bolivia",BO | Bolivia TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/165174.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/tigosportsbolivia.jpg" group-title="Bolivia",BO | Tigo Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68407.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/bolivision.jpg" group-title="Bolivia",BO | Bolivision
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181967.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/atb_2010.gif?itok=4nJAQ2yR" group-title="Bolivia",BO | ATB
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Bolivia",BO | RTP
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277381.m3u8
+#EXTINF:-1 tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2022/08/abya-yala-tv-300x200.jpg" group-title="Bolivia",BO | Abya Yala TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277513.m3u8
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/2019-06/1560674596_53336733_2332552333696023_6289794582095855616_n.jpg" group-title="Bolivia",BO | FTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277540.m3u8
+
+# --- Canada (13) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Canada",CAN| A&E HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68222.m3u8
+#EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="Canada",CAN| COOKING CHANNEL HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68231.m3u8
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/488471_preview.png" group-title="Canada",CAN| DISNEY JR  HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68233.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/1200px-Globaltoronto.svg.png" group-title="Canada",CAN| GLOBAL TORONTO HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68236.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png" group-title="Canada",CAN| SPORTS NET 360 HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68244.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="Canada",CAN| SPORTS NET ONE HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68246.m3u8
+#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/superecran1.png" group-title="Canada",CAN| SUPER ECRAN 1 HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68251.m3u8
+#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/superecran2.png" group-title="Canada",CAN| SUPER ECRAN 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68252.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1906199.png" group-title="Canada",CAN| TSN 1 HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68258.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png" group-title="Canada",CAN| TSN 3 HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68260.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="Canada",CAN| TSN 4 HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68261.m3u8
+#EXTINF:-1 tvg-logo="https://logo-logos.com/wp-content/uploads/2016/10/CNN_logo_logotype_red.png" group-title="Canada",CNN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344006.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Canada",ca | HBO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344047.m3u8
+
+# --- Chile (15) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfCxtXSG/tvchile.jpg" group-title="Chile",CL | TV Chile
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67557.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN3DKb7N/lared.jpg" group-title="Chile",CL | La Red
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67560.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PjZDzv0/rectv.jpg" group-title="Chile",CL | Rec TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67561.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd7S9Y0g/cdo.jpg" group-title="Chile",CL | CDO Basico
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67562.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMVXGvf/teletrak.jpg" group-title="Chile",CL | Teletrak
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67564.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd7S9Y0g/cdo.jpg" group-title="Chile",CL | CDO Premium
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67567.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKV7jCQ3/mega.jpg" group-title="Chile",CL | Mega
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67568.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/espn.jpg" group-title="Chile",CL | ESPN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67571.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvYhK6pn/tevemas.jpg" group-title="Chile",CL | TV+
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67573.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwtcMz3x/24horas.jpg" group-title="Chile",CL | 24 Horas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67569.m3u8
+#EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/imag/default/default_450x574.png" group-title="Chile",CL | Chilevision
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278234.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMbnpcF/tntsports.jpg" group-title="Chile",Sports-TNT
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322812.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMbnpcF/tntsports.jpg" group-title="Chile",ILE Portes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/335440.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjB4RfCs/cnnchile.jpg" group-title="Chile",CH | CNN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344029.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6SCzSsN/tvn.jpg" group-title="Chile",CH | TVN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344066.m3u8
+
+# --- Cine (42) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/cinermax.jpg" group-title="Cine",Cine-Max
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322780.m3u8
+#EXTINF:-1 tvg-logo="https://images.ecestaticos.com/RUNYl9Fd2GKPukybRBxJ2bbJZRA=/3x1:1000x700/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd65%2F4cc%2Fdce%2Fd654ccdcee47e5f8e8abbdc6b2f1a727.jpg" group-title="Cine",MX | A3 Cine
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/176299.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/cinemexicano.jpg" group-title="Cine",MX | Cine Latino
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154984.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/cinemadinamita.jpg" group-title="Cine",MX | Cinema Dinamita
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/207040.m3u8
+#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/69_es.png" group-title="Cine",Mx | De Pelicula
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175220.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/depelicula.jpg" group-title="Cine",MX | DPelicula Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33469.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/europa-europa.jpg" group-title="Cine",MX | Europa-europa
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223066.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/golden1.jpg" group-title="Cine",MX | Golden
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34164.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/goldenedge.jpg" group-title="Cine",MX | Golden Edge
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31463.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/goldenplus.jpg" group-title="Cine",MX | Golden Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34221.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/goldenpremier.jpg" group-title="Cine",MX | Golden Premier
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34308.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/goldenpremier.jpg" group-title="Cine",MX | Golden Premier 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31587.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbo.jpg" group-title="Cine",Mx | HBO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322820.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbo2.jpg" group-title="Cine",MX | HBO 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34432.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbofamilt.jpg" group-title="Cine",MX | HBO Family
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/39062.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbomundi.jpg" group-title="Cine",MX | HBO Mundi
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31633.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hboplus.jpg" group-title="Cine",MX | HBO Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322821.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbopop.jpg" group-title="Cine",Mx | HBO POP
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322822.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbosignature.jpg" group-title="Cine",MX | HBO Signature
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31108.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hboxtreme.jpg" group-title="Cine",Mx | Hbo Xtm
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322823.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/paramount.jpg" group-title="Cine",MX | Paramount
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31122.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/space.jpg" group-title="Cine",MX | Space
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31123.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/studiouni.jpg" group-title="Cine",MX | Studio Universal
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31124.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/tcm.jpg" group-title="Cine",MX | TCM
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31128.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/universalchann.jpg" group-title="Cine",Mx | Universal Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314047.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/universalcinema.jpg" group-title="Cine",MX | Universal Cinema
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/290135.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/universalcomedy.jpg" group-title="Cine",MX | Universal Comedy
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314046.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/universalcrime.jpg" group-title="Cine",MX | Universal Crime
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/249734.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/universalpremier.png" group-title="Cine",MX | Universal Premier
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/249733.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/universalreality.jpg" group-title="Cine",MX | Universal Reality
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/218508.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/warner.jpg" group-title="Cine",MX | Warner
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32510.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/tnt.jpg" group-title="Cine",TNT Mex
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322828.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCine_NLogo.png" group-title="Cine",ULTRA Cine HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/303744.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasico_NLogo.png" group-title="Cine",ULTRA Clasico HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/303743.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s80149_h15_aa.png" group-title="Cine",ULTRA Familia HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/303706.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="Cine",ULTRA Kidz
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/303712.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png" group-title="Cine",ULTRA Macho HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/303727.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMex_NLogo.png" group-title="Cine",ULTRA Mex HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/303717.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/showtimeextreme.jpg" group-title="Cine",USA | Showtime Extreme Latino
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67302.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/starzcomedy.jpg" group-title="Cine",USA | Starz Comedy
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67313.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/goldenmultoplex.jpg" group-title="Cine",MX | Golden Multiplex
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/368719.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/starzlat.jpg" group-title="Cine",USA | Starz Latino
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67324.m3u8
+
+# --- Cocina (5) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cocina/gourmet.jpg" group-title="Cocina",MX | Gourmet
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34356.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cocina/cookingchan.jpg" group-title="Cocina",USA | Cooking Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36794.m3u8
+#EXTINF:-1 tvg-logo="http://198.255.5.2/picons/travel%20channel.png" group-title="Cocina",USA | Travel Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/156758.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cocina/foodnet.jpg" group-title="Cocina",Food-Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322804.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cocina/foodnet.jpg" group-title="Cocina",US | Food--Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350793.m3u8
+
+# --- Colombia (11) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/telepacifico.jpg" group-title="Colombia",CO | Telepacífico
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67112.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/ntn24.jpg" group-title="Colombia",CO | NTN24
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67084.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/winn.jpg" group-title="Colombia",CO | Win Sports +
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/157062.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg" group-title="Colombia",CO/ RCN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/206554.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/col/canaltrece.jpg" group-title="Colombia",CO | Trece
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223129.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/col/teleantiouia.jpg" group-title="Colombia",CO | Teleantioquia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223139.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/col/telecafe.jpg" group-title="Colombia",CO | Telecafe
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223187.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/col/cablenoticias.jpg" group-title="Colombia",CO | Cablenoticias
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223211.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/caracoltv.jpg" group-title="Colombia",Caracol Internacional
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/321151.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/caracoltv.jpg" group-title="Colombia",CO | Caracol
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/408243.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/winn.jpg" group-title="Colombia",CO | Win Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/475496.m3u8
+
+# --- Costa Rica (7) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MH31v951/tdmas.jpg" group-title="Costa Rica",CR | TD+
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68303.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2QF1Ls7/telered.jpg" group-title="Costa Rica",CR | Telered
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68306.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/teletica7.jpg" group-title="Costa Rica",CR | Teletica
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68310.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/teletica7.jpg" group-title="Costa Rica",CR | Teletica HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68295.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tigosports.jpg" group-title="Costa Rica",CR | Tigo Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181731.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tigosports.jpg" group-title="Costa Rica",CR | Tigo Sports HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68299.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/futv.jpg" group-title="Costa Rica",Futv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/247548.m3u8
+
+# --- Cuba (6) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/megatv.jpg" group-title="Cuba",CU | MegaTV Miami
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/200740.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/cubavision.jpg" group-title="Cuba",CU | Cubavision
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181959.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/telemarti.jpg" group-title="Cuba",CU | Tele Marti
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181960.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cuba/telerebelde.jpg" group-title="Cuba",CU | Tele Rebelde
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181962.m3u8
+#EXTINF:-1 tvg-logo="https://teleyradio.blogia.com/upload/20151105003320-9-logo-acn.jpg" group-title="Cuba",ACN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277379.m3u8
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160616005984/es/530683/4/2597547_CubaMax_TV_LOGO.jpg" group-title="Cuba",Cubamax
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277380.m3u8
+
+# --- Cultura (15) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/animalplanet.jpg" group-title="Cultura",MX | Animal Planet
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32513.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/filarts.jpg" group-title="Cultura",MX | Film & Arts
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/164677.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/history2.jpg" group-title="Cultura",MX | History 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34417.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/nationalgeo.jpg" group-title="Cultura",MX | NatGeo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31116.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/natgeomundo.jpg" group-title="Cultura",USA | NatGeo Mundo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162277.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/discoverytlc.jpg" group-title="Cultura",TLC Mx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318932.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/discoverytheater.jpg" group-title="Cultura",D Theater
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322755.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/disacoveryworld.jpg" group-title="Cultura",D World
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322764.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/discoveryfamilia.jpg" group-title="Cultura",D Familia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322809.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/discoveryscience.jpg" group-title="Cultura",D Science Mx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322813.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/discoveryturbo.jpg" group-title="Cultura",D Turbo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322816.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/discoveryhh.jpg" group-title="Cultura",D H&H
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322817.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cultura/discoverychann.jpg" group-title="Cultura",D Channel Mx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322818.m3u8
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_awwcb830/def_height/2700/def_width/2700/version/100012/type/1" group-title="Cultura",D ID Mx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322819.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/history.jpg" group-title="Cultura",MX | History Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/393587.m3u8
+
+# --- Culture (12) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/history.jpg" group-title="Culture",USA | History
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67826.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/motortrend.jpg" group-title="Culture",USA | Motor Trend
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36749.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/nationalgeo.jpg" group-title="Culture",USA | NatGeo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36734.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/natgeowild.jpg" group-title="Culture",USA | NatGeo Wild
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36735.m3u8
+#EXTINF:-1 tvg-logo=" http://sunset-app.com/picons/Culture/discoverychan.jpg" group-title="Culture",D Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322773.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/investigationdiscovery.jpg" group-title="Culture",D ID
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322779.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/discoveryfamily.jpg" group-title="Culture",D Family
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322786.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/discoverylife.jpg" group-title="Culture",D Life
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322788.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/animalplanet.jpg" group-title="Culture",Animal-Planet
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322789.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/discoveryscience.jpg" group-title="Culture",D Science
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322802.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Culture/discoverytlc.jpg" group-title="Culture",TLC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322832.m3u8
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2016/05/discovery-en-espanol-logo.jpg" group-title="Culture",D-Espanol
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350792.m3u8
+
+# --- DAZN (7) ---
+#EXTINF:-1 tvg-logo="https://monkeysbrother.co.uk/wp-content/uploads/2021/08/DAZN-Logo.jpg" group-title="DAZN",DAZN 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278229.m3u8
+#EXTINF:-1 tvg-logo="https://monkeysbrother.co.uk/wp-content/uploads/2021/08/DAZN-Logo.jpg" group-title="DAZN",DAZN 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278233.m3u8
+#EXTINF:-1 tvg-logo="https://monkeysbrother.co.uk/wp-content/uploads/2021/08/DAZN-Logo.jpg" group-title="DAZN",DAZN 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278238.m3u8
+#EXTINF:-1 tvg-logo="https://monkeysbrother.co.uk/wp-content/uploads/2021/08/DAZN-Logo.jpg" group-title="DAZN",DAZN 4
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278239.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2022/07/dazn-laliga.jpg" group-title="DAZN",DAZN La Liga
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278284.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2022/07/dazn-laliga.jpg" group-title="DAZN",DAZN La Liga 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278285.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN",DAZN F1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278286.m3u8
+
+# --- Deportes (33) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/futv.jpg" group-title="Deportes",MX | FUTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181977.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tycsports.jpg" group-title="Deportes",USA | TyC Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162289.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/aymsports.jpg" group-title="Deportes",MX | Aym Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31143.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/adrenalinatv.jpg" group-title="Deportes",MX | Adrenalina TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31126.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tigosports.jpg" group-title="Deportes",CR | Tigo Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181978.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/clarosports.jpg" group-title="Deportes",MX | Claro Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31317.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/espn.jpg" group-title="Deportes",MX | ESPN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/37182.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS7FpdmD/espn2.jpg" group-title="Deportes",MX | ESPN 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33740.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxR5z8N3/espn3.jpg" group-title="Deportes",MX | ESPN 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33789.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/espn4.jpg" group-title="Deportes",MX | ESPN 4
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33507.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66zxzq08/foxsports.jpg" group-title="Deportes",MX | Fox Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34063.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHBFKyq3/foxsports2.jpg" group-title="Deportes",MX | Fox Sports 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34064.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28KRRtgm/foxsports3.jpg" group-title="Deportes",MX | Fox Sports 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34100.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYpHDY4/foxdeportes.jpg" group-title="Deportes",USA | Fox Deportes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148823.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tdn.jpg" group-title="Deportes",MX | TUDN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31129.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tvcdeportes.jpg" group-title="Deportes",MX | TVC Deportes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32483.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tigosports.jpg" group-title="Deportes",PY | Tigo Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68415.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/beinsp.jpg" group-title="Deportes",USA | beIN Sports Ñ
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36879.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/tudn.jpg" group-title="Deportes",USA | TDN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148828.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/foxsportsPremium.jpg" group-title="Deportes",MX | Fox Sports Premium
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/206988.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/zonatudn.jpg" group-title="Deportes",MX | Zona TUDN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/222791.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/nbatv.jpg" group-title="Deportes",MX | NBA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223876.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/pxsports.jpg" group-title="Deportes",MX | PX Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/228600.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/daznF1.jpg" group-title="Deportes",USA | F1 DAZN Esp
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/260357.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/LAS.jpg" group-title="Deportes",MX | LAS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/280674.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/aztecadeportes.jpg" group-title="Deportes",MX | Azteca Deportes Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/323111.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMbnpcF/tntsports.jpg" group-title="Deportes",USA | TNT Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/368497.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/golfchann.jpg" group-title="Deportes",USA | Golf Channel Esp
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/255701.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/hisports.jpg" group-title="Deportes",MX | Hi Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/409369.m3u8
+#EXTINF:-1 tvg-logo="https://drivestudio.com/wp-content/uploads/2014/10/FUEL_03_logo_rollover.png" group-title="Deportes",Mx | Fuel Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436022.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/titan.jpg" group-title="Deportes",Mx | Titan TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446277.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/itvdeportes.jpg" group-title="Deportes",Mx | ITV Deportes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446278.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/espndeportes.jpg" group-title="Deportes",Epn Dptes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/498347.m3u8
+
+# --- Directv Sports (1) ---
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="Directv Sports",DTV Fight
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344748.m3u8
+
+# --- Ecuador (10) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5gj7bjy/ecuadortv.jpg" group-title="Ecuador",EC | Ecuador TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67615.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/439PjDF2/ecuavisa.jpg" group-title="Ecuador",EC | Ecuavisa
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67613.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/439PjDF2/ecuavisa.jpg" group-title="Ecuador",EC | Ecuavisa Internacional
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67622.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ36hx9v/gamavision.jpg" group-title="Ecuador",EC | Gamavision
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67612.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn3qzb8b/goltv.jpg" group-title="Ecuador",EC | GolTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67611.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjR5rytQ/tctelevision.jpg" group-title="Ecuador",EC | TC Televisión
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67624.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxNwBQq/teleamazonas.jpg" group-title="Ecuador",EC | Teleamazonas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67610.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ynSwb6y/rts.jpg" group-title="Ecuador",EC | RTS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67616.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15vvFcqB/tvc.jpg" group-title="Ecuador",EC | TVC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67620.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCscgr1P/oromartv.jpg" group-title="Ecuador",EC | OromarTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67623.m3u8
+
+# --- El Salvador (3) ---
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="El Salvador",SV | Wow Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/236605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",SV | Tigo Sport
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/247387.m3u8
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/2019-06/1560971443_taber-tv-canal-17.jpg" group-title="El Salvador",Taber Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277547.m3u8
+
+# --- Entertainment (42) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/traveltv.jpg" group-title="Entertainment",USA | Travel Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36814.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/comedycentral.jpg" group-title="Entertainment",USA | Comedy Central
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36771.m3u8
+#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" group-title="Entertainment",USA | FXX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36774.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/tvland.jpg" group-title="Entertainment",USA | TV Land
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36790.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/owntv.jpg" group-title="Entertainment",USA | OWN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36791.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/syfy.jpg" group-title="Entertainment",USA | SyFy
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36795.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/destinationamerica.jpg" group-title="Entertainment",USA | Destination America
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36796.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/ifgc.jpg" group-title="Entertainment",USA | IFC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36797.m3u8
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/317277/we-tv-squarelogo-1429797307757.png" group-title="Entertainment",USA | WE TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36798.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/poptv.jpg" group-title="Entertainment",USA | POP
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36813.m3u8
+#EXTINF:-1 tvg-logo="https://apprecs.org/ios/images/app-icons/256/be/1075922366.jpg" group-title="Entertainment",USA | Viceland
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36816.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/fuse.jpg" group-title="Entertainment",USA | Fuse
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36818.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/eentertainment.jpg" group-title="Entertainment",USA | E! Entertainment
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36820.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/fyi.jpg" group-title="Entertainment",USA | FYI
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36821.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/americanheroes.jpg" group-title="Entertainment",USA | American Heroes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36825.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/a&e.jpg" group-title="Entertainment",USA | A&E
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36826.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/outsidetv.jpg" group-title="Entertainment",USA | Outside TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36913.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/gameshow.jpg" group-title="Entertainment",USA | Game Show
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43026.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/usanetwork.jpg" group-title="Entertainment",USA | USA Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43015.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/magnolianetwork/heroes/featured-offer-tile_1920x1080._UR1920,1080_SX1440_FMjpg_.jpg" group-title="Entertainment",USA | Magnolia Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67763.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1200px-Bravo_TV.svg.png" group-title="Entertainment",USA | Bravo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67784.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/amc.jpg" group-title="Entertainment",USA | AMC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148821.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/cmt.jpg" group-title="Entertainment",USA | CMT
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148822.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/lifetime.jpg" group-title="Entertainment",USA | Lifetime
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148826.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/sundancetv.jpg" group-title="Entertainment",USA | Sundance
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148827.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/oxygen.jpg" group-title="Entertainment",USA | Oxygen
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154928.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/freeform.jpg" group-title="Entertainment",USA | Freeform
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154907.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/axstv.jpg" group-title="Entertainment",USA | AxsTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/155919.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/betnetwork.jpg" group-title="Entertainment",USA | BET
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162313.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/comedytv.jpg" group-title="Entertainment",USA | Comedy TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162329.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/ovation.jpg" group-title="Entertainment",USA | Ovation
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162397.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/cozi.jpg" group-title="Entertainment",USA | COZI
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/169101.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fa/21/1f/fa211f021ac394bf91fdc5087ad6ed70.png" group-title="Entertainment",USA | FXM
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154990.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/hgtv.jpg" group-title="Entertainment",HGTV USA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318923.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/trutv.jpg" group-title="Entertainment",Tru Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322830.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/tbs.jpg" group-title="Entertainment",TBS US
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322834.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/hln.jpg" group-title="Entertainment",HLN Us
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322835.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/sony.jpg" group-title="Entertainment",USA | Sony
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67308.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/uptv.jpg" group-title="Entertainment",USA | UP TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162437.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/tntseries.jpg" group-title="Entertainment",TNT Series
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322827.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bet-her-logo.png" group-title="Entertainment",Bet Her
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353089.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/200px-MeTV_Logo.svg.png" group-title="Entertainment",MeTv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/392379.m3u8
+
+# --- Entretenimiento (30) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/hgtv.jpg" group-title="Entretenimiento",HGTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322803.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/aye.jpg" group-title="Entretenimiento",MX | A&E
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31137.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/a3series.jpg" group-title="Entretenimiento",MX | A3 Series
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/39061.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/amc.jpg" group-title="Entretenimiento",MX | AMC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31133.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/antena3internacional.jpg" group-title="Entretenimiento",MX | Antena 3 Internacional
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/193515.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/axn.jpg" group-title="Entretenimiento",MX | AXN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32662.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/bitme.jpg" group-title="Entretenimiento",MX | bitMe
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31148.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/comedycentral.jpg" group-title="Entretenimiento",MX | Comedy Central
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31318.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/distritocom.jpg" group-title="Entretenimiento",MX | Distrito Comedia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33420.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/eEntertainment.jpg" group-title="Entretenimiento",MX | E Entertainment
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33506.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/fx.jpg" group-title="Entretenimiento",MX | FX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34101.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/holatv.jpg" group-title="Entretenimiento",MX | Hola Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/184958.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/lifetime.jpg" group-title="Entretenimiento",MX | LifeTime
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31115.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/maschic.jpg" group-title="Entretenimiento",MX | Mas Chic
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31727.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/sony.jpg" group-title="Entretenimiento",MX | Sony
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32339.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/starChannel.jpg" group-title="Entretenimiento",MX | Star Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33980.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/usanetwork.jpg" group-title="Entretenimiento",MX | Usa Network Latino
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31125.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telefe.jpg" group-title="Entretenimiento",MX | Telefe
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/193517.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/tlnovelas.jpg" group-title="Entretenimiento",MX | TL novelas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31132.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/unicable.jpg" group-title="Entretenimiento",MX | Unicable
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31138.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/tnt.novelas.jpg" group-title="Entretenimiento",TNT-NVELAS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344065.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/americateve.jpg" group-title="Entretenimiento",USA | America Teve
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/133326.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/estrellatv.jpg" group-title="Entretenimiento",USA | Estrella TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/183979.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/pasiones.jpg" group-title="Entretenimiento",USA | Pasiones
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162280.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/universo.jpg" group-title="Entretenimiento",USA | Universo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154944.m3u8
+#EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" group-title="Entretenimiento",Mx | DHE
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Entretenimiento",Mx | Star Tve
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436023.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/torole.jpg" group-title="Entretenimiento",Mx | Torole
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446279.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/showbusiness.jpg" group-title="Entretenimiento",Mx | Showbusiness
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446280.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/pasiones.jpg" group-title="Entretenimiento",Mx | Pasiones
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446282.m3u8
+
+# --- España (16) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/a3series.jpg" group-title="España",ES | A3 Series
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181388.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/antena3.jpg" group-title="España",ES | Antena 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181380.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/barcatv.jpg" group-title="España",ES | Barca TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181404.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/cazaypezca.jpg" group-title="España",ES | Caza y Pezca
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181410.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/cuatro.jpg" group-title="España",ES | Cuatro
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181381.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/la1.jpg" group-title="España",ES | La 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181378.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/la2.jpg" group-title="España",ES | La 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181379.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/telecinco.jpg" group-title="España",ES | Telecinco
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181382.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/telemadrid.jpg" group-title="España",ES | Telemadrid
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181426.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgxsxhZM/dramamovistar.jpg" group-title="España",ES | Movistar Drama
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181394.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Espana/toros.jpg" group-title="España",ES | Toros
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181669.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAADACAMAAADcM01UAAAAyVBMVEUrKin////kwDgtLSwwLy7z8/P9/PzivjgtLCn5+fk0MzKXl5Y3NzY6OTjLysr29vY6Nipzc3JAPz6kpKTs7OxfXl3a2to0MSrf39/l5eVIR0bQsDa/v75NTEtXVlWrq6rVtDd6eXmzs7NRSSx/fn6OjY2bhTI/OivHqDaRkZBTUlFsa2rQ0NCcnJufiDKPezF8azBIQiuEcjBvYS9cUS2rkjNkWC6+oTWKdzFpXS5ORiyzmTR2Zy/gwEpHRDxXTS1WVEtpZl15dm4PJJvlAAAOLElEQVR4nOWdaWOquhaGd7cT4lSlgiMqVbTOtmqt7Tm99/7/H3UlAWRYwRAmS98v53TbluQhWXkDK6t/Hn65/uj/7WT5cqXSaHT6/bksy83mYlGvj8bjyeSlVFoJwkBRer1etbpciqLYarfbT0+5XK2Yzyfa+hBkAJj/YVAmy/MXbo0LNwzOxm2FuSFwGreWzq1WuydwBoAFCwA2IWyIW+fCDWGzcHspmdyqVROcNt4uAy4CcAaASXwA2JTJXriVjeE2N7mNrPP0OlGX14may9EAEJLuYETShlt2QAGgl3RLo9SEAoCYdCOjVJ0CQC6TdCsjVJMCwEMj6VZGqA4NADnpVkYo3mMdMAHUk25llGpRALh7IxBEVQoAg6QbGaU8jIAJoJp0I6PUCwWAVtKNjFIjCgC5bNKtjFAeRsAE8FuNwBVAmo1AmWwErgB+qRG4AnhJupFRimwErgBSbQQUCgCpNgIlCgDtpBsZpUYUAGp80q2MUGQjcAXw0Em6lRGKbAQsAJpJtzJClWsUAEZJtzJKtSkAlJJuZJRaUgBQkm5klCIaAQuAZdKNjFJEI2ABkGojMKYAUPyVRsACINVGoE8DIM1GoEIyAlYA46RbGaEyJCNgBbBKupVRimQErABS/YqcZASsAFL9inxFAeAp6UZGKZIRsALIl5NuZYRaUAB46CfdyghFMgI2AL/RCNgA/EYjYAMQdq4c97j7Pm5PG1XdbLbH/XnKhXwBPyIYARuAMI0AJ+0+Nof37vCvrkJ39rl5O0tJQehRAAjPCEjn7WFW+OtSoXvYnqXQLuNHBCNgA/AUUq6ctFffgd7rDGbr42M41/ElghGwAchXwrjSpftdYveRhutj/KOAYARsAMIwAtxu073e7UL387A5bTYbdf05G16xDNXvuGPBnAZA8KT5xy9z8A9n6+1xN5U4TZL0uNt/rd/NmDh7nYbQKx9qFCkABM2V485ro4fd9dfOdZO56YdqxMbCId5BkH2iABDQCEgf70ag2zwT1jvp/GqMkdlHrJEANgJ2AMFekUtf+uzvbp49bi63e53p3/caJwHYCNgBBMqVk7a4/4X1/ka/uGcVz5TC5jG+aSBQAAiSNC+9DvXbSrHKS18znUB8oRA+NmEHECBXTu9/4X1PdU+5/aGACcQ2C2Aj4ADAdHpOE/eG+394pv2B3RoTiC0OyDQAmI3Afob77176iJqqiED3LaYwABsBBwBWI7D7RFP64GtGP24Qgdk340V9CjYCDgCMuXIS7sph5+/HpngW+MPGLpECAJsR0APAO+38N7U74DAQzyQAjYADANsr8h0ygN2j735w37MYJwFoBBwAmJLmuZM2kgsnhvvIfaGxo8ayEoBGwAGAyQg8z9hnsrRmHDwMAo2AEwBD0jyOgN0jW6t0enE8IwKNgBMAQ9L8eRZkFOP5M9yz/bQvNaCz904A/pPmuVc0AJjjGI6gcThiHjICTgD+c+Wm78HCGAY4O7P+vA9BRsAJwH+u3FGL490AQ/is7aIL2xjCIGQEnABgI5ABpH/EqdoA+AwwgvFCcLj+Btc1nK0pdzqNLPBhhu/M+zz0CRZkBJwA4KT5ieBWHV9n+onun58eO4V85HUONFfCAF1hVZosOs72ZPsjYdlqt6rCuGPraaZRF6qXD5ZVZdKEn+9DRsAJAM6Vg14sKrhpe20Ad32bYKtQGCy8GR2xJnXWRGFu62anJBqbutpyYulnZtG7Hg176o0hBFAhBRcA8BW5B4AtmgGBtjN4Dmw4AMDDQ365uBLIyD3rnrammLcrU7dHuBy0sYeMgAsAmDQPnTrDAHAICLiIfRUsYSTjTOsVr+Zs7jj9lTcJzB3PfFuQo+sARsAFAEyaJ48ASQsBwzfoh+iFFpLZjgDgYWDEgYbi7EFe0D+b6J8Ua3iIrKBICBVScAEAjYDQQ0Ic8iL+Yowu8e8skAvC2nWtvwQByFdfSiWlhbrVMt7YTXDn8q2eUm3jHutDvYJXuPZgPJooy9pDC362B4xkFwDQCJQr5XKlUkHLSG6s/W+lgveN/+labh6rJC0KDo3NBDrrXtSyVfgFGtg1PS418ATIreQK32gqOOdFQZldHRwBBO0LvjPqTeClEDg/6QLglSuH7k3Otl347z/ak5CAj3Q47blI4csFwJgOeurOAnW5WMLJbJ0BGgNtNNk7OASIk2YHMSDs6oFCCi4AXknzJABBbJAmbm31EhYAPGpxHgPQaSyNuCe3rt+oD46HYlvsrcYyqQ+AEXAB8EqaBwD8TwOwDmhj8VLyqn+FAbz0+x35BW1f9HnO42xXM6M5q3+tjfasxeTli+2BDE8BwAi4AXjkykUGYOMC8NDW6hbWrPecR4GueL38C5oDAhrusm2hyosLkABwbMINwCNXLjIAJysA5zJYe8EjWgdwNSolC4DMSLQtkSJ4H4Hzk24AHknz0Y4APQY4fUBe0R/T4SmQN41KBoe0Er7X2abQtrpE8AE/YATcADxy5UgADmHEgAIM4EkwXID+QdU0f2jpy5sjlu+PVj1R9weEfb3bCLgBeOTKEZfBgE/08DL4ZutnsYZ6UrNseOro/pkzQrAsg5d1oKn9M99pjrElgPf1biPgBuBhBAAA4RihT4sRwgDyqyaa8uYE+GMu9k+lOZ/h5wKOkD0MKLtqC82KNhvw0kkA4DYCbgAeSfMAgPCtMAZwWd4XbesN1zqpW+GiqAiKHvOM1jSftE1wabSol/Awh99xuSsquQF45MoBAELZDO3dm6ELAL6E+vtUN1e0hmsE5wf4dlWwJ8jXcjkMJg/H8hENAPIr8pUbgL4dDhYFge2wZvD6uL+W7XDTsenN9/S7NXaG9yX8gsNtBAAAZCMAAcAPRAJFQeiBiAYgU8fPsa9hINOsWlf7oqJv+jITB4A2bIQAIwAAIOfKAVMAD98wH4lhw453g9jg1krX3vQF0/IVxZJp2yt1pX1FU6sS+g9UVAIAkI1AvXpRz+6x0GuBUB+KyoomdJW5ol2xOrBs7nh5UtUqBovKZG7d85XlibJsa1oK9QbxwbDr0Q4AgGwEMllN9l+OXdwhyGNxFEbWzsfilis6NreVzlyeux4XX7650pdluV/xSnVzhVEAgM/Tcx9BX4zsZoHHEL1c5ycBAA/+kubxHAjwagy9HQ3qpWjleuAIAfCXK4e3cuzv9vDL0aD7KVqNaAD4zJXDb/hVxh7gd6NDxuwC33IZAQiAz1w5PUGCMQqc40uQ0OQ6PwkB8Js0/91lT5F5VIOkl/iXq6ISBMDv6Tm8EjIlu3E4w16N7xSV0whAAHwnzQdNkwu6m/Qj57EJCIDvpHk9UfLTtyGexpooieQ0AhAA/7ly2Mz99ZMqrQkHgNhSZZGcRgAE4D9X7owmQWHtqytSvMnSWM7zkyAA/7lynJ4ur/owdHqyeGzp8lhOIwACYEial3DOa2FNTUA/LlA4xXuI1GkEQAAsSfPGkZlPyiMz38aRmZjPETsLKYAAmJLmjUNTM6pDU2/4hGFBjfn8qKuQAgiA7fSc9IqPzQ3X37eOzZ2NY3Nq/DUVlhQAamyV5o2zcH9nJ6/1kJtu9QOmw1MC5+gVCgCsp+eMgf238H4inR3ldlvz6OxbEqUUVjQAWCvNc89r42j0TP1wD29uetyYh6cpw2XYGtMAYK80/7g1K2cM39df39NH7fj8H+38/PT7Tb0en++eYnoG5NSCBkCASvPmuWB0l4ezz7V6etUqyRzerQUU1rEXUDDUpwEQqNK8dFxfEYAaHj6SqCKCVSlSAAhYaV7ar6ESMkZ0SKaIiiGHEYABBC0wy0nP20+okkpheHh9TqaMjqklBYAQCsxyj89vG2vhFC0eqNt9jAUDCOpRAAipwKw0fT5+bdS1qqqb0/b4PE343mOtaACkua7cmAZAmivNL2gApLnS/JwGQJorzdsLKRAApLnSvL2QAgFAqivNixQA8mmuNN+jAJDqSvMCDYA0G4EJDYA0F5hd0ABIc6X5OQ2ANFeatxVSIAFIc6V5mxEgAUh1pXmRAkCqK833KACkutK8QAPgtxgBIoDfYgSIAMKuNH9PkmkA/BYjQASQZiNgrahEBBBWpfm7lEgBwGfS/M9SjwZAmo3AgAZA8Erz96sJDYCglebvWXUaAL/ECJABpPmPsVsqKpEBBKo0f+eyFFIgAwhSaf7u1aIAEKDS/P2rSgOAudL8D5BAAyCtRoDvG0UWbgBInxHINJoTRbQfIPcAEChX7t7Ez+ur6hNNPcGrUmIE8G0n/d1lLwA//xV5WR4JVfjvK9EAYKo0fyfKdhYvvRb8x7WoAfxQI1CRx4MlUDuTAQBr0nxS4vuLUq8NVVBnBMCeNB+7Gs2xc30LAUCApPn4dLE1q6rf204J4N5z5bzXtxAA3G+uXHk+EpY31rcQANyjEchQr28hAIArzScmtL6Fc9spAdxNrtzF1vhf38IAcAevyCvN8YBtfQsDQKJJ82h9g/ZvMQJIKmk+lPUtDADxG4HLtv3m/i1ceQKI1Qhcbnuo6xulPAHEZATK/vZv4coTQAin57yViXB9o5QngCiNgHbbI13fKOUNIBIjcLE1l/1bTP27KW8AYefKaetbK6b1jVLeAMJLmr/YmpjXN0p5AwglV05b39rxr2+U8gYQ0Ajw2rb9DgKdl7wBsCfNNy7b9mTXN0p5A2BJmi/P72N9o5Q3AH+5cpqtuctA56UbAGhfkVfksSLebaDz0g0At41AFm3b42lsFLoBwDNXDtmanxDovHQDAMEIaLbm3tc3St0A4E6abzR/yPpGqRsArEaAv5P9W7i6AQAnzeNteyztiV23ADTnP3V9o9QtAKnX/wEZMjaooJLaUQAAAABJRU5ErkJggg==" group-title="España",Toros
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278275.m3u8
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="España",MundoToro
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/323697.m3u8
+#EXTINF:-1 tvg-logo="https://vidabytes.com/wp-content/uploads/2021/05/ver-eurosport-online-12.jpg" group-title="España",Euro Sport
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314680.m3u8
+#EXTINF:-1 tvg-logo="https://vidabytes.com/wp-content/uploads/2021/05/ver-eurosport-online-12.jpg" group-title="España",Euro Sport 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314679.m3u8
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/02/23/7mo89qowAA7idlhmg2AmC.jpg" group-title="España",FDF
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/460073.m3u8
+
+# --- Galavisiones (23) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/despiertaamerica.jpg" group-title="Galavisiones",LO MEJOR DE DESPIERTA AMERICA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175225.m3u8
+#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="Galavisiones",NOVELAS IN 5 MINUTES
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175227.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/ALBUQUERQUE.jpg" group-title="Galavisiones",GALAVISION ALBUQUERQUE SANTA FE
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175275.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/ATLANTA.jpg" group-title="Galavisiones",GALAVISION ATLANTA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175276.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/AUSTIN.jpg" group-title="Galavisiones",GALAVISION AUSTIN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175277.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/CLEVELAND.jpg" group-title="Galavisiones",GALAVISION CLEVELAND
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175279.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/DALLAS.jpg" group-title="Galavisiones",GALAVISION DALLAS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175280.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/EAST.jpg" group-title="Galavisiones",GALAVISION EAST
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175281.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/FRESNO.jpg" group-title="Galavisiones",GALAVISION FRESNO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175282.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/HOUSTON.jpg" group-title="Galavisiones",GALAVISION HOUSTON
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175283.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/LOSANGELES.jpg" group-title="Galavisiones",GALAVISION LA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175284.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/lasvegas.jpg" group-title="Galavisiones",GALAVISION LAS VEGAS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175285.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/MIAMI.jpg" group-title="Galavisiones",GALAVISION MIAMI
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175286.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/NEWYORK.jpg" group-title="Galavisiones",GALAVISION NY
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175287.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/PHILADELPHIA.jpg" group-title="Galavisiones",GALAVISION PHILADELPHIA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175288.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/PHOENIX.jpg" group-title="Galavisiones",GALAVISION PHOENIX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175289.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/RALEIGH.jpg" group-title="Galavisiones",GALAVISION RALEIGH
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175290.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/SACRAMENTO.jpg" group-title="Galavisiones",GALAVISION SACRAMENTO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175291.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/SALTLAKE.jpg" group-title="Galavisiones",GALAVISION SALT LAKE
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175292.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/SANANTONIO.jpg" group-title="Galavisiones",GALAVISION SAN ANTONIO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175293.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/SANFRANCISCO.jpg" group-title="Galavisiones",GALAVISION SAN FRANCISCO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175294.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/WEST.jpg" group-title="Galavisiones",GALAVISION WEST
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175295.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/GALAVISIONES/INTERNACIONAL.jpg" group-title="Galavisiones",USA | Galavision Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36808.m3u8
+
+# --- Guatemala (2) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s290s02r/guatevision.jpg" group-title="Guatemala",GT | Guatevisión
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68326.m3u8
+#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2023/02/dplnews_tigo-sport_dn210223.jpg" group-title="Guatemala",Tygo Sport
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/277773.m3u8
+
+# --- Honduras (9) ---
+#EXTINF:-1 tvg-logo="https://www.teleprogreso.tv/wp-content/uploads/2019/09/logo-teleprogreso-header.jpg" group-title="Honduras",HN | Teleprogreso
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/212225.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima8013152098.jpg" group-title="Honduras",HN | Une Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/212315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Honduras",HN | Telemetro
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/247375.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cg3MppLUt9g/maxresdefault.jpg" group-title="Honduras",HN | Azteca Honduras
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278057.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" group-title="Honduras",HN | HCH
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279478.m3u8
+#EXTINF:-1 tvg-logo="http://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Honduras",HN | Tigo Sport
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/283624.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Honduras",HN | Telecadena
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/291769.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610662494690738178/NVQ1Av0K_400x400.jpg" group-title="Honduras",HN | TSI
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/291770.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000190433008-gct8gy-t240x240.jpg" group-title="Honduras",HON| TVC Deportes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/397000.m3u8
+
+# --- ITALY (6) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png" group-title="ITALY",ita | Rai 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/307322.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY",ita | Rai 4
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/307324.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nzj9EWozycVw96ddExq6aggIZKNBZJjM6EY0SRhbKvi8CO9GNQEbYhecvQ-SXNfCqwE&usqp=CAU" group-title="ITALY",ita | Rai Premium
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/307326.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",RAI 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344730.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="ITALY",RSI LA 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344732.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="ITALY",RSi LA 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344735.m3u8
+
+# --- Infantiles (16) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/babytv.jpg" group-title="Infantiles",MX | Baby TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32665.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/disneychann.jpg" group-title="Infantiles",MX | Disney Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33344.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/disneyjr.jpg" group-title="Infantiles",MX | Disney JR
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33369.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/nicktv.jpg" group-title="Infantiles",MX | Nick
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31119.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/zoomoo.jpg" group-title="Infantiles",MX | Zoomoo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/209390.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-1988-2009.png" group-title="Infantiles",MX | Nick Jr
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/284839.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/dreamworks.jpg" group-title="Infantiles",MX | DreamWorks
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/292589.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/cartoonnetwork.jpg" group-title="Infantiles",MX | Cartoon Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322824.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4BNV7sB/cartoonito.jpg" group-title="Infantiles",MX | Cartoonito
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322826.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/tooncast.jpg" group-title="Infantiles",MX | Tooncast
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322831.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/discoverykids.jpg" group-title="Infantiles",MX | D Kids
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/323289.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/nickelodeon.jpg" group-title="Infantiles",MX | Nickelodeon
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/393903.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/babyfirst.jpg" group-title="Infantiles",MX | Baby First
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436024.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/ducktv.jpg" group-title="Infantiles",MX | Duck tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446273.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/plimplim.jpg" group-title="Infantiles",MX | Plim Plim
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446274.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kids/kidoo.jpg" group-title="Infantiles",MX | Kidoo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446275.m3u8
+
+# --- Internacionales (4) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/canalrcn.jpg" group-title="Internacionales",RCN HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181558.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sudamerica/telecafe.jpg" group-title="Internacionales",Telecafe
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181563.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Rep.dom/telesistema.jpg" group-title="Internacionales",Telesistema
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181626.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Rep.dom/telemicro.jpg" group-title="Internacionales",Telemicro
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181627.m3u8
+
+# --- Kids (11) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/disneyjr.jpg" group-title="Kids",USA | Disney Junior
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36741.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/disneychannel.jpg" group-title="Kids",USA | Disney Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162335.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/nickelodeon.jpg" group-title="Kids",USA | Nickelodeon
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36745.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/nicktoons.jpg" group-title="Kids",USA | Nicktoons
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36743.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/pbskids.jpg" group-title="Kids",USA | PBS Kids
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43025.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/starzkids.jpg" group-title="Kids",USA | Starz Kids & Family
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162421.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/disneyxd.jpg" group-title="Kids",USA | Disney XD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154902.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-1988-2009.png" group-title="Kids",USA | Nick Jr
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/321961.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/boomerang.jpg" group-title="Kids",USA | Boomerang
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322787.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/cartoon.jpg" group-title="Kids",USA | Cartoon Net
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322825.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/babyfirst.jpg" group-title="Kids",USA | Baby First
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162310.m3u8
+
+# --- La Granja (3) ---
+#EXTINF:-1 tvg-logo="https://www.excelsior.com.mx/media/inside-the-note/pictures/2025/10/09/la_granja_vip_3.jpg" group-title="La Granja",20:00 La Granja
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/499611.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/b8ac5809-d527-4ab1-8b12-42a21c9ed6de/compose?format=webp&label=standard_art_178&width=800" group-title="La Granja",24/7 Acceso Total 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/499626.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4e789df2-0b07-46ce-93b5-fad1743ebb85/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals&.jpeg" group-title="La Granja",24/7 Acceso Total 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/499842.m3u8
+
+# --- Liga Arco 29/11/2025 (5) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 29/11/2025",19:00 Charros vs Jaguares
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509199.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 29/11/2025",19:00 Tomateros vs Venados
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509200.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 29/11/2025",19:10 Tucson vs Yaquis
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509201.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 29/11/2025",19:00 Caneros vs Naranjeros
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509202.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/ligaarco.jpg" group-title="Liga Arco 29/11/2025",20:00 Algodoneros vs Aguilas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509203.m3u8
+
+# --- Live Soccer Sabado (30) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Sabado",07:00 Mallorca vs Osasuna
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509213.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Sabado",08:00 Genoa vs Hellas Verona
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509217.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Sabado",08:00 Parma vs Udinese
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509218.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Sabado",08:30 Bayern Munich vs St Pauli
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509312.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Sabado",08:30 Hoffenheim vs Augsburg
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509309.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Sabado",08:30 Union Berlin vs Heidenheim
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509310.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Sabado",08:30 Werder Bremen vs Koln
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509311.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/arabiasauditaSLP.jpg" group-title="Live Soccer Sabado",08:40 Al Hilal vs Al Fateh
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509318.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Sabado",09:00 Brentford vs Burnley
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509208.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Sabado",09:00 Manchester City vs Leeds United
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509209.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Sabado",09:00 Sunderland vs Bournemouth
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509210.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Sabado",09:15 Barcelona vs Alaves
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509214.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Sabado",10:00 Monaco vs PSG
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509314.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Sabado",11:00 Juventus vs Cagliari
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509219.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/bundesliga.jpg" group-title="Live Soccer Sabado",11:30 Bayer Leverkusen vs Borussia Dortmund
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509313.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Sabado",11:30 Everton vs Newcastle United
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509211.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Sabado",11:30 Levante vs Athletic Club
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509215.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Sabado",12:00 Paris vs Auxerre
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509315.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Sabado",13:45 Milan vs Lazio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509220.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Sabado",14:00 Atletico Madrid vs Real Oviedo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509216.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Sabado",14:00 Tottenham vs Fulham
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509212.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligue1.jpg" group-title="Live Soccer Sabado",14:05 Marseille vs Toulouse
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509316.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/libertadores.jpg" group-title="Live Soccer Sabado",15:00 Palmeiras vs Flamengo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509317.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligamx.jpg" group-title="Live Soccer Sabado",17:00 America vs Monterrey
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509204.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mlsss.jpg" group-title="Live Soccer Sabado",17:00 Inter Miami vs New York City
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509320.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/superligaarg.jpg" group-title="Live Soccer Sabado",18:30 Central Cordoba vs Estudiantes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509319.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ligaexpansion.jpg" group-title="Live Soccer Sabado",19:00 Irapuato vs Tampico Madero
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509207.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligamx.jpg" group-title="Live Soccer Sabado",19:05 Toluca vs Juarez
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509205.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mlsss.jpg" group-title="Live Soccer Sabado",20:00 San Diego vs Vancouver Whitecaps
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509321.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligamx.jpg" group-title="Live Soccer Sabado",21:10 Tijuana vs Tigres
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509206.m3u8
+
+# --- Movies (47) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/fxmoviechann.jpg" group-title="Movies",USA | FX Movie Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148824.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hallmark.jpg" group-title="Movies",USA | Hallmark
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148825.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.blog.bendbroadband.com/wp-content/uploads/sites/3/2016/07/HMM_logo_black.jpg" group-title="Movies",USA | Hallmark Movies & Mysteries
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154968.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/paramount.jpg" group-title="Movies",USA | Paramount
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36773.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimetv.jpg" group-title="Movies",USA | Showtime
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154952.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtime2.jpg" group-title="Movies",USA | Showtime 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154954.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimebet.jpg" group-title="Movies",USA | Showtime BET
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162542.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimeextreme.jpg" group-title="Movies",USA | Showtime Extreme
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36930.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimefamily.jpg" group-title="Movies",USA | Showtime Family Zone
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36831.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimenext.jpg" group-title="Movies",USA | Showtime Next
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36932.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimewest.jpg" group-title="Movies",USA | Showtime West
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154953.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/showtimewomen.jpg" group-title="Movies",USA | Showtime Women
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154959.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzcinema.jpg" group-title="Movies",USA | Starz Cinema
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36844.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencore.jpg" group-title="Movies",USA | Starz Encore
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36929.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencoreaction.jpg" group-title="Movies",USA | Starz Encore Action
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154962.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencoreblack.jpg" group-title="Movies",USA | Starz Encore Black
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154963.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencoreclassic.jpg" group-title="Movies",USA | Starz Encore Classic
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36836.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencorefamily.jpg" group-title="Movies",USA | Starz Encore Family
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154973.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencoresuspense.jpg" group-title="Movies",USA | Starz Encore Suspense
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154965.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencorewestern.jpg" group-title="Movies",USA | Starz Encore Westerns
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154961.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencoreblack.jpg" group-title="Movies",USA | Starz in Black
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154972.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzkids.jpg" group-title="Movies",USA | Starz Kids & Family
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36842.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzencorewestern.jpg" group-title="Movies",USA | Starz Encore West
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154964.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/starzedge.jpg" group-title="Movies",USA | Starz Edge
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36841.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/sonymovies.jpg" group-title="Movies",USA  | Sony Movies
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36772.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="Movies",USA| FX  HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67787.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/cinemax.jpg" group-title="Movies",Thriller-Max
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318911.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/CinemaxMoviemax" group-title="Movies",Movie MAX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318914.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/moremax.jpg" group-title="Movies",More Max
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318917.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/5starmax.jpg" group-title="Movies",Starz MAX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318927.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/outermax.jpg" group-title="Movies",OutMax
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318929.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/actionmax.jpg" group-title="Movies",Action MAX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318936.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/cinemax.jpg" group-title="Movies",US | Cinemax East
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344005.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hbocomedy.jpg" group-title="Movies",USA | HBO COMEDY
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344055.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hbosignature.jpg" group-title="Movies",US | HBO--Signature
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350794.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hbozone.jpg" group-title="Movies",USA | Hbo--Zone
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350795.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hboeast.jpg" group-title="Movies",USA | HBO--East
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350796.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/cine/hbo.jpg" group-title="Movies",USA | Lat HBO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350797.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hbowest.jpg" group-title="Movies",US | West--HBO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350798.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/hbowest.jpg" group-title="Movies",US | 2 Hbo West
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350799.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/tcm.jpg" group-title="Movies",US | TCM Turner Movies
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350800.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/tnt.jpg" group-title="Movies",USA | Tnt Movie-S
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350801.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="Movies",Hallmark Drama
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/351199.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J" group-title="Movies",MGM +
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/402796.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/2560px-MGM%2B_Marquee_2023.svg.png" group-title="Movies",MGM+ Marquee
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/402797.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-hits.png" group-title="Movies",MGM+ Hits
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/402798.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-plus-drive-in.png" group-title="Movies",MGM+ Drive-in
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/402799.m3u8
+
+# --- Movistar (3) ---
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" group-title="Movistar",Movistar La Liga
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278185.m3u8
+#EXTINF:-1 tvg-logo="https://www.telefonica.com/en/wp-content/uploads/sites/5/2021/03/Movistar252B.jpg?w=480" group-title="Movistar",Movistar+
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278190.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483728958067720197/9R1D_sLd_400x400.png" group-title="Movistar",Movistar Golf
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/471386.m3u8
+
+# --- Musica (11) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/bandamax.jpg" group-title="Musica",MX | Bandamax
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32666.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/mtvtv.jpg" group-title="Musica",USA | MTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36775.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/mtvtv.jpg" group-title="Musica",USA | MTV 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/121405.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/telehittv.jpg" group-title="Musica",MX | Telehit
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32340.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/mtvmusic.jpg" group-title="Musica",USA | MTV U
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43012.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/mtvclassic.jpg" group-title="Musica",USA | MTV Classic
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/121406.m3u8
+#EXTINF:-1 tvg-logo="http://apps.ottmex.com/picons/musica/telehitplus.jpg" group-title="Musica",MX | Mtv 80
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/164678.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/vh1classics.jpg" group-title="Musica",MX | VH1 Classics
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/148537.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/vh11.jpg" group-title="Musica",USA | VH1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162439.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/musica/mtvtv.jpg" group-title="Musica",MX | MTV Hits
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/393607.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" group-title="Musica",Mx | Mtv Club
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436025.m3u8
+
+# --- NBA 29/11/25 (presiona boton update) (9) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 29/11/25 (presiona boton update)",NBA Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/496768.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",16:00 Celtics vs Timberwolves
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508417.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",17:00 Raptors vs Hornets
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508418.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",18:30 Bulls vs Pacers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508419.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",19:00 Pistons vs Heat
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508420.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",19:00 Nets vs Bucks
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508421.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",19:30 Pelicans vs Warriors
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508423.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",20:00 Nuggets vs Suns
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508424.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 29/11/25 (presiona boton update)",21:00 Mavericks vs Clippers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508425.m3u8
+
+# --- NBA 30/11/25 (presiona boton update) (9) ---
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",14:00 Rockets vs Jazz
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508426.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",17:00 Hawks vs 76ers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508427.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",17:00 Raptors vs Knicks
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508428.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",17:00 Thunder vs Trail Blazers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508429.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",17:00 Celtics vs Cavs
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508430.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",18:00 Spurs vs Timberwolves
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508431.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",20:00 Grizzlies vs Kings
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508432.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 30/11/25 (presiona boton update)",20:30 Pelicans vs Lakers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508433.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NBA 30/11/25 (presiona boton update)",20:00 UNLV vs Nevada
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509077.m3u8
+
+# --- NCAA FB 29/11/25 (presiona boton update) (33) ---
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Texas Tech vs West Virginia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509038.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Ohio St vs Michigan
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509039.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Miami vs Pittsburgh
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509040.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Iowa vs Oklahoma St
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509041.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Houston vs Baylor
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509042.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Kentucky vs Louisville
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509043.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Colorado vs Kansas St
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509044.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Clemson vs South Carolina
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509045.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",11:00 Ball St vs Miami Oh
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509046.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",12:00 UCF vs BYU
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509047.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:00 Boston College vs Syracuse
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509048.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Cincinnati vs TCU
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509057.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Oregon vs Washington
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509058.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 LSU vs Oklahoma
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509059.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Missouri vs Arkansas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509060.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Kennesaw St vs Liberty
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509061.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Penn St vs Rutgers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509062.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Vanderbilt vs Tennessee
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509063.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Wake Forest vs Duke
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509064.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:30 Wisconsin vs Minnesota
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509065.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",14:45 James Madison vs C Carolina
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509066.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",15:30 Florida St vs Florida
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509067.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",17:30 Oregon St vs Washington St
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509068.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",19:00 Maryland vs Michigan St
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509069.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",18:00 Virginia Tech vs Virginia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509070.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",18:30 North Carolina vs NC State
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509071.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",18:30 UCLA vs USC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509072.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",18:30 Northwestern vs Illinois
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509073.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",18:30 Charlotte vs Tulane
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509074.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",18:30 Alabama vs Auburn
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509075.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",19:00 SMU vs California
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509076.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",21:30 Fresno St vs San Jose St
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509078.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1350148028779417600/Kc9QqtHH_400x400.jpg" group-title="NCAA FB 29/11/25 (presiona boton update)",21:30 Notre Dame vs Stanford
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509079.m3u8
+
+# --- NFL 30/11/25 (presiona boton update) (13) ---
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/nfl-network_NFL-graphics.jpg" group-title="NFL 30/11/25 (presiona boton update)",NFL Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/485323.m3u8
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/50/9f/nfl-redzone_1rcm5ouf9516w1axll1bpmx637.png?t=860992668" group-title="NFL 30/11/25 (presiona boton update)",NFL Red Zone Week 13
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508505.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772892.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 Saints vs Dolphins
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508506.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401671856.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 Texans vs Colts
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508507.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772893.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 Falcons vs Jets
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508508.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772785.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 49ers vs Browns
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508509.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772894.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 Rams vs Panthers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508510.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772786.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 Jaguars vs Titans
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508511.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772895.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",12:00 Cardinals vs Buccaneers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508512.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401671759.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",15:05 Vikings vs Seahawks
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508566.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772789.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",15:25 Bills vs Steelers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508567.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401772788.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",15:25 Raiders vs Chargers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508568.m3u8
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/sports/football/nfl/events/401547416.png?templateId=espn.com.share.1" group-title="NFL 30/11/25 (presiona boton update)",19:20 Broncos vs Commanders
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/508569.m3u8
+
+# --- NHL 29/11/25 (presiona boton update) (10) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",19:00 Red Wings vs Bruins
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509184.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",14:00 Lightning vs Rangers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509185.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",19:00 Maple Leafs vs Penguins
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509186.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",22:00 Sharks vs Golden Knight
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509187.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",20:00 Sabres vs Wild
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509188.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",19:00 Flyers vs Devils
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509189.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",16:00 Oilers vs Kraken
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509192.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",15:00 Canadiens vs Avalanche
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509193.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",22:00 Canucks vs Kings
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509195.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 29/11/25 (presiona boton update)",19:00 Jets vs Predators
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509196.m3u8
+
+# --- Networks USA (82) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcsanantonio.jpg" group-title="Networks USA",USA | NBC San Antonio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32027.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/foxnewschannel.jpg" group-title="Networks USA",USA | FOX News Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154936.m3u8
+#EXTINF:-1 tvg-logo="https://myfox8.com/wp-content/uploads/sites/17/2020/01/favicon.png" group-title="Networks USA",USA | FOX 8 Winston-Salem (WGHP)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67916.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox5newyork.jpg" group-title="Networks USA",USA | FOX 5 New York (WNYW)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/132669.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox45baltimore.jpg" group-title="Networks USA",USA | FOX 45 Baltimore (WBFF)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162622.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox40sacramento.jpg" group-title="Networks USA",USA | FOX 40 Sacramento (KTXL)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162738.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox4dallasfort.jpg" group-title="Networks USA",USA | FOX 4 Dallas-Fort Worth (KDFW)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162625.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/240px-LOGO_WZTV_FOX17_solid_calls.png" group-title="Networks USA",USA | Fox Nashville (WZTV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162770.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox32chicago.jpg" group-title="Networks USA",USA | FOX 32 Chicago (WFLD)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162616.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox31denver.jpg" group-title="Networks USA",USA | FOX 31 Denver (KDVR)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162617.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox29philadelphia.jpg" group-title="Networks USA",USA | FOX 29 Philadelphia (WTXF)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162621.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox29.jpg" group-title="Networks USA",USA | FOX 29 Buffalo (WUTV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162777.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox26.jpg" group-title="Networks USA",USA | FOX 26 Houston (KRIV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67973.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO_KOKH_FOX25_solid_legal_blk.png" group-title="Networks USA",USA | FOX 25 OKLAHOMA (KOKH)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162614.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox24charlestone.jpg" group-title="Networks USA",USA | FOX 24 Charleston (WTAT)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162796.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/FOX2STLOUIS.jpg" group-title="Networks USA",USA | FOX 2 St. Louis (KTVI)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162787.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox2sanfrancisco.jpg" group-title="Networks USA",USA | FOX 2 San Francisco (KTVU)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162792.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/FOX2HONOLULU.jpg" group-title="Networks USA",USA | FOX 2 Honolulu (KHON
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/163299.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox2detroit.jpg" group-title="Networks USA",USA | FOX 2 Detroit (WJBK)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162727.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox19cincinnati.jpg" group-title="Networks USA",USA | FOX 19 Cincinnati (WXIX)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162633.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox17nashville.jpg" group-title="Networks USA",USA | FOX 17 Nashville (WZTV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162624.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox13seattle.jpg" group-title="Networks USA",USA | FOX 13 Seattle (KCPQ)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162627.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox13saltlake.jpg" group-title="Networks USA",USA | FOX 13 Salt Lake City (KSTU)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162763.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox13albuquerque.jpg" group-title="Networks USA",USA | FOX 13 Albuquerque (KRQEDT2)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162747.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox12portland.jpg" group-title="Networks USA",USA | FOX 12 Portland (KPTV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162734.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/foxtucson.jpg" group-title="Networks USA",USA | FOX 11 Tucson (KMSB)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162742.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox11losangeles.jpg" group-title="Networks USA",USA | FOX 11 Los Angeles (KTTV)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162619.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox10news.jpg" group-title="Networks USA",USA | FOX 10 Phoenix (KSAZ)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162626.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox10phoenix.jpg" group-title="Networks USA",USA | Fox 10 Phoenix (KSAZ)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162820.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwatlanta69.jpg" group-title="Networks USA",USA | CW 69 Atlanta (WUPA)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162835.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cw57philadelphia.jpg" group-title="Networks USA",USA | CW 57 Philadelphia (WPSG)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162823.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cw57philadelphia.jpg" group-title="Networks USA",USA | CW 57 Philadelphia (WPSG)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Networks USA",USA | CW 14 Green Bay (WCWF)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162717.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwdetroit.jpg" group-title="Networks USA",USA | CW 50 Detroit (WKBD)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162715.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwsanfrancisco.jpg" group-title="Networks USA",USA | CW 35 San Antonio (KMYS)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162793.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwoklahomacity.jpg" group-title="Networks USA",USA | CW 34 Oklahoma City (KOCB)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162718.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwlasvegas.jpg" group-title="Networks USA",USA | CW 33 Las Vegas (KVCW)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162719.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwsacramento.jpg" group-title="Networks USA",USA | CW 31 Sacramento (KMAX)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162739.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwminenapolis.jpg" group-title="Networks USA",USA | CW 23 Minneapolis (WUCW)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162714.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwraleigh.jpg" group-title="Networks USA",USA | CW 22 Raleigh (WLFL)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162802.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwbirmingham.jpg" group-title="Networks USA",USA | CW 21 Birmingham (WTTO)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162784.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwpittsburg.jpg" group-title="Networks USA",USA | CW 19 Pittsburgh (WPCW)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162815.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cwseattle.jpg" group-title="Networks USA",USA | CW 11 Seattle (KSTW)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162720.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBSSANDIEGO.jpg" group-title="Networks USA",USA | CBS 8 San Diego (KFMB)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67902.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cbssanantonio.jpg" group-title="Networks USA",USA | CBS 5 San Antonio (KENS)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31292.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBSHONOLULU.jpg" group-title="Networks USA",USA | CBS 5 Honolulu (KGMB)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/163298.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cbsmiami.jpg" group-title="Networks USA",USA | CBS 4 Miami (WFOR)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43007.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBSDENVER.jpg" group-title="Networks USA",USA | CBS 4 Denver (KCNC)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67923.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBSBUFFALO.jpg" group-title="Networks USA",USA | CBS 4 Buffalo (WIVB)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67917.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBSWINSTON.jpg" group-title="Networks USA",USA | CBS 2 Winston-Salem (WFMY)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67915.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cbsnewyork.jpg" group-title="Networks USA",USA | CBS 2 New York (WCBS)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43008.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cbs2.jpg" group-title="Networks USA",USA | CBS 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36876.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cbsbaltimore.jpg" group-title="Networks USA",USA | CBS 13 Baltimore (WJZ)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67972.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBSCINCINNATI.jpg" group-title="Networks USA",USA | CBS 12 Cincinnati (WKRC)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67924.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/CBS11.jpg" group-title="Networks USA",USA | CBS 11 Houston (KHOU)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67925.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/LOGO_KDBC_CBS4_solid_legal_blk.png" group-title="Networks USA",USA | CBS El Paso
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/156877.m3u8
+#EXTINF:-1 tvg-logo="https://kfoxtv.com/resources/assets/kfox/images/brand-icons/KFOX-16x9.jpg" group-title="Networks USA",USA | FOX El Paso
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/156876.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/cbsangeles.jpg" group-title="Networks USA",USA | CBS (KCAL)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/219564.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/mytv13losangeles.jpg" group-title="Networks USA",USA | MyTV (KCOP)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/220054.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/05/CBS-Live-TV-Online.png" group-title="Networks USA",CBS Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/236857.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/ktla.jpg" group-title="Networks USA",USA  | KTLA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/237430.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/lakers.jpg" group-title="Networks USA",USA | Spectrum Sports Lakers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/237746.m3u8
+#EXTINF:-1 tvg-logo="https://www.pbs.org/static/images/pbs_share_og.fdd9430d1c12.png" group-title="Networks USA",USA | PBS Los Angeles
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/302161.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/200px-NBC_logo.svg.png" group-title="Networks USA",N Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314602.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/NBCELPASOTX.jpg" group-title="Networks USA",N Pso TXS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314603.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/NBCHONOLULU.jpg" group-title="Networks USA",N HnLUlu
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314604.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvnewscheck.com/wp/content/uploads/NBC_Boston_logo.jpg" group-title="Networks USA",N 10 BTN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314605.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/NBCPHILADELPHIA.jpg" group-title="Networks USA",N PHIA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314607.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/NBC24.jpg" group-title="Networks USA",N 24 FSNO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314608.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1128020978867548161/8_ysbl3r_400x400.jpg" group-title="Networks USA",N 4 LGLS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314609.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcuniverso.jpg" group-title="Networks USA",N VRSO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314614.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbc4.jpg" group-title="Networks USA",N 4 LNGLS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314615.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcsn.jpg" group-title="Networks USA",N CSN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314618.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/msnbc.jpg" group-title="Networks USA",MS BC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314619.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcnewyork.jpg" group-title="Networks USA",N NRK
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314620.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/WJW_%28TV%29_logo.png" group-title="Networks USA",FOX 8 WJW
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353286.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/WKYC_logo_%282019-present%29.png" group-title="Networks USA",NBC WKYC 3
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353287.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/WOIO_CBS_19.png" group-title="Networks USA",CBS WOIO 19
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353288.m3u8
+#EXTINF:-1 tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1509746668/ag2hnabl6emanh8jjqqb.png" group-title="Networks USA",NBC KSNV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353289.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/KLAS_Twitter.svg/revision/latest/scale-to-width-down/250?cb=20220425083438" group-title="Networks USA",CBS KLAS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353290.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/154-1549713_fox-5-las-vegas-fox-5-wttg-logo.png" group-title="Networks USA",FOX KVVU 5
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/353292.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/fox5.washington.jpg" group-title="Networks USA",USA | FOX (WTTG)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/356844.m3u8
+
+# --- News (13) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/bbcamerica.jpg" group-title="News",USA | BBC AMERICA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36801.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/FOXNEWS.jpg" group-title="News",USA | FOX News
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/33993.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",USA | The Weather Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67765.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/FOXBUSINESS.jpg" group-title="News",USA | FOX Business
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67933.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/BBCWORLD.jpg" group-title="News",USA | BBC World News FHD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/121408.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/wobi.jpg" group-title="News",USA | WOBI
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/156449.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/accuweather.jpg" group-title="News",USA | AccuWeather
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162302.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/oneamerican.jpg" group-title="News",USA | One American News Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162396.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/CNBCWORLD.jpg" group-title="News",C BC WW
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314616.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/CNBC.jpg" group-title="News",C BC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314617.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/news/cnn.jpg" group-title="News",US. CNN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/350791.m3u8
+#EXTINF:-1 tvg-logo="https://assets.website-files.com/63caf72e7633b40dfeb9a3c2/640899e968e95e3e001b4861_og-image-generic-lp.png" group-title="News",USA | Bloomberg
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/351864.m3u8
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_newsmax-tv-selecciono-xchange-y-media-io-para-sus-operaciones.jpg" group-title="News",NewsMax
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/459305.m3u8
+
+# --- Noticias (11) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/adn40.jpg" group-title="Noticias",MX | ADN 40
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67143.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/forotv.jpg" group-title="Noticias",MX | Foro TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32670.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/imagentv.jpg" group-title="Noticias",MX | Imagen TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31113.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/mileniotv.jpg" group-title="Noticias",MX | Milenio TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67163.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/rai.jpg" group-title="Noticias",MX | Rai
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/222375.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/meganoticias.jpg" group-title="Noticias",MX | Mega Noticias
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/245701.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/financiero.png" group-title="Noticias",MX | El Financiero
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/311547.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/cnnesp.jpg" group-title="Noticias",CNN Esp Mx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322836.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/cnnesp.jpg" group-title="Noticias",CNN Mx
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322837.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/DW.jpg" group-title="Noticias",MX | DW
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/340635.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/rainews24.jpg" group-title="Noticias",Mx | Rai news 24
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/446283.m3u8
+
+# --- PAY PER VIEW - SUNSET EXCLUSIVE (2) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/smackdown.jpg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",19:00 WWE SMACKDOWN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509221.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/formula1.jpg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",08:00 SprintF1 GP Qatar
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/509222.m3u8
+
+# --- Panama (7) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvFRyWkH/rpc.jpg" group-title="Panama",PA | RCP TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68312.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rm0NKj96/telemetro.jpg" group-title="Panama",PA | Telemetro
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68313.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncvT4dfp/tvmax.jpg" group-title="Panama",PA | TVMax
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68314.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLLktpjh/sertv.jpg" group-title="Panama",PA | SERTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68315.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZdR8N0Y/tvn.jpg" group-title="Panama",Pa | Tvn
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/344067.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1200px-Cable_Onda_Sports_logo.svg.png" group-title="Panama",PANAMA| CABLE ONDA FC HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68316.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1200px-Cable_Onda_Sports_logo.svg.png" group-title="Panama",PANAMA| CABLE ONDA SPORTS HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68317.m3u8
+
+# --- Paraguay (7) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGLc4SJR/telefuturo.jpg" group-title="Paraguay",PY | Telefuturo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67598.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz1BHxQy/surtv.jpg" group-title="Paraguay",PY | Sur Televisión
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67599.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8DXf3C1/snt.jpg" group-title="Paraguay",PY | SNT
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67600.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wN4nwVY/trece.jpg" group-title="Paraguay",PY | Trece
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67601.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SR3DN59z/npy.jpg" group-title="Paraguay",PY | Noticias Paraguay
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67604.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjVnnLXq/paravision.jpg" group-title="Paraguay",PY | Paravisión
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67602.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26BqNKCt/c9n.jpg" group-title="Paraguay",PY | C9N
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67608.m3u8
+
+# --- Peru (13) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxmPVrLw/americatv.jpg" group-title="Peru",PE | America TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67584.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnSFN6Kf/tvperu.jpg" group-title="Peru",PE | TV Peru
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181636.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfy92Yws/exitosa.jpg" group-title="Peru",PE | Exitosa
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181624.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmhKzPPV/mdeportes.jpg" group-title="Peru",PE | Movistar Deportes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67582.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4zwzpZV/movistarplus.jpg" group-title="Peru",PE | Movistar Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/67596.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLFtpqG1/perumagico.jpg" group-title="Peru",PE | Peru Magico
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/181628.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqNDdq5G/willax.jpg" group-title="Peru",PE | Willax
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/130756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peru",PE | Panamericana
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peru",PE | Exitosa TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/224111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peru",PE | USMP TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/224193.m3u8
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg" group-title="Peru",PE/ Latina
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/250136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peru",PE | ATV +
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/282987.m3u8
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="Peru",PE | Liga max 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/302661.m3u8
+
+# --- Puerto Rico (10) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/megatv.jpg" group-title="Puerto Rico",PR | MegaTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31140.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/telemundo.jpg" group-title="Puerto Rico",PR | Telemundo San Juan
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31144.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/tele11.jpg" group-title="Puerto Rico",PR | Tele 11
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31145.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/wapa.jpg" group-title="Puerto Rico",PR | WAPA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31146.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/wapa2.jpg" group-title="Puerto Rico",PR | WAPA 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31147.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/punto2.jpg" group-title="Puerto Rico",PR | Punto 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68335.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/wapa.jpg" group-title="Puerto Rico",PR | WAPA America
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162298.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/wipr.jpg" group-title="Puerto Rico",PR | WIPR
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/156921.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/buenatv.jpg" group-title="Puerto Rico",PR | Buena TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68337.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/puertorico/teleisla.jpg" group-title="Puerto Rico",PR | Teleisla
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31141.m3u8
+
+# --- Religion (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Religion",MX | Mariavision
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religion",MX | EWTN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223875.m3u8
+
+# --- Republica Dominicana (6) ---
+#EXTINF:-1 tvg-logo="" group-title="Republica Dominicana",RD | Microvision
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/247549.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="Republica Dominicana",CDN 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278139.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EnaLdHO1H-0/Xw1jiRLuioI/AAAAAAAAKNI/oj-3M2OGzjYUpIuhVNd4itLIuUQSFfvwwCLcBGAsYHQ/s1600/rnn-canal-27.png" group-title="Republica Dominicana",RNN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278147.m3u8
+#EXTINF:-1 tvg-logo="https://149562642.v2.pressablecdn.com/wp-content/uploads/telecentro.jpg" group-title="Republica Dominicana",TeleCentro
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278148.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="Republica Dominicana",Telefuturo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278167.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mI0iNYB6wlI/hqdefault.jpg" group-title="Republica Dominicana",Tele Antillas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278184.m3u8
+
+# --- Sports (72) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/espntv.jpg" group-title="Sports",USA | ESPN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36748.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/espnnews.jpg" group-title="Sports",USA | ESPN News
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36756.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/espn2.jpg" group-title="Sports",USA | ESPN 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43574.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/foxsports1.jpg" group-title="Sports",USA | FOX Sports 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36904.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/foxsports2.jpg" group-title="Sports",USA | FOX Sports 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36905.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/KANSAS.jpg" group-title="Sports",USA | Bally Sports Kansas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43575.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/DETROIT.jpg" group-title="Sports",USA | Bally Sports Detroit
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43577.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/NEWORLEANS.jpg" group-title="Sports",USA | Bally Sports New Orleans
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43578.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/NORTH.jpg" group-title="Sports",USA | Bally Sports North
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43579.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/SANDIEGO.jpg" group-title="Sports",USA | Bally Sports San Diego
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43580.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/SOUTHSNANTONIO.jpg" group-title="Sports",USA | Bally Sports South
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43581.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/SUNMIAMI.jpg" group-title="Sports",USA | Bally Sports Sun
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43584.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/OHIO.jpg" group-title="Sports",USA | Bally Sports Ohio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43598.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/cbssports.jpg" group-title="Sports",USA | CBS Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36901.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/yesnet.jpg" group-title="Sports",USA | YES NETWork
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/123867.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/sny.jpg" group-title="Sports",USA | SNY
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/123861.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nesns.jpg" group-title="Sports",USA | NESN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43599.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nhl.jpg" group-title="Sports",USA | NHL Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43590.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nesnplus.jpg" group-title="Sports",USA | NESN Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43585.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/tennischann.jpg" group-title="Sports",USA | Tennis Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36917.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/goltv.jpg" group-title="Sports",USA | Gol TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36916.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/sportsman.jpg" group-title="Sports",USA | Sportsman
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36915.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/worldfishing.jpg" group-title="Sports",USA | World Fishing Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36914.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entertainment/outdoorchann.jpg" group-title="Sports",USA | Outdoor
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36912.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/golfchann.jpg" group-title="Sports",USA | The Golf Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36910.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nflnet.jpg" group-title="Sports",USA | NFL Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36908.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nbatv.jpg" group-title="Sports",USA | NBA TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36906.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/fightnetwork.jpg" group-title="Sports",USA | The Fight Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36903.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/espnu.jpg" group-title="Sports",USA | ESPN U
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154889.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/espnaccn.jpg" group-title="Sports",USA | ESPN ACCN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/154888.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/spectrum%20dodgers.jpg" group-title="Sports",USA | Spectrum SportsNet Dodgers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162851.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/goltv.jpg" group-title="Sports",USA | GolTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162362.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/mlbnet.jpg" group-title="Sports",USA | MLB Network HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162973.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51wp3U6WWHL.png" group-title="Sports",Cowboy Channel
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/163705.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/stadiumplus.jpg" group-title="Sports",USA | Stadium Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/166379.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/stadiumtv.jpg" group-title="Sports",USA | Stadium
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162558.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/atsports.jpg" group-title="Sports",Sports | AT&T SPORTS NET
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/66944.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/msg.jpg" group-title="Sports",USA | MSG
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36918.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/SOUTHWEST.jpg" group-title="Sports",USA | Bally Sports SouthWest
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/43583.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/marqueesports.jpg" group-title="Sports",USA | Marquee Sports Network
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162379.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/msg+.jpg" group-title="Sports",USA | MSG +
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162722.m3u8
+#EXTINF:-1 tvg-logo="https://thespun.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-31-at-9.16.09-AM.png" group-title="Sports",USA | BIG NETWORK
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/177555.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="Sports",SPORTS| WWE HD
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/68418.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/espnsec.jpg" group-title="Sports",USA | ESPN SEC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36755.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/maxresdefault.jpg" group-title="Sports",UFC Fight Pass
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/209536.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/mavtv.jpg" group-title="Sports",USA | MavTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/260715.m3u8
+#EXTINF:-1 tvg-logo="https://cardplayerlifestyle.com/wp-content/uploads/2017/11/PokerGOlogo.jpg" group-title="Sports",Poker Go
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279489.m3u8
+#EXTINF:-1 tvg-logo="https://jakdousa.cz/wp-content/uploads/2020/05/NHL.jpg" group-title="Sports",NHL Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/220588.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDlkOWVmN2QtMzhmYy00Mjc2LTg2YWUtOTdmNDM1YzAyYTNhXkEyXkFqcGdeQXVyOTIzMjA3OTQ@._V1_FMjpg_UX1000_.jpg" group-title="Sports",USA | Fox Soccer Plus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/297629.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Monumental_Sports_Network_Logo.png" group-title="Sports",Monumental SPRTS WTN
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314610.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nbcsportsphiladelphia.jpg" group-title="Sports",N SPRTS PHIA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314611.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nbcsportschicago.jpg" group-title="Sports",N SPRTS CHGO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314612.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/nbcsportscalifornia.jpg" group-title="Sports",N SPRT CFNA
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314613.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcnewyork.jpg" group-title="Sports",N SPRT BTON
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/314621.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1647384977/1539.png" group-title="Sports",BT Sport 1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/317699.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png" group-title="Sports",BT Sport 2
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/317700.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139486370930690/3sd55y6e_400x400.jpg" group-title="Sports",Sky Sp F1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/335439.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/beinsp.jpg" group-title="Sports",Bein Sports
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/373259.m3u8
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/10/space-city-home-network.jpg" group-title="Sports",Space City Home Net
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/394658.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bally_Sports_Florida_logo.svg" group-title="Sports",Bally Sports Florida
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403167.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/sports/BALLY/DETROIT.jpg" group-title="Sports",Bally Sports Detroit Extra
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403168.m3u8
+#EXTINF:-1 tvg-logo="https://hotdog.com/wp-content/uploads/bally-sports-midwest.jpg" group-title="Sports",Bally Sports Midwest
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403169.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/yekv8u1620064890.png" group-title="Sports",Bally Sports Ohio Extra
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403170.m3u8
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-great-lakes/85212bcccf-1616526882/bally-sports-great-lakes-banner.png" group-title="Sports",Bally Sports Great Lakes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403171.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1377126559014785028/PRgFPyXy_400x400.png" group-title="Sports",Bally Sports Oklahoma
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403172.m3u8
+#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/02/Bally-Sports-West-logo.png" group-title="Sports",Bally Sports West
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403173.m3u8
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KW6XRII3XNHIVEFHNXCRTBUALA.jpg" group-title="Sports",Bally Sports Wisconsin
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403174.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR678IzaXI5ITQMU1ggKIcNzFgtUBOKvIEx7Q&s" group-title="Sports",Bally Sports Southwest+
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403175.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FDPhmcyDSGwK8D6Y_onE9M518XHzD8rmoIKbPkMcCZmxO7W4bZkwkM4XvjoJjfT-Ae-bKarHrw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",RFD Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/439952.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/siKYQcQ2TGdO2QBGtfC0XX6PRlLZKMtvWGqTVO7onyFoyhfL4RQ-y1gei-CG6p6ETw" group-title="Sports",Fanduel Racing
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/497064.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vfIV5iD8dgOjIViHy9zJ7cIi7jKsYxX6Hhkolq8itLPj-ZZXUCxUGSergiH5noHUo4s" group-title="Sports",Fanduel Tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/497065.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vfIV5iD8dgOjIViHy9zJ7cIi7jKsYxX6Hhkolq8itLPj-ZZXUCxUGSergiH5noHUo4s" group-title="Sports",Fanduel Tv Extra
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/497066.m3u8
+
+# --- TV Mexico (31) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/amas.jpg" group-title="TV Mexico",MX | A mas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/182831.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/adn40.jpg" group-title="TV Mexico",MX | ADN 40
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32511.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/azcinema.jpg" group-title="TV Mexico",MX | AZ Cinema
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/187974.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/azmundo.jpg" group-title="TV Mexico",MX | AZ Mundo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/187975.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/aztecamenos2.jpg" group-title="TV Mexico",MX | Azteca -2 HRS
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/246539.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/azteca7.jpg" group-title="TV Mexico",MX | Azteca 7
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32664.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/azteca7.jpg" group-title="TV Mexico",MX | Azteca 7 MTY
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/169100.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/azcorazon.jpg" group-title="TV Mexico",MX | Azteca Corazon
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/79766.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/aztecauno.jpg" group-title="TV Mexico",MX | Azteca Uno
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/32663.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/aztecaunomenos1.jpg" group-title="TV Mexico",MX | Azteca Uno -1hra
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/182832.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/estrellatv.jpg" group-title="TV Mexico",MX | Estrella TV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/275080.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/excelsior.jpg" group-title="TV Mexico",MX | Excelsior
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/183164.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/forotv.jpg" group-title="TV Mexico",MX | ForoTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162268.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/galavision.jpg" group-title="TV Mexico",MX | GalaTV (NU9VE)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/34158.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/heraldo.jpg" group-title="TV Mexico",MX | Heraldo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/182829.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/imagentv.jpg" group-title="TV Mexico",MX | Imagen Television
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/156340.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/noticias/meganoticias.jpg" group-title="TV Mexico",MX | MegaNoticias
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/245706.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/mexiquense.jpg" group-title="TV Mexico",MX | Mexiquense
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/182820.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/multimediosbajio.jpg" group-title="TV Mexico",MX | Multimedios Bajio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/207081.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/canal6multimedios.jpg" group-title="TV Mexico",MX | Multimedios CDMX
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/223385.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/MULTIMEDIOSCDJUAREZ.jpg" group-title="TV Mexico",MX | Multimedios Juarez
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/207114.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/canal6multimedios.jpg" group-title="TV Mexico",MX | Multimedios MTY
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31843.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/mvs.jpg" group-title="TV Mexico",MX | MVS Television
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/182818.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/teleformula.jpg" group-title="TV Mexico",MX | Teleformula
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/193516.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/televisamonterrey.jpg" group-title="TV Mexico",MX | Televisa MTY
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/207356.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/televisapuebla.jpg" group-title="TV Mexico",MX | Televisa Puebla
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/207376.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/telenovelas.jpg" group-title="TV Mexico",MX | tlnovelas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/39060.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/tvpMazatlan.jpg" group-title="TV Mexico",MX | TVP Culiacan
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/207502.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/tvpMazatlan.jpg" group-title="TV Mexico",MX | TVP Mazatlan
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279907.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/tv.Mexico/unimas.jpg" group-title="TV Mexico",MX | Unimas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/130762.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Deportes/aztecadeportes.jpg" group-title="TV Mexico",MX | Azteca Deportes
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/323112.m3u8
+
+# --- Telemundos (24) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/51MIAMI.jpg" group-title="Telemundos",USA | Telemundo 51 Miami
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36874.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/39DALLAS.jpg" group-title="Telemundos",USA | Telemundo 39 Dallas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36888.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/48SANFRANCISCO.jpg" group-title="Telemundos",USA | Telemundo 48 San Francisco
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/37194.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/INTERNACIONAL.jpg" group-title="Telemundos",USA | Telemundo Internacional
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/31130.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/BOSTON.jpg" group-title="Telemundos",USA | Telemundo 62 Boston
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36882.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/DENVER.jpg" group-title="Telemundos",USA | Telemundo 52 Denver
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36885.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/HOUSTON.jpg" group-title="Telemundos",USA | Telemundo 47 Houston
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/37183.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/LASVEGAS.jpg" group-title="Telemundos",USA | Telemundo 39 Las Vegas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36880.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo 44 Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/172081.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo 52 Los Angeles
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/173164.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/TEXAS.jpg" group-title="Telemundos",USA | Telemundo 48 El Paso
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/187029.m3u8
+#EXTINF:-1 tvg-logo="https://fastly.4sqi.net/img/general/200x200/53549001_cUiVG1dKUxJzl9-AEB_Lf_qjAEiffPQXNEka5aEt9Hw.jpg" group-title="Telemundos",Telemundo Tampa
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/206509.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/orlando.jpg" group-title="Telemundos",USA | Telemundo Orlando
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/210035.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo Phoenix
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/225939.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo Sacramento
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/225940.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo New York
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/225958.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo Fresno
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/226558.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo Honolulu
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/226559.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",USA | Telemundo LA (KVEA)
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/226596.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/TELEMUNDOS/saltlake.jpg" group-title="Telemundos",USA | Salt Lake
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/284198.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/telemundo.jpg" group-title="Telemundos",Telemundo Washington
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/306610.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvEARBGQxT8Rdd9_ey3dsS-k_c2YlHlAmMw&s" group-title="Telemundos",Telemundo San Diego
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403165.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/951571561676406785/gDzlfzMk_400x400.jpg" group-title="Telemundos",Telemundo Connecticut
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/403166.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fq1II_CCsa8d6NMS8Mo-7ZK5qa-9UaG4uIzWz-vf7vLJGOMyWd6OG7MRg_yiHKIOz7XQ" group-title="Telemundos",Telemundo San Antonio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/422305.m3u8
+
+# --- USO INTERNO BANNEO SI SE USAN (6) ---
+#EXTINF:-1 tvg-logo="" group-title="USO INTERNO BANNEO SI SE USAN",Tester780
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/309190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USO INTERNO BANNEO SI SE USAN",ufc test
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/316044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USO INTERNO BANNEO SI SE USAN",testtp
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/318298.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USO INTERNO BANNEO SI SE USAN",testermlb
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/379291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USO INTERNO BANNEO SI SE USAN",tester 720
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/383089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USO INTERNO BANNEO SI SE USAN",tester mlb  fubo
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/410949.m3u8
+
+# --- Unimas (17) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/ALBUQUERQUE.jpg" group-title="Unimas",USA | UniMas Philadelphia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175253.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/SANANTONIO.jpg" group-title="Unimas",USA | UniMas San Antonio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175254.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/UNIMASATLANTA.jpg" group-title="Unimas",USA | UniMas Atlanta
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175255.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/FRESNO.jpg" group-title="Unimas",USA | UniMas Miami
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175256.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/ALBUQUERQUE.jpg" group-title="Unimas",USA | UniMas Albuquerque
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175257.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/PHOENIX.jpg" group-title="Unimas",UNI | UniMas Phoenix Az
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175259.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/SACRAMENTO.jpg" group-title="Unimas",USA | UniMas Sacramento
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175260.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/CLEVELAND.jpg" group-title="Unimas",UNI | UniMas Cleveland
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175261.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/SALTLAKE.jpg" group-title="Unimas",USA | UniMas Salt Lake
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175262.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/CHICAGO.jpg" group-title="Unimas",USA | UniMas Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175263.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/LASVEGAS.jpg" group-title="Unimas",USA | UniMas Las Vegas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175265.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/AUSTIN.jpg" group-title="Unimas",USA | UniMas Austin
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175266.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/EAST.jpg" group-title="Unimas",USA | UniMas East
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175269.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/HOUSTON.jpg" group-title="Unimas",USA | UniMas Houston
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175270.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/LOSANGELES.jpg" group-title="Unimas",USA | UniMas Los Angeles
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175271.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/NY.jpg" group-title="Unimas",USA | UniMas New York
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175272.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIMAS/WEST.jpg" group-title="Unimas",USA | UniMas West
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175273.m3u8
+
+# --- Univisiones (14) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/univision.jpg" group-title="Univisiones",USA | Univision 34 Atlanta
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36891.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/CHICAGO.jpg" group-title="Univisiones",USA | Univision 66 Chicago
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36892.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/DALLAS.jpg" group-title="Univisiones",USA | Univision 23 Dallas
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36893.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/univision.jpg" group-title="Univisiones",USA | Univision 45 Houston
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36881.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/LOSANGELES.jpg" group-title="Univisiones",USA | Univision 34 Los Angeles
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36872.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/MIAMI.jpg" group-title="Univisiones",USA | Univision 23 Miami
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175245.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/UNIVISION%20NY.jpg" group-title="Univisiones",USA | Univision 41 New York
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175250.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/PHOENIX.jpg" group-title="Univisiones",USA | Univision 33 Phoenix
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175236.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/SACRAMENTO.jpg" group-title="Univisiones",USA | Univision 19 Sacramento
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/175238.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/SANFCO.jpg" group-title="Univisiones",USA | Univision 14 San Francisco
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/36883.m3u8
+#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/5_es.png" group-title="Univisiones",Univision East
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/335441.m3u8
+#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales/images/radio-stations/austin/univision-62.png" group-title="Univisiones",Univision 62 Austin
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/335443.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/UNIVISIONES/SANANTONIO.jpg" group-title="Univisiones",Univision 41 San Antonio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/335444.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/entretenimiento/univision.jpg" group-title="Univisiones",Univision El Paso
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/369104.m3u8
+
+# --- Unknown (29) ---
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/21/b3/21b35378-846d-49dd-a085-630d23b25a86.jpeg" group-title="Unknown",Radio Disney
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159349.m3u8
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/c1/114082/1/c300.png" group-title="Unknown",Radio Disney Bolivia
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159354.m3u8
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/c1/114082/1/c300.png" group-title="Unknown",Radio Disney Paraguay
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159355.m3u8
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/c1/114082/1/c300.png" group-title="Unknown",Radio Disney Panama
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159356.m3u8
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/c1/114082/1/c300.png" group-title="Unknown",Radio Disney Republica Dominicana
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159358.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s238854d.png" group-title="Unknown",Norteñas Inmortales
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159362.m3u8
+#EXTINF:-1 tvg-logo="https://dlb9z3llhvonw.cloudfront.net/sites/default/files/radio/logos/logo-radio-formula-103.3-fm_1.jpg" group-title="Unknown",Radio Formula
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159364.m3u8
+#EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/1/1536/1536fc84-4dae-4683-b4e2-e7921c255a83/radios/6633b2fc-1774-46a8-bbb6-f1390f582e42/6633b2fc-1774-46a8-bbb6-f1390f582e42.jpg" group-title="Unknown",80s 90s Super pop
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159366.m3u8
+#EXTINF:-1 tvg-logo="https://myradioenvivo.mx/public/uploads/radio_img/universal-88-1-fm/fb_cover.jpg" group-title="Unknown",Universal 88.1
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/159753.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8dqmzb7g6yxb.png" group-title="Unknown",ABC 50s
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161029.m3u8
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/26239/ef97e6a1d1f9df0a95fe12a6a74ec64f.png" group-title="Unknown",Radio Bachata
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161031.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/66e423_cf680e4d5e6c4186a4c22276dba20300~mv2_d_1772_1772_s_2.jpg/v1/fit/w_2500,h_1330,al_c/66e423_cf680e4d5e6c4186a4c22276dba20300~mv2_d_1772_1772_s_2.jpg" group-title="Unknown",La fogonera SLP
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161032.m3u8
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/eb/3f/116393/1/c175.png" group-title="Unknown",Radio Top 40
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161033.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7drt79sudps2.png" group-title="Unknown",Miami Beach Radio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161034.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s287106g.png" group-title="Unknown",Hip Hop Radio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161036.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="Unknown",La rancherita del aire COAH
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161038.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bz3tspwjazgm.png" group-title="Unknown",La invasora BC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161040.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692g.png" group-title="Unknown",Panda Show Radio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161042.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/492193811225780224/FlH4sEQR_400x400.png" group-title="Unknown",Radio Urbano Florida
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161044.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k5tv3gkca3us.jpg" group-title="Unknown",Tropicalisima Radio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161045.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/943RYTFmeB.jpg" group-title="Unknown",La bestia Grupera GTO
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161047.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sjfwyh76cbvp.jpg" group-title="Unknown",Oldies America
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161048.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rp8xzrndt8uc.png" group-title="Unknown",Retro Hits NL
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161049.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/4wyjcbru2cct.jpg" group-title="Unknown",Sonideros TV CHIH
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161051.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2axl2nqw9zqg.png" group-title="Unknown",La poderosa Chihuahua
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161053.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/MK3Th2FARh.jpg" group-title="Unknown",El patron 104.9
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161054.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_RADIO_X.JPG" group-title="Unknown",RockXradio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161055.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/abvsjjq6kdqm.png" group-title="Unknown",Radio Rock California
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161057.m3u8
+#EXTINF:-1 tvg-logo="https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-irock247.jpg" group-title="Unknown",iRock247 Radio
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/161058.m3u8
+
+# --- Uruguay (3) ---
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title="Uruguay",URU | VTV
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/220798.m3u8
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/KpuiKzUhDTYcteXiyULK-GWGkNE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4CAO7SGQ4RBLNHX3YYHF4YB25E.jpg" group-title="Uruguay",URU | Teledoce
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278636.m3u8
+#EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181228_la_red_21.png" group-title="Uruguay",URU | La Red
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278750.m3u8
+
+# --- Venezuela (4) ---
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/f5CBsvtFJ7W93FtWk5Vrh-E1xmTe3BQ8DLHXxkiH7hxr5XfK_cksrzNbiuXBWMNHWh5APOMpeQ=s900-c-k-c0x00ffffff-no-rj" group-title="Venezuela",VE | Meriadiano
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278931.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXzhOp6pQNxDc9E2FpaRMvplLM3i-t98Ik91VB7=s900-c-k-c0x00ffffff-no-rj" group-title="Venezuela",VE | IVC
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278991.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Ve_Plus_2016.png/revision/latest/scale-to-width-down/250?cb=20170306222157" group-title="Venezuela",VE | Venevision +
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
+#EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
+
+# Total: 904
