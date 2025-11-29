@@ -13,15 +13,12 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Merge all with 100MB limit
+    - name: Merge all
       run: |
-        MAX_SIZE=$((100*1024*1024))  # 100MB limit
-        TMP_DIR=merged_tmp
-        mkdir -p $TMP_DIR
-        COMBINED="$TMP_DIR/combined-playlist.m3u"
-        echo -n > $COMBINED
+        mkdir -p merged_tmp
+        echo -n > merged_tmp/combined-playlist.m3u
 
-        find . -type f -name "*vod.m3u" ! -path "./$TMP_DIR/*" ! -name "combined-playlist.m3u" | while read file; do
+        find . -type f -name "*vod.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             NR == 1 && $0 == "#EXTM3U" { next }
@@ -37,27 +34,27 @@ jobs:
               next
             }
             { print }
-          ' "$file" >> "$COMBINED"
-
-          # Check if size exceeds 100MB
-          if [ $(stat -c%s "$COMBINED") -ge $MAX_SIZE ]; then
-            echo "Reached 100MB limit. Stopping merge."
-            # Remove last appended file to stay below 100MB
-            truncate -s $MAX_SIZE "$COMBINED"
-            break
-          fi
+          ' "$file" >> merged_tmp/combined-playlist.m3u
         done
 
-        sed -i '1i #EXTM3U' "$COMBINED"
+        sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
 
-        mv "$COMBINED" MERGED_VOD.m3u
-        rm -rf $TMP_DIR
+        mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
+        rm -rf merged_tmp
+
+        # Split if file > 100 MB
+        MAXSIZE=100000000
+        FILESIZE=$(stat -c%s "MERGED_VOD.m3u")
+        if [ $FILESIZE -ge $MAXSIZE ]; then
+          split -b $MAXSIZE MERGED_VOD.m3u MERGED_VOD_PART_
+          rm MERGED_VOD.m3u
+        fi
 
     - name: Commit and push merged playlist
       run: |
         git config user.name "${{ secrets.GIT_U }}"
         git config user.email "${{ secrets.GIT_E }}"
-        git add MERGED_VOD.m3u
+        git add MERGED_VOD*.m3u
         if ! git diff --cached --quiet; then
           git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
