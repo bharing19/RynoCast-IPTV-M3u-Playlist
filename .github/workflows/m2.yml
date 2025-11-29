@@ -18,8 +18,13 @@ jobs:
         mkdir -p merged_tmp
         echo -n > merged_tmp/combined-playlist.m3u
 
-        find . -type f -name "*live.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+        find . -type f -name "*live.m3u" \
+          ! -path "./merged_tmp/*" \
+          ! -name "combined-playlist.m3u" \
+          ! -name "MERGED_LIVE.m3u" | while read file; do
+
           base=$(basename "$file" .m3u)
+
           awk -v grp="$base" '
             NR == 1 && $0 == "#EXTM3U" { next }
             /^#EXTINF/ {
@@ -37,7 +42,9 @@ jobs:
           ' "$file" >> merged_tmp/combined-playlist.m3u
         done
 
-        sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
+        # প্রথমে check করে duplicate না হয়
+        grep -q "^#EXTM3U" merged_tmp/combined-playlist.m3u || sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
+
         mv merged_tmp/combined-playlist.m3u MERGED_LIVE.m3u
         rm -rf merged_tmp
 
