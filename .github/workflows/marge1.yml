@@ -42,11 +42,11 @@ jobs:
         mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
         rm -rf merged_tmp
 
-        # Split if file > 100 MB
+        # Split if file > 100 MB with .m3u extension
         MAXSIZE=100000000
         FILESIZE=$(stat -c%s "MERGED_VOD.m3u")
         if [ $FILESIZE -ge $MAXSIZE ]; then
-          split -b $MAXSIZE MERGED_VOD.m3u MERGED_VOD_PART_
+          split -b $MAXSIZE MERGED_VOD.m3u MERGED_VOD_PART_ --additional-suffix=.m3u
           rm MERGED_VOD.m3u
         fi
 
@@ -54,7 +54,7 @@ jobs:
       run: |
         git config user.name "${{ secrets.GIT_U }}"
         git config user.email "${{ secrets.GIT_E }}"
-        git add MERGED_VOD*.m3u
+        git add *.m3u
         if ! git diff --cached --quiet; then
           git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
