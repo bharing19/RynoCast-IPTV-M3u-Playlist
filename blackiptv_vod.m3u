@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-11-29 07:07:00
+# Generated: 2025-11-29 18:30:25
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -5045,7 +5045,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62540.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHM56ZLoSkNJnvmE68q7tOlopkP.jpg" group-title="Movies | DE/FILM ~ 2023",The Toxic Avenger Unrated (2025) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62839.mp4
 
-# --- Movies | DE/FILM ~ 2024 (562) ---
+# --- Movies | DE/FILM ~ 2024 (561) ---
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/369-3697423_de-german-flag-vector-clipart.png" group-title="Movies | DE/FILM ~ 2024",*****GERMANY CINEMA 2024*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48327.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="Movies | DE/FILM ~ 2024",Mea Culpa (2024)
@@ -6164,8 +6164,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63219.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63220.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vF7p86p3shNy3xOKggPZjVAWgVu.jpg" group-title="Movies | DE/FILM ~ 2024",Erbsünde - Veil of Sin (2024) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63224.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/um43auXEUfW7UujrfwCXpD4eQRz.jpg" group-title="Movies | DE/FILM ~ 2024",Ти – Космос (2025) DE
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63225.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzmpHMRaTY4wJ0DhXbx5DVvDUAj.jpg" group-title="Movies | DE/FILM ~ 2024",Vermiglio (2024) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63226.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j886YEkIUsiImY53px5VHKD4lRa.jpg" group-title="Movies | DE/FILM ~ 2024",Ultraman: Rising (2024)
@@ -8151,7 +8149,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60971.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4vng2lpfkjLSAJa6IW0ouvXTf6.jpg" group-title="Movies | DE/FILM ~ DISNEY+",Onward (2020) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62542.mp4
 
-# --- Movies | DE/FILM ~ DOKUMENTATION (15) ---
+# --- Movies | DE/FILM ~ DOKUMENTATION (16) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/um43auXEUfW7UujrfwCXpD4eQRz.jpg" group-title="Movies | DE/FILM ~ DOKUMENTATION",U Are the Universe (2024) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63225.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7jQIbTMx2BlZrYGyOS94YUNcGjV.jpg" group-title="Movies | DE/FILM ~ DOKUMENTATION",Hinter den Kulissen von Stranger Things: The First Shadow (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/59064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAAdoOyCm3DqrOyj0h2icPpeHHw.jpg" group-title="Movies | DE/FILM ~ DOKUMENTATION",Being Eddie (2025) DE
@@ -10478,11 +10478,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/21.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/36470.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Ask ve Gozyasi  7.Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Arka Sokaklar 728.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Arka Sokaklar 729.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/379.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Tasacak Bu Deniz 8.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ7u0TTOz8pTshKMnxuNAa7MdMi.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Kizilcik Serbeti 114.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ7u0TTOz8pTshKMnxuNAa7MdMi.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Kizilcik Serbeti 115.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mkv
 
 # --- Movies | TR/DIZI ~ CUMARTESI (4) ---
@@ -12263,7 +12263,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TURKCELL TV+",BMF
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1602.mp4
 
-# --- Movies | TR/DIZI ~ TV (43) ---
+# --- Movies | TR/DIZI ~ TV (45) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Güller ve Günahlar (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1712.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Sakıncalı (2025)
@@ -12348,6 +12348,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1757.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1758.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Kuruluş: Orhan (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1773.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Taşacak Bu Deniz (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1805.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Arka Sokaklar (2006)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1806.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Uzak Şehir (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1611.mp4
 
@@ -20019,4 +20023,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63209.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 9869
+# Total: 9871

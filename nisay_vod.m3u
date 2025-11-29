@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-11-29 06:59:14
+# Generated: 2025-11-29 18:29:42
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5799,7 +5799,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1791.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",The Mighty Nein
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1802.mp4
 
-# --- Movies | BEIN/TODD (53) ---
+# --- Movies | BEIN/TODD (54) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Fandom
@@ -5906,6 +5906,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1788.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1789.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",King & Conqueror
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1799.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Sweetpea
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1807.mp4
 
 # --- Movies | BELGESEL (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BELGESEL",Gezegenimizde Yasam
@@ -12571,7 +12573,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158608.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxBiUIJDwSABoYZQFdpq52RbD84.jpg" group-title="Movies | DE: FILME 2025",DE: Der Sohn von tausend Männern (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158609.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYEdduy7YnoC733Itl3Uuxe2yJ6.jpg" group-title="Movies | DE: FILME 2025",DE: Predator: Badlands (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158436.mkv
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158436.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="Movies | DE: FILME 2025",DE: Beast of War (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158437.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5k2WV1i6jcnbPmRhoXSEQWQGT9u.jpg" group-title="Movies | DE: FILME 2025",DE: One Battle After Another (2025)
@@ -13173,9 +13175,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158459.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1HisUuEhl3NJsO157CI6qo1URV.jpg" group-title="Movies | DE: FILME 2026",DE: Love Me Dead (2026)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158412.mp4
 
-# --- Movies | DE: HBO MAX (1) ---
+# --- Movies | DE: HBO MAX (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: ES: Welcome to Derry
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1749.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: I Love LA
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1808.mp4
 
 # --- Movies | DE: NETFLIX (123) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Squid Game
@@ -18775,7 +18779,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/79637.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebo8C1dZeQyYy295VIDKrlYtNK2.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Bir Yilan Hikayesi 2020
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/76564.mkv
 
-# --- Movies | TURKCELL TV (32) ---
+# --- Movies | TURKCELL TV (33) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",11.22.63
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/189.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Clique
@@ -18840,6 +18844,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1689.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1792.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Merteuil - The Seduction
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1793.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",The Truth About the Harry Quebert Affair
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1809.mp4
 
 # --- Movies | WESTERN FILM (75) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Mvue0WIqWABfVvO1GcRN7hgvtO.jpg" group-title="Movies | WESTERN FILM",Muhteşem Yedili (2016)
@@ -19513,4 +19519,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9689
+# Total: 9692

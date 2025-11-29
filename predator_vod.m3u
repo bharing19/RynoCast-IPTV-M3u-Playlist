@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-11-29 06:58:22
+# Generated: 2025-11-29 18:28:34
 # Expires: 2026-10-15
 # Family Safe Edition
 # ==============================================
@@ -91,7 +91,9 @@ http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/127.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Game of Thrones (US)-DE
 http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/126.mp4
 
-# --- Movies | Filma Per femije (112) ---
+# --- Movies | Filma Per femije (113) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="Movies | Filma Per femije",Pufët (2025)
+http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/81895.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg" group-title="Movies | Filma Per femije",Snow White and the Seven Dwarfs (1938)
 http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/80211.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="Movies | Filma Per femije",Harry Potter dhe dhurata e vdekjes Pjesa 2 (2011)
@@ -317,9 +319,11 @@ http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/61100.mk
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1097) ---
+# --- Movies | Filma me titra Shqip (1098) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="Movies | Filma me titra Shqip",Smurfs (2025)
+http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/81894.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujPYxfpnUiA9cF5iwameF5k1wfC.jpg" group-title="Movies | Filma me titra Shqip",Wildcat (2025)
 http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/81852.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8Gn8xNIeOxAzHP6uusdGlUYu4s.jpg" group-title="Movies | Filma me titra Shqip",Altered (2025)
@@ -5613,4 +5617,4 @@ http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/69013.mk
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/vllaunedimitholan200100114/mgnrYW5Bb/69012.mkv
 
-# Total: 2797
+# Total: 2799

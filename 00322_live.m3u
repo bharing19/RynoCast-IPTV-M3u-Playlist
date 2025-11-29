@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 00322.xyz:8000
-# Generated: 2025-11-29 06:58:24
+# Generated: 2025-11-29 18:24:51
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -5791,7 +5791,7 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/127120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Holanda ⭐",HOLANDA: FOX SPORTS 1 HD
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/127121.m3u8
 
-# --- Honduras⭐️ (42) ---
+# --- Honduras⭐️ (45) ---
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/teleceiba.png" group-title="Honduras⭐️",HND: HON-TELECEIBA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125925.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online-324x160.png" group-title="Honduras⭐️",HND: HON-CHOLUSAT
@@ -5810,6 +5810,8 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125931.m3u8
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125932.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Telecadena-7-y-4-en-vivo-Online.png" group-title="Honduras⭐️",HND: HON_TELECADENA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125933.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioideal104.com/images/banner2.png" group-title="Honduras⭐️",HND: Televisión Ideal FM 104 HD*
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125934.m3u8
 #EXTINF:-1 tvg-logo="https://hondudiario.com/wp-content/uploads/2019/08/HCH.png" group-title="Honduras⭐️",HND: HCH
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/125935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras⭐️",HND: Honduras || FM
@@ -5828,7 +5830,7 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131630.m3u8
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131631.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/1280px-01_mega_logo.svg.png" group-title="Honduras⭐️",HND: MEGATV
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131633.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Honduras⭐️",HND: SULAVISION
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c4cc0e49656508b41e74c635b95a0ae2d19b6e4d078030216faa420786ac614b.png" group-title="Honduras⭐️",HND: Puringla TV HD*
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131634.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras⭐️",HND: 29 TELECEIBA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131635.m3u8
@@ -5848,13 +5850,17 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131641.m3u8
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/144607.m3u8
 #EXTINF:-1 tvg-logo="https://www.atv.hn/wp-content/uploads/2021/01/cropped-logo.jpg" group-title="Honduras⭐️",HND: ATV DIGITAL HD
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/148891.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8gcr7fn.png" group-title="Honduras⭐️",HND: CTV 20 DIGITAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/1200px-Tigo_Sports_2025.png" group-title="Honduras⭐️",HND: Tigo Sports Honduras HD*
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/149873.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleceiba.png" group-title="Honduras⭐️",HND: TELECEIBA
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/151871.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/activatvhonduras.png" group-title="Honduras⭐️",HND: TV 27.2 CENTRO HD
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/160912.m3u8
-#EXTINF:-1 tvg-logo="https://waldivision.tv/wp-content/uploads/2022/10/preloader-300x72-2.png" group-title="Honduras⭐️",HND: WALDIVISION INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Telecadena7y42018.png" group-title="Honduras⭐️",HND: Telecadena 7 y 4 (HD)
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/160913.m3u8
+#EXTINF:-1 tvg-logo="https://televisionolanchana.com/wp-content/uploads/2024/02/cropped-LOGO-CANAL-HD-png.png" group-title="Honduras⭐️",HND: Television Olanchana 30 HD*
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/160914.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c4cc0e49656508b41e74c635b95a0ae2d19b6e4d078030216faa420786ac614b.png" group-title="Honduras⭐️",HND: Telerayo HD*
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/160915.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Choluvision.png" group-title="Honduras⭐️",HND: TV CENTRO 27.2
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/160916.m3u8
@@ -11214,7 +11220,7 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/283497.m3u8
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/4869.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="⭐️Todo el Caribe⭐️ Caribbean",CARIBE: PBA RUSH  Philippines
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/6615.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐️Todo el Caribe⭐️ Caribbean",CARIBE:﻿ Nos Pais TV CW
+#EXTINF:-1 tvg-logo="" group-title="⭐️Todo el Caribe⭐️ Caribbean",CARIBE:﻿ KHNL-TV NBC 13 (Honolulu HI) HD*
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/6781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⭐️Todo el Caribe⭐️ Caribbean",CARIBE: Beach TV
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/151288.m3u8
@@ -12579,4 +12585,4 @@ http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/240857.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/1200px-Rakuten_Viki_Logo_2019.svg.png" group-title="⭐️¡México! TV Premium⭐️",MX || RAKUTEN VIKI Channel FHD/HD®
 http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/6831.m3u8
 
-# Total: 6196
+# Total: 6199

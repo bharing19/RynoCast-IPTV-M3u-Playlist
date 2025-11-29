@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-11-29 06:59:21
+# Generated: 2025-11-29 18:30:40
 # Expires: 2025-12-18
 # Family Safe Edition
 # ==============================================
@@ -5357,7 +5357,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/330353.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uG1CczBQtAFxBvRIAT7R4oSaIaz.jpg" group-title="Movies | CLASSICO",SEGUNDAS INTENCOES
 http://brone.fyi/movie/felipe_irma/Teste44/330370.mp4
 
-# --- Movies | COMEDIA (1702) ---
+# --- Movies | COMEDIA (1703) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxHwFDH0HlAZjVAnX0gd619Bahk.jpg" group-title="Movies | COMEDIA",10 ANOS DE PURA AMIZADE
 http://brone.fyi/movie/felipe_irma/Teste44/263742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="Movies | COMEDIA",10 COISAS QUE EU ODEIO EM VOCE
@@ -8762,6 +8762,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/330034.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/330035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njuFQSSH0Ne9Hk978Exb1JJLOop.jpg" group-title="Movies | COMEDIA",UMA VIDA QUASE NORMAL
 http://brone.fyi/movie/felipe_irma/Teste44/330038.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIyWIT8LuJ7D9Q4AgM7QcSwDx4m.jpg" group-title="Movies | COMEDIA",PRECISAMOS CONVERSAR
+http://brone.fyi/movie/felipe_irma/Teste44/331028.mp4
 
 # --- Movies | DESENHOS (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",O MASKARA
@@ -13495,7 +13497,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/328100.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srGK179sVHiuk4gwIQKGvnRtVJs.jpg" group-title="Movies | INFANTIL",MILAGROS UMA URSA EXTRAORDINARIA
 http://brone.fyi/movie/felipe_irma/Teste44/328718.mp4
 
-# --- Movies | LEGENDADO (2244) ---
+# --- Movies | LEGENDADO (2245) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="Movies | LEGENDADO",007 SEM TEMPO PARA MORRER LEG
 http://brone.fyi/movie/felipe_irma/Teste44/218670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eB6nWq0dd3VGtJVKeFdYMfZ3alb.jpg" group-title="Movies | LEGENDADO",100 DAYS TO LIVE LEG
@@ -17984,6 +17986,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/329977.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/330016.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32EgPpuNr90ZoS5t28SW9XMWss4.jpg" group-title="Movies | LEGENDADO",O JULGAMENTO DE PARIS LEG
 http://brone.fyi/movie/felipe_irma/Teste44/330020.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIyWIT8LuJ7D9Q4AgM7QcSwDx4m.jpg" group-title="Movies | LEGENDADO",PRECISAMOS CONVERSAR LEG
+http://brone.fyi/movie/felipe_irma/Teste44/331027.mp4
 
 # --- Movies | MARVEL & DC (97) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Movies | MARVEL & DC",A MORTE DO SUPERMAN
@@ -35393,4 +35397,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17651
+# Total: 17653

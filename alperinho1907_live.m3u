@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alperinho1907.kralsmart.xyz:2086
-# Generated: 2025-11-29 07:00:26
+# Generated: 2025-11-29 18:34:57
 # Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
@@ -1073,110 +1073,36 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/170928.m3u8
 
-# --- DE-DAZN EVENT (214) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9yhazczbji4b1rq4egl2gluqp_image-header_pDach_1763750060000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Whittaker vs. Gavazi: Weigh-In (2025-11-28 13:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171187.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5xyn2jwune4v158pysl35vtw6_image-header_pDach_1763739053000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Purdue @ Eastern Illinois (2025-11-28 17:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171188.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1fsax3mrxbyj71g40gw1eb9usz_image-header_pDach_1763725551000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ole Miss @ Mississippi State (2025-11-28 17:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171189.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1pqaoq2ig0o281rgb7bwv8x5vi_image-header_pDach_1763377991000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Illinois vs. UConn (2025-11-28 17:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171190.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1d5zyf5jp7fpj1rrk1rywf6tzd_image-header_pDach_1762595823000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rangers @ Bruins (2025-11-28 18:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171191.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cpkw217bibsizzw8wij470ct0_image-header_pDach_1762851638000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gijon - Andorra (2025-11-28 19:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171192.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c4cdzizdy8gyom4bn2hxmapen_image-header_pDach_1761907238000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Como - Sassuolo (italienischer Kommentar) (2025-11-28 19:45:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171193.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dsug0yj635ipkprj1y03ompgr_image-header_pDach_1761907238000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Como - Sassuolo (2025-11-28 19:45:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171194.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9kf2l63shkkp9kk3bt75ylsr0_image-header_pDach_1759927648000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Metz - Rennes (2025-11-28 19:45:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171195.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8dnadyxmv864hfkthp8ckvqf6_image-header_pDach_1762938424000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mechelen - Lüttich (2025-11-28 19:45:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171196.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6092an6btk0wgscafdayf4is3_image-header_pDach_1762349371000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Getafe - Elche (2025-11-28 20:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171197.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mz5dth5jv9af1lgc25j3qegvi_image-header_pDach_1751967477000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bears @ Eagles (2025-11-28 20:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171198.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ncq7vtsv36go1hcbc9j2y7s32_image-header_pDach_1762733876000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Avalanche @ Wild (2025-11-28 20:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171199.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/p4omxhh7v2fe1id7xb9ny8lqh_image-header_pDach_1763725755000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Georgia @ Georgia Tech (2025-11-28 20:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171200.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/194qliizaxce1dguopph7nzf4_image-header_pDach_1762789256000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Canucks @ Sharks (2025-11-28 21:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171201.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/en94vfbq5vgwzm3vscv39b97_image-header_pDach_1762789256000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Flyers @ Islanders (2025-11-28 21:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171202.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15by89ovcamfg1vclz70wg4poq_image-header_pDach_1762595823000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Canadiens @ Golden Knights (2025-11-28 21:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171203.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3nzbiv2pf9dl11z771dy1g4ot_image-header_pDach_1762733876000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings @ Ducks (2025-11-28 21:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171204.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sli4l6u9mr1o14hxtq4r3usmk_image-header_pDach_1762733876000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Devils @ Sabres (2025-11-28 21:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171205.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/irrmdfm7rhv1ekzcmn1v2a0x_image-header_pDach_1762789256000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Flames @ Panthers (2025-11-28 21:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171206.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1fdyosct4d9tn13ybcflefx739_image-header_pDach_1762793606000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jets @ Hurricanes (2025-11-28 22:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171207.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/91jk3ra092qt1lxzmocei5h1m_image-header_pDach_1762947639000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Maple Leafs @ Capitals (2025-11-28 22:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171208.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vcbpg9ddld9a1ogri5kln6hr0_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jamaica - Puerto Rico (2025-11-28 23:10:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171209.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1254ygdei318d10b17kuoa0uv1_image-header_pDach_1763725892000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Texas A&M @ Texas (2025-11-29 00:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171211.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1l80jqtk0pika170hwp2ielmnx_image-header_pDach_1762795613000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mammoth @ Stars (2025-11-29 01:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171212.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bswlclwjqnly16na71b1rv3i6_image-header_pDach_1763273617000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Predators @ Blackhawks (2025-11-29 01:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171213.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1p9ccetuoj5qd1g4dxzxq17u2x_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nicaragua - United States (2025-11-29 01:10:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171214.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6dde8ug73u1r1k63vpwyuo630_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bahamas - Canada (2025-11-29 01:40:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171215.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1x8miafsm1hxm1lqyjwgzjrlih_image-header_pDach_1763549494000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Arizona @ Arizona State (2025-11-29 02:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171216.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1r71bwzx1vxkz1aeatly1g2ty8_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mexico - Dominican Republic (2025-11-29 02:40:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171217.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/wm4qgi7ipqwm1ldnuq0f0o6s7_image-header_pDach_1763564398000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rally Saudi Arabia: Good Morning Rally Fans (2025-11-29 05:30:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171218.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ngiztv3em7g215k6ypzayhupx_image-header_pDach_1763564538000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rally Saudi Arabia: Stage 15 (2025-11-29 06:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171219.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c1prq6tlbbbixppkeiw6501j7_image-header_pDach_1760288123000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",ADL 500 Supercars Event (2025-11-29 07:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171220.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15eci04mz8al61ak1am9xqgh3p_image-header_pDach_1763569299000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rally Saudi Arabia : Stage 16 (2025-11-29 07:21:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171221.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cmenqpx0alj63jwcnujtwq77b_image-header_pDach_1763027379000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Samstag | 29. November (Eurosport 1) (2025-11-29 07:50:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171222.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xycgntjljcvh1kiuswjz1xrji_image-header_pDach_1763569783000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rally Saudi Arabia : Stage 17 (2025-11-29 10:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171223.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/drory7x8difay8nol6adrvclt_image-header_pDach_1763116751000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Rungkhao vs Flukenoi (2025-11-29 12:00:00)
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171224.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/equ04tx6gelurkb5r5k6al5te_image-header_pDach_1756968635000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bundesliga-Konferenz | 12. Spieltag (2025-11-29 13:00:00)
+# --- DE-DAZN EVENT (177) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/equ04tx6gelurkb5r5k6al5te_image-header_pDach_1756968635000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bundesliga-Konferenz | 12. Spieltag (2025-11-29 14:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171225.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/33cdl89i2k7mvyshrz8gtgj65_image-header_pDach_1762627896000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jeddah | Grand Prix (2025-11-29 13:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/33cdl89i2k7mvyshrz8gtgj65_image-header_pDach_1762627896000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Runde 3 | Australian GP
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171226.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/75jjzu63v55c39dakvdhsozhc_image-header_pDach_1760438225000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Riyadh Racing Season Race Night 8 (2025-11-29 13:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171227.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5bkf78tm54pk9a3re156uzsa2_image-header_pDach_1762348757000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mallorca - Osasuna (2025-11-29 13:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5bkf78tm54pk9a3re156uzsa2_image-header_pDach_1762348757000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mallorca - Osasuna (2025-11-29 14:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171228.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d9jwdjienh51h19qqxyh1b9za_image-header_pDach_1761908000000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFC Genua - Hellas Verona (2025-11-29 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d9jwdjienh51h19qqxyh1b9za_image-header_pDach_1761908000000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFC Genua - Hellas Verona (2025-11-29 15:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171229.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8s5uts7aodpkdqfkdiwvosm0x_image-header_pDach_1761908411000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Udinese (2025-11-29 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8s5uts7aodpkdqfkdiwvosm0x_image-header_pDach_1761908411000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Udinese (2025-11-29 15:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171230.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5k0d8nfbip8lq1vuyv3kaoe_image-header_pDach_1761908000000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFC Genua - Hellas Verona (italienischer Kommentar) (2025-11-29 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5k0d8nfbip8lq1vuyv3kaoe_image-header_pDach_1761908000000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFC Genua - Hellas Verona (italienischer Kommentar) (2025-11-29 15:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171231.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c0t5why82vd28x7qthx1zf3pw_image-header_pDach_1761908411000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Udinese (italienischer Kommentar) (2025-11-29 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c0t5why82vd28x7qthx1zf3pw_image-header_pDach_1761908411000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Udinese (italienischer Kommentar) (2025-11-29 15:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171232.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2al9550noexn6jptdc7nmsf1b_image-header_pDach_1762348972000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Barcelona - Alaves (2025-11-29 15:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2al9550noexn6jptdc7nmsf1b_image-header_pDach_1762348972000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Barcelona - Alaves (2025-11-29 16:15:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171233.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/877x6j4fo7wbvzce68zartpx4_image-header_pDach_1733766446000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Monaco - PSG (2025-11-29 16:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/877x6j4fo7wbvzce68zartpx4_image-header_pDach_1733766446000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Monaco - PSG (2025-11-29 18:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171234.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2f1szty5205laoui56a0lgxlx_image-header_pDach_1759880852000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",ALL IN | Die Bundesliga-Highlight-Show (12. Spieltag) (2025-11-29 16:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2f1szty5205laoui56a0lgxlx_image-header_pDach_1759880852000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",ALL IN | Die Bundesliga-Highlight-Show (12. Spieltag) (2025-11-29 17:30:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171235.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9sk251fbo41ha5b42f715djo2_image-header_pDach_1761909642000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Cagliari (2025-11-29 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9sk251fbo41ha5b42f715djo2_image-header_pDach_1761909642000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Cagliari (2025-11-29 18:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171236.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amlz8o8bznq2v70skkpb302hi_image-header_pDach_1761909642000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Cagliari (italienischer Kommentar) (2025-11-29 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amlz8o8bznq2v70skkpb302hi_image-header_pDach_1761909642000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Cagliari (italienischer Kommentar) (2025-11-29 18:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171237.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/51tlbomqlwu019t5bd315eewx_image-header_pDach_1763739053000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Indiana @ Bethune-Cookman (2025-11-29 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/51tlbomqlwu019t5bd315eewx_image-header_pDach_1763739053000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Indiana @ Bethune-Cookman (2025-11-29 18:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171238.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2nbriujbkc41a43ww91gwtoyc_image-header_pDach_1762349194000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Levante - Bilbao (2025-11-29 17:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2nbriujbkc41a43ww91gwtoyc_image-header_pDach_1762349194000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Levante - Bilbao (2025-11-29 18:30:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171239.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ijgl6xwws5snycyhm9gkokp8_image-header_pDach_1759927648000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Paris FC - Auxerre (2025-11-29 18:00:00)
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/171240.m3u8
@@ -7153,4 +7079,4 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165884.m3u8
 
-# Total: 3516
+# Total: 3479

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-11-29 07:07:44
+# Generated: 2025-11-29 18:27:33
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -4518,19 +4518,19 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1559195.m3u8
 # --- FR| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C36P8bZy/MAX-Logo-GIF.gif" group-title="FR| MAX PPV",####### MAX PPV #######
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536203.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 1 - SECRET GARDEN | BIG AIR | Sat 29 Nov 01:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 1 - UCI BMX FREESTYLE WORLD CUP | SAKAI | Sat 29 Nov 09:15 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536202.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 2 - INNSBRUCK | WOMEN'S MONOBOB | Sat 29 Nov 13:15 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536201.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 3 - RUKA | MEN'S AND WOMEN'S CLASSIC SPRINT | Sat 29 Nov 11:15 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536200.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 4 - SWEDEN - SCOTLAND | Sat 29 Nov 09:00 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536199.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 5 - OSTERSUND | WOMEN'S RELAY | Sat 29 Nov 12:30 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536198.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 6 - WINTER SPORTS : BEST ACTION | Sat 29 Nov 13:13 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536197.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 7 - RUKA | MEN'S HS 142 | Sat 29 Nov 13:15 | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536196.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/1536195.m3u8

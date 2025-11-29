@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2025-11-29 07:01:04
+# Generated: 2025-11-29 18:23:48
 # Expires: 2025-12-18
 # Family Safe Edition
 # ==============================================
@@ -581,7 +581,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10896.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",스터디그룹 (2025) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10939.mp4
 
-# --- Movies | Animación (603) ---
+# --- Movies | Animación (605) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",009-1 (2006) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5734.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Ririsa, una chica en 2.5D (2024) (.Sub.)
@@ -1788,6 +1788,10 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10933.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10934.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",With You and the Rain (2025) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10941.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Duck Dodgers (2003) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10944.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Frieren: Más allá del final del viaje (2023) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10946.mp4
 
 # --- Movies | Apple Tv (118) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple Tv",4 Blocks (2017) (.Sub.)
@@ -4175,7 +4179,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10925.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Contenido Antiguo que se Sustituira",intro02
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10497.mp4
 
-# --- Movies | Crimen (407) ---
+# --- Movies | Crimen (408) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",22, el loco (2001) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5755.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",30 monedas (2020) (.Sub.)
@@ -4990,6 +4994,8 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10879.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10898.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",Manipulado (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10929.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",Tú siempre estuviste ahí (2025) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10945.mp4
 
 # --- Movies | Crunchyroll / Anime (288) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crunchyroll / Anime",Ririsa, una chica en 2.5D (2024) (.Sub.)
@@ -25337,4 +25343,4 @@ http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5387
 #EXTINF:-1 tvg-logo="" group-title="Series | TV-SHOW | TELENOVELAS / NARCOSERIES",Velvet el nuevo imperio (2025) lat
 http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5403
 
-# Total: 12599
+# Total: 12602

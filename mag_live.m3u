@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mag.4k365.xyz:80
-# Generated: 2025-11-29 07:03:25
+# Generated: 2025-11-29 18:31:54
 # Expires: 2026-03-23
 # Family Safe Edition
 # ==============================================
@@ -898,19 +898,19 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1433903.m3u8
 # --- PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="" group-title="PL| MAX PPV",####### MAX PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640751.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640750.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640750.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - SZWECJA - SZKOCJA | KOBIETY | Sat 29 Nov 09:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640750.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640749.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640749.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - RUKA | KWALIFIKACJE DO 1. KONKURSU, HS 142 | Sat 29 Nov 13:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640749.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640748.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640748.png" group-title="PL| MAX PPV",PL: MAX PPV 3 - SAKAI | FINAŁY FLATLANDU MĘŻCZYZN | Sat 29 Nov 12:30 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640748.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640747.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640747.png" group-title="PL| MAX PPV",PL: MAX PPV 4 - LOHJA | FINAŁ KOBIET | Sat 29 Nov 09:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640747.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640746.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640746.png" group-title="PL| MAX PPV",PL: MAX PPV 5 - SAKAI | PÓŁFINAŁY PARKU MĘŻCZYZN | Sat 29 Nov 09:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640746.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640745.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640745.png" group-title="PL| MAX PPV",PL: MAX PPV 6 - RUKA | FINAŁY SPRINTU STYLEM KLASYCZNYM | Sat 29 Nov 11:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640745.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640744.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640744.png" group-title="PL| MAX PPV",PL: MAX PPV 7 - RUKA | STUDIO + KWALIFIKACJE DO 1. KONKURSU, HS 142 | Sat 29 Nov 13:03 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640744.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640743.png" group-title="PL| MAX PPV",PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640743.m3u8
@@ -3054,23 +3054,23 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1363966.m3u8
 # --- UK| DAZN PPV (31) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DAZN PPV",####### DAZN PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602972.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - POKERSTARS #6 | Fri 28 Nov 21:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602973.png" group-title="UK| DAZN PPV",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602973.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - RADY CHILDREN'S INVITATIONAL - CHAMPIONSHIP GAME: WISCONSIN @ TCU | Fri 28 Nov 23:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602974.png" group-title="UK| DAZN PPV",UK: DAZN PPV 2 - RIYADH RACING SEASON RACE NIGHT 8 | Sat 29 Nov 12:40 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602974.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - INDIANA @ PURDUE | Sat 29 Nov 01:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602975.png" group-title="UK| DAZN PPV",UK: DAZN PPV 3 - RWS: RUNGKHAO VS. FLUKENOI | Sat 29 Nov 12:50 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - TEXAS A&M @ TEXAS | Sat 29 Nov 01:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602976.png" group-title="UK| DAZN PPV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602976.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602977.png" group-title="UK| DAZN PPV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602977.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602978.png" group-title="UK| DAZN PPV",UK: DAZN PPV 6 - TEXAS A&M @ FLORIDA STATE | Fri 28 Nov 22:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602978.png" group-title="UK| DAZN PPV",UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602978.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602979.png" group-title="UK| DAZN PPV",UK: DAZN PPV 7 - MAGIC BRACKET 3RD-PLACE GAME: MIAMI @ GEORGETOWN | Sat 29 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602979.png" group-title="UK| DAZN PPV",UK: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602979.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602980.png" group-title="UK| DAZN PPV",UK: DAZN PPV 8 - OHIO STATE @ PITTSBURGH | Sat 29 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602980.png" group-title="UK| DAZN PPV",UK: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602980.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602981.png" group-title="UK| DAZN PPV",UK: DAZN PPV 9 - BATTLE 4 ATLANTIS - 7TH-PLACE GAME: WICHITA STATE @ WESTERN KENTUCKY | Sat 29 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602981.png" group-title="UK| DAZN PPV",UK: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602981.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602982.png" group-title="UK| DAZN PPV",UK: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602982.m3u8
@@ -3144,25 +3144,25 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/549409.m3u8
 # --- UK| DISCOVERY + PPV (100) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| DISCOVERY + PPV",####### DISCOVERY+ PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602185.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602186.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602186.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - WESTERN SYDNEY WANDERERS - SYDNEY FC | Sat 29 Nov 08:29 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602186.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - SWEDEN - SCOTLAND | Sat 29 Nov 08:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602187.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - INNSBRUCK | WOMEN'S MONOBOB | Sat 29 Nov 12:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602188.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602189.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602189.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 4 - WRC | Sat 29 Nov 10:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602189.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602190.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602190.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 5 - UCI BMX FREESTYLE WORLD CUP | SAKAI | Sat 29 Nov 08:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602190.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602191.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602191.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 6 - MUBADALA ABU DHABI SAILGP GRAND FINAL | Sat 29 Nov 10:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602191.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602192.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602192.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 7 - RUKA | MEN'S AND WOMEN'S CLASSIC SPRINT | Sat 29 Nov 10:15 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602192.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602193.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602193.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 8 - NORTH MELBOURNE - BRISBANE LIONS | Sat 29 Nov 08:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602193.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602194.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602194.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 9 - OSTERSUND | WOMEN'S RELAY | Sat 29 Nov 11:30 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602194.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602195.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602195.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 10 - ÖSTERSUND | WOMEN'S RELAY | Sat 29 Nov 12:00 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602195.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602196.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 11 - BRAMPTON WOLVES - MONTREAL TIGERS | Tue 30 Jul 21:45
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602196.m3u8
@@ -6160,39 +6160,39 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/997056.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/507138.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1333143.png" group-title="UK| PPV EVENTS",UFC 294: Pre-Fight Press Conference
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1333143.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022191.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022191.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - 7PM WWE Survivor Series
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022191.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022190.png" group-title="UK| PPV EVENTS",LIVE EVENT 02 -  NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022190.png" group-title="UK| PPV EVENTS",LIVE EVENT 02 - (SD) WWE Survivor Series
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022190.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022189.png" group-title="UK| PPV EVENTS",LIVE EVENT 03 - 8PM Budo Sento Championship Vol 32
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022189.png" group-title="UK| PPV EVENTS",LIVE EVENT 03 - 7:30AM IBC II Waseem v Majungoe
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022189.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023137.png" group-title="UK| PPV EVENTS",LIVE EVENT 04 - 11:30AM Turkey Derby Wall Stadium
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023137.png" group-title="UK| PPV EVENTS",LIVE EVENT 04 - 10AM Fight Club Rush 26
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023137.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023138.png" group-title="UK| PPV EVENTS",LIVE EVENT 05 - 6:15PM USAC Turkey Night Grand Prix Ventura
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023138.png" group-title="UK| PPV EVENTS",LIVE EVENT 05 - 12:15/2PM Whittaker v Gavazi
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023138.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023140.png" group-title="UK| PPV EVENTS",LIVE EVENT 06 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023140.png" group-title="UK| PPV EVENTS",LIVE EVENT 06 - 1PM Clarke v Tshikeva
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023140.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023141.png" group-title="UK| PPV EVENTS",LIVE EVENT 07 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023141.png" group-title="UK| PPV EVENTS",LIVE EVENT 07 - 1:30PM Bad Blood
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023141.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023142.png" group-title="UK| PPV EVENTS",LIVE EVENT 08 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023142.png" group-title="UK| PPV EVENTS",LIVE EVENT 08 - 2:30pm FCC 44
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023142.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023143.png" group-title="UK| PPV EVENTS",LIVE EVENT 09 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023143.png" group-title="UK| PPV EVENTS",LIVE EVENT 09 - 2:30PM Oktagon Rome
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023143.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023139.png" group-title="UK| PPV EVENTS",LIVE EVENT 10 - AEW All In Texas 2025 // UK Sat 12 Jul 8:00pm // ET Sat 12 Jul 3:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023139.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023144.png" group-title="UK| PPV EVENTS",LIVE EVENT 11 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023144.png" group-title="UK| PPV EVENTS",LIVE EVENT 11 - 3PM Nowhere 2 Hyde Revolution
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023144.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023145.png" group-title="UK| PPV EVENTS",LIVE EVENT 12 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023145.png" group-title="UK| PPV EVENTS",LIVE EVENT 12 - 6PM Lafreniere v Ntetu
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023145.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023146.png" group-title="UK| PPV EVENTS",LIVE EVENT 13 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023146.png" group-title="UK| PPV EVENTS",LIVE EVENT 13 - 7PM Pauldo v Theran
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023146.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023147.png" group-title="UK| PPV EVENTS",LIVE EVENT 14 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023147.png" group-title="UK| PPV EVENTS",LIVE EVENT 14 - 9PM Luna v Jardon (en Espanol)
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023147.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023148.png" group-title="UK| PPV EVENTS",LIVE EVENT 15 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023148.png" group-title="UK| PPV EVENTS",LIVE EVENT 15 - 10PM Pierce v Parra (en Espanol)
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023148.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023149.png" group-title="UK| PPV EVENTS",LIVE EVENT 16 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023149.png" group-title="UK| PPV EVENTS",LIVE EVENT 16 - 11:30AM Turkey Derby Wall Stadium
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023149.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023150.png" group-title="UK| PPV EVENTS",LIVE EVENT 17 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023150.png" group-title="UK| PPV EVENTS",LIVE EVENT 17 - 6:15PM USAC Turkey Night Grand Prix Ventura
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023150.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1023151.png" group-title="UK| PPV EVENTS",LIVE EVENT 18 - NO EVENT
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1023151.m3u8
@@ -6610,21 +6610,21 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1917825.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1917824.m3u8
 
 # --- UK| RUGBY PPV (24) ---
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431825.png" group-title="UK| RUGBY PPV",Rugby 1: Newcastle vs Leicester 7:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431825.png" group-title="UK| RUGBY PPV",Rugby 1: Bulls vs Lions 12:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431825.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431826.png" group-title="UK| RUGBY PPV",Rugby 2: Dragons vs Leinster 7:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431826.png" group-title="UK| RUGBY PPV",Rugby 2: Zebre vs Cardiff 1:00pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431826.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431827.png" group-title="UK| RUGBY PPV",Rugby 3: Ulster vs Benetton 7:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431827.png" group-title="UK| RUGBY PPV",Rugby 3: Wales vs South Africa 3:10pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431827.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431828.png" group-title="UK| RUGBY PPV",Rugby 4: Wales vs Japan 5:40pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431828.png" group-title="UK| RUGBY PPV",Rugby 4: Edinburgh vs Ospreys 5:30pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431828.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431829.png" group-title="UK| RUGBY PPV",Rugby 5: France vs Fiji 8:10pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431829.png" group-title="UK| RUGBY PPV",Rugby 5: Munster vs Stormers 5:30pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431829.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431830.png" group-title="UK| RUGBY PPV",Rugby 6: Ireland vs Australia 8:10pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431830.png" group-title="UK| RUGBY PPV",Rugby 6: Bristol vs Northampton 5:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431830.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431831.png" group-title="UK| RUGBY PPV",Rugby 7: Italy vs Australia 5:40pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431831.png" group-title="UK| RUGBY PPV",Rugby 7: Connacht vs Sharks 7:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431831.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431832.png" group-title="UK| RUGBY PPV",Rugby 8: France vs South Africa 8:10pm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431832.png" group-title="UK| RUGBY PPV",Rugby 8: Scarlets vs Glasgow 7:45pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431832.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1431833.png" group-title="UK| RUGBY PPV",Rugby 9: Knights vs Dragons 4:45am Sun
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1431833.m3u8
@@ -7640,7 +7640,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1694290.m3u8
 # --- UK| UFC/BOXING PPV (18) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395687.png" group-title="UK| UFC/BOXING PPV",UFC| 24/7
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1395687.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395686.png" group-title="UK| UFC/BOXING PPV",UFC 00 : WOW FC 24 start:2025-11-28 20:25:00 stop:2025-11-29 02:30:00
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395686.png" group-title="UK| UFC/BOXING PPV",UFC 00 : FIGHT CLUB RUSH 26 start:2025-11-29 17:55:00 stop:2025-11-30 00:00:00
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1395686.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1395685.png" group-title="UK| UFC/BOXING PPV",UFC 02: CAGE WARRIORS 198 PRELIMS start:2025-11-22 18:25:00 stop:2025-11-22 21:30:00
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1395685.m3u8
@@ -7910,11 +7910,11 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1387222.m3u8
 # --- UK| VOLLEY BALL WORLD PPV (31) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",####### VOLLEY BALL WORLD PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1887442.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - SESC RJ FLAMENGO - GERDAU MINAS | ROUND 8 | Fri 28 Nov 23:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921441.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - PFRETZSCHNER, L./WINTER (GER) V MOL, A./SØRUM, C. (NOR) | MAIN DRAW | JOÃO PESSOA 2025 | Fri 19 Sep 12:57 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921440.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - FLUMINENSE - OSASCO SAO CRISTOVAO SAUDE | ROUND 8 | Fri 28 Nov 21:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921439.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921438.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2025-11-29 07:03:43
+# Generated: 2025-11-29 18:31:04
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -3785,7 +3785,7 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/549.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐DOCUMENTARE",Madoff: The Monster of Wall Street
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/550.mp4
 
-# --- Movies | ⭐DRAMA (114) ---
+# --- Movies | ⭐DRAMA (115) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐DRAMA",Britannia
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/51.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐DRAMA",Cocaine Coast
@@ -4014,6 +4014,8 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/576.mp4
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/589.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐DRAMA",1923
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/601.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⭐DRAMA",Chicago Fire
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/602.mp4
 
 # --- Movies | ⭐FILME 2019 (98) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="Movies | ⭐FILME 2019",10 Minutes Gone (2019)
@@ -21585,4 +21587,4 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐TURCESTI",Ömer
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/595.mp4
 
-# Total: 10743
+# Total: 10744

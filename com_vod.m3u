@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-11-29 07:07:26
+# Generated: 2025-11-29 18:32:25
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -23045,7 +23045,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/38008.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtlDK3r8G282Vi0cGMxLVJJkhke.jpg" group-title="Movies | YABANCI TURKCE DUBLAJ",Asla Pes Etme 3: Never Back Down (2013)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/59554.mkv
 
-# --- Series | TURK DIZILERI SERIES (94) ---
+# --- Series | TURK DIZILERI SERIES (93) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Güzel Köylü
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/67
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Kudus Fatihi: Selahaddin Eyyubi
@@ -23200,8 +23200,6 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1267
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1270
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Çift Kişilik Oda
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1284
-#EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Aile Saadeti
-http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1287
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Gözleri Karadeniz
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1298
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Çarpıntı
@@ -23235,4 +23233,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1313
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Sakıncalı
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 
-# Total: 11584
+# Total: 11583

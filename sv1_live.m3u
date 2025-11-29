@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-11-29 07:02:49
+# Generated: 2025-11-29 18:31:44
 # Expires: 2025-12-05
 # Family Safe Edition
 # ==============================================
@@ -1119,6 +1119,20 @@ http://sv1.casahd.com/live/123456/123456/1526736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIOS",RÁDIO TRILHAS DE SUCESSO
 http://sv1.casahd.com/live/123456/123456/1526738.m3u8
 
+# --- REALITY SHOW (6) ---
+#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 1
+http://sv1.casahd.com/live/123456/123456/2245771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 2
+http://sv1.casahd.com/live/123456/123456/2245772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 3
+http://sv1.casahd.com/live/123456/123456/2245773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 4
+http://sv1.casahd.com/live/123456/123456/2245774.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 5
+http://sv1.casahd.com/live/123456/123456/2245775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 6
+http://sv1.casahd.com/live/123456/123456/2245776.m3u8
+
 # --- RECORD (56) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/58986626cf0833351162ad19ac3e8cfc.png" group-title="RECORD",RECORD  MG HD
 http://sv1.casahd.com/live/123456/123456/1361154.m3u8
@@ -1417,4 +1431,4 @@ http://sv1.casahd.com/live/123456/123456/1361286.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aQgwktDQuNiT9D5jC6bb--1Mo04VLW3E2flLdrSgdZ9mw.png" group-title="VARIEDADE",WOOHOO SD
 http://sv1.casahd.com/live/123456/123456/1526322.m3u8
 
-# Total: 682
+# Total: 688
