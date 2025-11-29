@@ -13,71 +13,52 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Merge into 98MB file
+    - name: Merge all VOD playlists
       run: |
-        set -euo pipefail
-        MAXSIZE=98000000
-        TMPDIR="merged_tmp"
-        OUTFILE="$TMPDIR/combined-playlist.m3u"
+        mkdir -p merged_tmp
+        echo -n > merged_tmp/combined-playlist.m3u
 
-        rm -rf "$TMPDIR"
-        mkdir -p "$TMPDIR"
-        : > "$OUTFILE"
-
-        find . -type f -name "*.m3u" ! -path "./$TMPDIR/*" ! -name "MERGED_VOD.m3u" ! -name "combined-playlist.m3u" | \
-        while read -r file; do
+        find . -type f -name "*vod.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
           base=$(basename "$file" .m3u)
-
           awk -v grp="$base" '
-            BEGIN { inblock=0; block="" }
+            NR == 1 && $0 == "#EXTM3U" { next }
             /^#EXTINF/ {
-              if (inblock) { print block; block="" }
-              line=$0
-              if (line ~ /group-title="/) {
-                sub(/group-title="[^"]*"/, "group-title=\"" grp "\"", line)
+              if ($0 ~ /group-title="/) {
+                sub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
               } else {
-                sub(/^#EXTINF:/, "#EXTINF:-1 group-title=\"" grp "\"," , line)
+                sub(/#EXTINF:/, "#EXTINF:-1 group-title=\"" grp "\",")
               }
-              block=line "\n"
-              inblock=1
+              print
+              getline
+              print
               next
             }
-            {
-              if (inblock) block = block $0 "\n"
-            }
-            END { if (inblock) print block }
-          ' "$file" | while IFS= read -r entry; do
-
-            if [ -f "$OUTFILE" ]; then
-              PREV_SIZE=$(stat -c%s "$OUTFILE" || echo 0)
-            else
-              PREV_SIZE=0
-            fi
-
-            printf '%s\n' "$entry" >> "$OUTFILE"
-            NEW_SIZE=$(stat -c%s "$OUTFILE" || echo 0)
-
-            if [ "$NEW_SIZE" -ge "$MAXSIZE" ]; then
-              truncate -s "$PREV_SIZE" "$OUTFILE"
-              exit 0
-            fi
-          done
+            { print }
+          ' "$file" >> merged_tmp/combined-playlist.m3u
         done
 
-        if ! head -n1 "$OUTFILE" | grep -q "^#EXTM3U"; then
-          sed -i '1i #EXTM3U' "$OUTFILE"
-        fi
+        sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
+        mv merged_tmp/combined-playlist.m3u MERGED_VOD.m3u
+        rm -rf merged_tmp
 
-        mv "$OUTFILE" MERGED_VOD.m3u
-        rm -rf "$TMPDIR"
-
-    - name: Commit and push merged playlist
+    - name: Commit and push merged playlist (max 98 MB)
       run: |
         git config user.name "${{ secrets.GIT_U }}"
         git config user.email "${{ secrets.GIT_E }}"
-        git add MERGED_VOD.m3u || true
+
+        MAX_SIZE=$((98 * 1024 * 1024))
+        FILE_SIZE=$(stat -c%s "MERGED_VOD.m3u")
+
+        if [ $FILE_SIZE -le $MAX_SIZE ]; then
+          git add MERGED_VOD.m3u
+        else
+          split -b $MAX_SIZE MERGED_VOD.m3u MERGED_VOD_PART_
+          mv MERGED_VOD_PART_aa MERGED_VOD.m3u
+          git add MERGED_VOD.m3u
+        fi
+
         if ! git diff --cached --quiet; then
-          git commit -m "Auto-merged m3u (98MB limit) $(date -u +"%Y-%m-%d %H:%M UTC")"
+          git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
         else
           echo "No changes to commit"
