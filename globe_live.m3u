@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: globe.midomed.com:80
-# Generated: 2025-11-30 07:13:26
+# Generated: 2025-11-30 18:26:26
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -875,7 +875,7 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/12201.m3u8
 #EXTINF:-1 tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/ocs_ma10.png" group-title="CSAT-FRANCE",FR_OCS
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/207470.m3u8
 
-# --- CSAT-FRANCE H265 (39) ---
+# --- CSAT-FRANCE H265 (38) ---
 #EXTINF:-1 tvg-logo="" group-title="CSAT-FRANCE H265",FR_TF1.4K
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/21780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CSAT-FRANCE H265",FR_M6.4K
@@ -934,8 +934,6 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/21810.m3u8
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/21812.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CSAT-FRANCE H265",FR_SCIENCE&VIE.4K
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/21813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CSAT-FRANCE H265",FR_RMC.STORY.4K
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/21814.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CSAT-FRANCE H265",FR_TOUTE.HISTOIRE.4K
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/21815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CSAT-FRANCE H265",FR_SEASONS.4K
@@ -1947,4 +1945,4 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1026.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",|UK|TotalCountry
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1027.m3u8
 
-# Total: 950
+# Total: 949

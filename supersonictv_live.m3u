@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supersonictv.live:8080
-# Generated: 2025-11-30 07:14:30
+# Generated: 2025-11-30 18:29:57
 # Expires: 2025-12-21
 # Family Safe Edition
 # ==============================================
@@ -12088,25 +12088,25 @@ http://supersonictv.live:8080/live/864072/196529/86055.m3u8
 http://supersonictv.live:8080/live/864072/196529/86056.m3u8
 
 # --- NBA LIVE GAME (11/29) (58) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 01 : BOS Celtics VS MIN Timberwolves ( NBA TV Feed ) @ 5:00 PM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 01 :  Houston Rockets vs Utah Jazz @ 03:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83043.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 02 :  NOP Pelicans VS GSW Warriors ( NBA TV Feed ) @ 8:30 PM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 02 :  Boston Celtics vs Cleveland Cavaliers @ 06:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83044.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 03 :  Toronto Raptors vs Charlotte Hornets @ 06:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 03 :  Toronto Raptors vs New York Knicks @ 06:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83045.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA04 :  Chicago Bulls vs Indiana Pacers @ 07:30 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA04 :  Atlanta Hawks vs Philadelphia 76ers @ 06:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83046.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA05 :  Detroit Pistons vs Miami Heat @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA05 :   Oklahoma City Thunder vs Portland Trail Blazers @ 06:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83047.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA06 : Brooklyn Nets vs Milwaukee Bucks @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA06 :  San Antonio Spurs vs Minnesota Timberwolves @ 07:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83048.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA07 :  Phoenix Suns vs Oklahoma City Thunder @ 09:30 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA07 :   Memphis Grizzlies vs Sacramento Kings @ 09:00 PM EST
 http://supersonictv.live:8080/live/864072/196529/83049.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 08  :  Dallas Mavericks vs LA Clippers @ 10:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 08  :  New Orleans Pelicans vs Los Angeles Lakers @ 09:30 PM EST
 http://supersonictv.live:8080/live/864072/196529/83050.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA09 :  Sacramento Kings vs Utah Jazz @ 09:30 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA09 :
 http://supersonictv.live:8080/live/864072/196529/83052.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 11 : Memphis Grizzlies vs LA Clippers @ 10:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 11 :
 http://supersonictv.live:8080/live/864072/196529/83054.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (11/29)",USA NBA 12:
 http://supersonictv.live:8080/live/864072/196529/83055.m3u8
@@ -13349,42 +13349,44 @@ http://supersonictv.live:8080/live/864072/196529/86098.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (11/29)",NHL CI15 :
 http://supersonictv.live:8080/live/864072/196529/86099.m3u8
 
-# --- NHL LIVE GAME (11/29) (49) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL01 :  TBL VS NYR (NHLN Feed ) @ 2:00 pm
+# --- NHL LIVE GAME (11/29) (50) ---
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL01 :  WSH VS NYI (NHLN Feed ) @ 1:00 pm
 http://supersonictv.live:8080/live/864072/196529/82983.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL02 : TBL VS NYR (SN1 Feed ) @ 2:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL02 :  WSH VS NYI (SN Feed ) @ 1:00 pm
 http://supersonictv.live:8080/live/864072/196529/82984.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL03 :  TBL VS NYR (MSG Feed ) @ 2:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL03 :  WSH VS NYI (TVAS Feed ) @ 1:00 pm
 http://supersonictv.live:8080/live/864072/196529/82985.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL04 :  MTL VS COL (RDS Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL04 : ANA VS CHI (SN Feed ) @ 3:30 pm
 http://supersonictv.live:8080/live/864072/196529/82986.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL05  :  MTL VS COL (ALT Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL05  :  CGY VS CAR (SNW Feed ) @ 5:00 pm
 http://supersonictv.live:8080/live/864072/196529/82987.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL06 :  MTL VS VGK (RDS Feed ) @ 4:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL06 :  OTT VS DAL (TVAS Feed ) @ 6:00 pm
 http://supersonictv.live:8080/live/864072/196529/82988.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL07  :  DET VS BOS (NESN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL07  :  NCAA Women's Hockey Assumption vs. Merrimack @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/82989.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL08 :  PHI VS NJD (NBCSP Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL08 :  NCAA Women's Hockey New Hampshire vs. #11 Brown @ 4:00 pm
 http://supersonictv.live:8080/live/864072/196529/82990.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL09 : TOR VS PIT (SN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL09 :
 http://supersonictv.live:8080/live/864072/196529/82991.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 10 :  TOR VS PIT (NHLN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 10 :
 http://supersonictv.live:8080/live/864072/196529/82992.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 11 :   TOR VS PIT (TVAS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 11 :
 http://supersonictv.live:8080/live/864072/196529/82993.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL12 :  WPG VS NSH (SNW Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL12 :
 http://supersonictv.live:8080/live/864072/196529/82994.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 13 :  WPG VS NSH (SN360 Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 13 :
 http://supersonictv.live:8080/live/864072/196529/82995.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 14 :   SJS VS VGK (NBCSCA Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 14 :
 http://supersonictv.live:8080/live/864072/196529/82996.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 15 : VAN VS LAK (SN Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 15 :
 http://supersonictv.live:8080/live/864072/196529/82997.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 16 :  VAN VS LAK (TVAS Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 16 :
 http://supersonictv.live:8080/live/864072/196529/82998.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 17 :  Nashville Predators vs Chicago Blackhawks @ 08:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 17 :
 http://supersonictv.live:8080/live/864072/196529/82999.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 19 :    NCAA Men's Hockey Merrimack vs. #10 Dartmouth @ 4:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 18 :
+http://supersonictv.live:8080/live/864072/196529/83000.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL 19 :
 http://supersonictv.live:8080/live/864072/196529/83001.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (11/29)",USA NHL20 :  NCAA Men's Hockey UMass Lowell vs. St. Lawrence @ 4:00 pm
 http://supersonictv.live:8080/live/864072/196529/83002.m3u8
@@ -14130,15 +14132,15 @@ http://supersonictv.live:8080/live/864072/196529/7747.m3u8
 http://supersonictv.live:8080/live/864072/196529/7748.m3u8
 
 # --- PPV  (11/29) (59) ---
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV01:  Boxing: Whittaker vs. Gavazi @ 02:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV01:
 http://supersonictv.live:8080/live/864072/196529/86203.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV02:  Bad Blood @ 01:30 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV02:
 http://supersonictv.live:8080/live/864072/196529/86204.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV03:  Frazer Clarke vs Jeamie TKV @ 01:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV03:
 http://supersonictv.live:8080/live/864072/196529/86205.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV04: Francis Lafreniere vs Francy Ntetu @ 07:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV04:
 http://supersonictv.live:8080/live/864072/196529/86206.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV 05 :  Survivor Series: WarGames @ 07:00 PM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV 05 :
 http://supersonictv.live:8080/live/864072/196529/86207.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (11/29)",USA PPV 06 :
 http://supersonictv.live:8080/live/864072/196529/86208.m3u8
@@ -14827,48 +14829,50 @@ http://supersonictv.live:8080/live/864072/196529/84001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",[RO]  ProTV International
 http://supersonictv.live:8080/live/864072/196529/84002.m3u8
 
-# --- SOCCER LIVE GAME (11/29) (69) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SOCCER LIVE GAME (11/29)",Soccer01  :  USA/Canada - Major League Soccer : Inter Miami vs New York City @ 06:00pm EST
+# --- SOCCER LIVE GAME (11/29) (70) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SOCCER LIVE GAME (11/29)",Soccer01  :  England - Premier League : Crystal Palace vs Manchester United @ 07:00am EST
 http://supersonictv.live:8080/live/864072/196529/87761.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer02 :  USA/Canada - Major League Soccer : San Diego vs Vancouver Whitecaps @ 09:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer02 :  England - Premier League : West Ham United vs Liverpool @ 09:05am EST
 http://supersonictv.live:8080/live/864072/196529/87762.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer03 :  England - Premier League : Brentford vs Burnley @ 10:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer03 :  England - Premier League : Aston Villa vs Wolverhampton Wanderers @ 09:05am EST
 http://supersonictv.live:8080/live/864072/196529/87763.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer04 :  England - Premier League : Manchester City vs Leeds United @ 10:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer04 :  England - Premier League : Nottingham Forest vs Brighton & Hove Albion @ 09:05am EST
 http://supersonictv.live:8080/live/864072/196529/87764.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer 05 :   England - Premier League : Sunderland vs AFC Bournemouth @ 10:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer 05 : England - Premier League : Chelsea vs Arsenal @ 11:30am EST
 http://supersonictv.live:8080/live/864072/196529/87765.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer06 :   England - Premier League : Everton vs Newcastle United @ 12:30pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer06 :   Spain - La Liga : Real Sociedad vs Villarreal @ 08:00am EST
 http://supersonictv.live:8080/live/864072/196529/87766.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer08 :  Spain - La Liga : Mallorca vs Osasuna @ 08:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer07 : Spain - La Liga : Sevilla vs Real Betis @ 10:15am EST
+http://supersonictv.live:8080/live/864072/196529/87767.m3u8
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer08 :  Spain - La Liga : Celta de Vigo vs Espanyol @ 12:30pm EST
 http://supersonictv.live:8080/live/864072/196529/87768.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer09 :  Spain - La Liga : Barcelona vs Deportivo Alavés @ 10:15am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer09 : Spain - La Liga : Girona vs Real Madrid @ 03:00pm EST
 http://supersonictv.live:8080/live/864072/196529/87769.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer10 :   Spain - La Liga : Atlético Madrid vs Real Oviedo @ 03:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer10 :  Italy - Serie A : Lecce vs Torino @ 06:30am EST
 http://supersonictv.live:8080/live/864072/196529/87770.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer11 :  Italy - Serie A : Parma vs Udinese @ 09:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer11 :  Italy - Serie A : Pisa vs Internazionale @ 09:00am EST
 http://supersonictv.live:8080/live/864072/196529/87771.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer12 :  Italy - Serie A : Juventus vs Cagliari @ 12:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer12 :  Italy - Serie A : Atalanta vs Fiorentina 12:00pm EST
 http://supersonictv.live:8080/live/864072/196529/87772.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer13 :  Italy - Serie A : Milan vs Lazio @ 02:45pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer13 :  Italy - Serie A : Roma vs Napoli @ 02:45pm EST
 http://supersonictv.live:8080/live/864072/196529/87773.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer14:   France - Ligue 1 : Monaco vs PSG @ 11:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer14: France - Ligue 1 : Strasbourg vs Brest @ 09:00am EST
 http://supersonictv.live:8080/live/864072/196529/87774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (11/29)",Soccer15 :  France - Ligue 1 : Paris vs Auxerre @ 01:00pm EST
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (11/29)",Soccer15 :  France - Ligue 1 : Le Havre vs Lille @ 11:15am EST
 http://supersonictv.live:8080/live/864072/196529/87775.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer16 :  France - Ligue 1 : Olympique Marseille vs Toulouse @ 03:05pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer16 :   France - Ligue 1 : Angers SCO vs Lens @ 11:15am EST
 http://supersonictv.live:8080/live/864072/196529/87776.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer17 :  Portugal - Primeira Liga : Casa Pia vs Alverca 10:30am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer17 :  France - Ligue 1 : Olympique Lyonnais vs Nantes @ 02:45pm EST
 http://supersonictv.live:8080/live/864072/196529/87777.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer18 :  Portugal - Primeira Liga : Nacional vs Benfica @ 01:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer18 :  Portugal - Primeira Liga : Rio Ave vs Santa Clara @ 10:30am EST
 http://supersonictv.live:8080/live/864072/196529/87778.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer19 :  Portugal - Primeira Liga : Gil Vicente vs Tondela @ 03:30pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer19 :  Portugal - Primeira Liga : Sporting CP vs Estrela @ 01:00pm EST
 http://supersonictv.live:8080/live/864072/196529/87779.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer20 :   South America - Copa Libertadores : Palmeiras vs Flamengo @ 04:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer20 :   Portugal - Primeira Liga : Porto vs Estoril @ 03:30pm EST
 http://supersonictv.live:8080/live/864072/196529/87780.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer21:  Mexico - Liga MX : América vs Monterrey @ 06:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer21:   Mexico - Liga MX : Cruz Azul vs Guadalajara @ 08:00pm EST.
 http://supersonictv.live:8080/live/864072/196529/87781.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer22:  Mexico - Liga MX : Toluca vs Juárez @ 08:05pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer22:
 http://supersonictv.live:8080/live/864072/196529/87782.m3u8
 #EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (11/29)",Soccer23:
 http://supersonictv.live:8080/live/864072/196529/87783.m3u8
@@ -17983,4 +17987,4 @@ http://supersonictv.live:8080/live/864072/196529/87663.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPiW5XF.png" group-title="XFL",XFL08 :
 http://supersonictv.live:8080/live/864072/196529/87664.m3u8
 
-# Total: 8920
+# Total: 8922

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-11-30 07:20:05
+# Generated: 2025-11-30 18:31:42
 # Expires: 2025-12-20
 # Family Safe Edition
 # ==============================================
@@ -444,7 +444,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24168.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: Vevo Country
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: Vevo Latino
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: POP TV MEXICO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24172.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: Vevo Pop
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24178.m3u8
@@ -458,7 +458,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24181.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24183.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: Live Music Replay
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: KISS FM BALKAN RADIO
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: ALFROBEATS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
@@ -4091,7 +4091,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41757.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/cocukboxset.png" group-title="TURK COCUK",TR: AY AY AYICIKLAR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41758.m3u8
 
-# --- TURK DINI (17) ---
+# --- TURK DINI (18) ---
+#EXTINF:-1 tvg-logo="" group-title="TURK DINI",TR: HADI TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/63265.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK DINI",*****TURK DINI*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20793.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/kudustv.png" group-title="TURK DINI",TR: KUDUS TV
@@ -5971,4 +5973,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2925
+# Total: 2926

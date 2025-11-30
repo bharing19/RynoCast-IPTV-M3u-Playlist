@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s3-server.net
-# Generated: 2025-11-30 07:17:57
+# Generated: 2025-11-30 18:32:33
 # Expires: 2025-12-25
 # Family Safe Edition
 # ==============================================
@@ -1350,37 +1350,37 @@ http://s3-server.net/live/DrMarcos/Imperio01/104935.m3u8
 http://s3-server.net/live/DrMarcos/Imperio01/104936.m3u8
 
 # --- Canais | Jogos do Dia (26) ---
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:00] Genoa x Verona FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[09:00] Crystal Palace x Manchester United FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317686.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:30] Bayern Munique x St. Pauli FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:00] Pisa x Inter de Milão FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317687.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:40] Al-Hilal x Al-Fateh FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:05] Aston Villa x Wolverhampton FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317688.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[12:00] Brentford x Burnley FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:05] Nottingham Forest x Brighton FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317689.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[12:00] Manchester City x Leeds FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[11:05] West Ham x Liverpool FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317690.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[12:00] Sunderland x Bournemouth FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[13:30] Chelsea x Arsenal FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317691.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[14:00] Juventus x Cagliari FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:00] Corinthians x Botafogo FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317692.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[14:30] Bayer Leverkusen x Borussia Dortmund FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:45] Roma x Napoli FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317693.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[14:30] Al-Ittihad x Al-Shabab FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[17:00] Girona x Real Madrid FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317694.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[14:30] Everton x Newcastle FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[18:30] Fortaleza x Atlético-MG FHD
 http://s3-server.net/live/DrMarcos/Imperio01/317695.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:00] Vitória x Mirassol FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/317696.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[16:45[ Milan x Lazio FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/318080.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[17:00] Tottenham x Fulham FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/318081.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[18:00] Palmeiras x Flamengo FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/318082.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[20:00] Inter Miami x New York City FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/318083.m3u8
-#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",[21:00] Ceará x Cruzeiro FHD
+#EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/318084.m3u8
 #EXTINF:-1 tvg-logo="http://s3-server.net/static/logos/canais/jogos.png" group-title="Canais | Jogos do Dia",Informações em Breve
 http://s3-server.net/live/DrMarcos/Imperio01/318085.m3u8

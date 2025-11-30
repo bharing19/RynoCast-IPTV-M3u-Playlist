@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: udsas.my:80
-# Generated: 2025-11-30 07:11:38
+# Generated: 2025-11-30 18:29:21
 # Expires: 2025-12-22
 # Family Safe Edition
 # ==============================================
@@ -4811,7 +4811,7 @@ http://udsas.my:80/movie/98751818/55956584/1420459.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iR1LbFdcCwNs1jYpb3ybWATPO6H.jpg" group-title="Movies | Filmes | Acao",Chacina de Sangue (2024)
 http://udsas.my:80/movie/98751818/55956584/1420460.mp4
 
-# --- Movies | Filmes | Animacao (867) ---
+# --- Movies | Filmes | Animacao (871) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/9kzs6gPSOWqqjZz1eHWEvNTW9Dx.jpg" group-title="Movies | Filmes | Animacao",Wallace & Gromit - Avengança (2024)
 http://udsas.my:80/movie/98751818/55956584/1167329.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/238wu3QBbHxWiXkn3BmOrBesnwW.jpg" group-title="Movies | Filmes | Animacao",O Menino e o Mestre (2024)
@@ -6546,6 +6546,14 @@ http://udsas.my:80/movie/98751818/55956584/1420559.mp4
 http://udsas.my:80/movie/98751818/55956584/1420560.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbpNAldCtWjotI4vEiphPrz8DJh.jpg" group-title="Movies | Filmes | Animacao",Os Caras Malvados 2 (2025)
 http://udsas.my:80/movie/98751818/55956584/1420561.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/gnExk4j3yiXCpew16F5yuQB8wuE.jpg" group-title="Movies | Filmes | Animacao",Encruzilhada (2013)
+http://udsas.my:80/movie/98751818/55956584/1420789.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/dlIIvL8D4w6aazXZLTlJKoer8pX.jpg" group-title="Movies | Filmes | Animacao",Desbravadores (2011)
+http://udsas.my:80/movie/98751818/55956584/1420790.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/lgnBkVe1PNLgFRgaeBeB2Vgb63M.jpg" group-title="Movies | Filmes | Animacao",Alice no País das Maravilhas (1951)
+http://udsas.my:80/movie/98751818/55956584/1420804.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ipYHDeZQSm2NbGmtvxB587O8T3a.jpg" group-title="Movies | Filmes | Animacao",Pinóquio 3000
+http://udsas.my:80/movie/98751818/55956584/1420805.mp4
 
 # --- Movies | Filmes | Aventura (61) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/zmJNzjmWGwqKCNdUZ81mu53HtRg.jpg" group-title="Movies | Filmes | Aventura",Foxter & Max: Um Cachorro de Outro Mundo (2019)
@@ -6701,7 +6709,7 @@ http://udsas.my:80/movie/98751818/55956584/1218713.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Movies | Filmes | Cinema",Karatê Kid: Lendas (2025)
 http://udsas.my:80/movie/98751818/55956584/1218718.mp4
 
-# --- Movies | Filmes | Comedia (2072) ---
+# --- Movies | Filmes | Comedia (2076) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ucQEdBDoOHis0u0pgLKkmunS8Gf.jpg" group-title="Movies | Filmes | Comedia",Um Sonho Chamado Fred (1991)
 http://udsas.my:80/movie/98751818/55956584/1185261.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/pJBhU5idnpKSmpm6KdFAliMdZiN.jpg" group-title="Movies | Filmes | Comedia",Não Sei o Que Fizemos na Noite Passada (2023)
@@ -10846,6 +10854,14 @@ http://udsas.my:80/movie/98751818/55956584/1420539.mp4
 http://udsas.my:80/movie/98751818/55956584/1420540.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="Movies | Filmes | Comedia",Padel Nosso (2025)
 http://udsas.my:80/movie/98751818/55956584/1420541.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/qcpfGdYahW1NkqPAz2MHLPHas8O.jpg" group-title="Movies | Filmes | Comedia",Caça-Fantasmas (2016)
+http://udsas.my:80/movie/98751818/55956584/1420797.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/yFrLKnjxjRpcMPjnPgQVGEZ9bAt.jpg" group-title="Movies | Filmes | Comedia",Du, Dudu e Edu - Chorando de Medo (2005)
+http://udsas.my:80/movie/98751818/55956584/1420798.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ipxSnZjsXfVRXKE67DePo22mPAy.jpg" group-title="Movies | Filmes | Comedia",The Knot (2019)
+http://udsas.my:80/movie/98751818/55956584/1420802.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/xasl8mg8odWgceBfHimz39smNjb.jpg" group-title="Movies | Filmes | Comedia",Bill (2015)
+http://udsas.my:80/movie/98751818/55956584/1420803.mp4
 
 # --- Movies | Filmes | Crime (177) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/asP02uJm1ziJnm7FY3U7lvVAt5f.jpg" group-title="Movies | Filmes | Crime",Espionagem em Londres (2020)
@@ -11203,7 +11219,7 @@ http://udsas.my:80/movie/98751818/55956584/1221951.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mymTjvZeg9hkSSofg78nH0GOtLS.jpg" group-title="Movies | Filmes | Crime",Oito Mulheres e um Segredo (2018)
 http://udsas.my:80/movie/98751818/55956584/1420386.mp4
 
-# --- Movies | Filmes | Drama (2423) ---
+# --- Movies | Filmes | Drama (2424) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/Qf0jXym7ayEfkUHK4aMffALj2a.jpg" group-title="Movies | Filmes | Drama",Somos Marshall (2006)
 http://udsas.my:80/movie/98751818/55956584/1194091.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4th6QFCdko42nuAVK9yu2d9ikFQ.jpg" group-title="Movies | Filmes | Drama",Cidades de Papel (2015)
@@ -16050,6 +16066,8 @@ http://udsas.my:80/movie/98751818/55956584/1222605.mp4
 http://udsas.my:80/movie/98751818/55956584/1222611.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AauQRYC7BVQuh0iGD7i3tCZU2uN.jpg" group-title="Movies | Filmes | Drama",Amor Além do Tempo (2024)
 http://udsas.my:80/movie/98751818/55956584/1420392.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/kCfyg4XqLrmg8bjLoMly70Lcxjq.jpg" group-title="Movies | Filmes | Drama",O Chamado de Deus de Angus Buchan (2012) (2012)
+http://udsas.my:80/movie/98751818/55956584/1420761.mp4
 
 # --- Movies | Filmes | Família (77) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/mJfcvlF8B1bOYu7T0yDgoLL1HX3.jpg" group-title="Movies | Filmes | Família",Em Seus Passos, O Que Faria Jesus? (2010)
@@ -24367,7 +24385,7 @@ http://udsas.my:80/movie/98751818/55956584/1420393.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uakB4uIw2y1lbIRxwdL7zF18Bl.jpg" group-title="Movies | Filmes | Terror",A Primeira Noite de Crime (2018)
 http://udsas.my:80/movie/98751818/55956584/1420394.mp4
 
-# --- Movies | Novelas (240) ---
+# --- Movies | Novelas (241) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",O Sétimo Guardião (2018)
 http://udsas.my:80/movie/98751818/55956584/210.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Verdades Secretas (2015)
@@ -24848,6 +24866,8 @@ http://udsas.my:80/movie/98751818/55956584/7644.mp4
 http://udsas.my:80/movie/98751818/55956584/7719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Tres Gracas (2025)
 http://udsas.my:80/movie/98751818/55956584/7862.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Fascinacao
+http://udsas.my:80/movie/98751818/55956584/7940.mp4
 
 # --- Movies | Programas de TV (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Programas de TV",The Voice Kids (2016)
@@ -24885,7 +24905,7 @@ http://udsas.my:80/series/98751818/55956584/2243
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt (2022)
 http://udsas.my:80/series/98751818/55956584/2388
 
-# --- Series | Series | Amazon Prime Video (700) ---
+# --- Series | Series | Amazon Prime Video (721) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Absentia (2017)
 http://udsas.my:80/series/98751818/55956584/4
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",American Horror Story (2011)
@@ -26286,8 +26306,50 @@ http://udsas.my:80/series/98751818/55956584/7853
 http://udsas.my:80/series/98751818/55956584/7855
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Suits LA (2025)
 http://udsas.my:80/series/98751818/55956584/7860
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Gunpowder
+http://udsas.my:80/series/98751818/55956584/7865
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Cometerra
+http://udsas.my:80/series/98751818/55956584/7871
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Gordon Ramsay Servico Secreto
+http://udsas.my:80/series/98751818/55956584/7874
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Homens e Deuses
+http://udsas.my:80/series/98751818/55956584/7875
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Robin Hood
+http://udsas.my:80/series/98751818/55956584/7887
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Tremembe
+http://udsas.my:80/series/98751818/55956584/7890
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Wild Cards
+http://udsas.my:80/series/98751818/55956584/7891
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Crutch
+http://udsas.my:80/series/98751818/55956584/7892
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",I Love LA
+http://udsas.my:80/series/98751818/55956584/7893
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",O Impostor
+http://udsas.my:80/series/98751818/55956584/7943
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Alert Unidade de Pessoas Desaparecidas
+http://udsas.my:80/series/98751818/55956584/7947
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Bat Familia
+http://udsas.my:80/series/98751818/55956584/7949
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Red Alert
+http://udsas.my:80/series/98751818/55956584/7958
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Tatsuki Fujimoto 17 26
+http://udsas.my:80/series/98751818/55956584/7959
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",The Real Housewives of London
+http://udsas.my:80/series/98751818/55956584/7960
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Maldade
+http://udsas.my:80/series/98751818/55956584/7977
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",TRANSFORMACAO
+http://udsas.my:80/series/98751818/55956584/7990
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",The Dreamer Memorias de Uma Escritora
+http://udsas.my:80/series/98751818/55956584/7991
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Homem Aranha A Nova Serie Animada
+http://udsas.my:80/series/98751818/55956584/7992
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Fireflies
+http://udsas.my:80/series/98751818/55956584/8000
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",The Mighty Nein
+http://udsas.my:80/series/98751818/55956584/8003
 
-# --- Series | Series | Apple TV Plus (239) ---
+# --- Series | Series | Apple TV Plus (241) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Motel Bates (2013)
 http://udsas.my:80/series/98751818/55956584/16
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Colony (2016)
@@ -26766,6 +26828,10 @@ http://udsas.my:80/series/98751818/55956584/7374
 http://udsas.my:80/series/98751818/55956584/7733
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",A Ultima Fronteira (2025)
 http://udsas.my:80/series/98751818/55956584/7800
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Misterio em Cemetery Road
+http://udsas.my:80/series/98751818/55956584/7879
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Pluribus
+http://udsas.my:80/series/98751818/55956584/7957
 
 # --- Series | Series | Brasil Paralelo (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Brasil Paralelo",Entre Lobos (2022)
@@ -26851,7 +26917,7 @@ http://udsas.my:80/series/98751818/55956584/3300
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Claro video",Without Sin: Sem Pecado (2022)
 http://udsas.my:80/series/98751818/55956584/3498
 
-# --- Series | Series | Crunchyroll (176) ---
+# --- Series | Series | Crunchyroll (180) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",Dragon Ball Super (2015)
 http://udsas.my:80/series/98751818/55956584/202
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",Dragon Ball Classico
@@ -27204,6 +27270,14 @@ http://udsas.my:80/series/98751818/55956584/7856
 http://udsas.my:80/series/98751818/55956584/7858
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",Tojima Wants to Be a Kamen Rider (2025)
 http://udsas.my:80/series/98751818/55956584/7861
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",GNOSIA
+http://udsas.my:80/series/98751818/55956584/7873
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",With You Our Love Will Make It Through
+http://udsas.my:80/series/98751818/55956584/7962
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",The Slime Diaries
+http://udsas.my:80/series/98751818/55956584/7970
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Crunchyroll",My Dress Up Darling
+http://udsas.my:80/series/98751818/55956584/7994
 
 # --- Series | Series | DirecTV (52) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | DirecTV",A Vida Secreta dos Casais (2017)
@@ -27311,7 +27385,7 @@ http://udsas.my:80/series/98751818/55956584/5294
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | DirecTV",Beyblade Burst (2016)
 http://udsas.my:80/series/98751818/55956584/2018
 
-# --- Series | Series | Discovery Plus (308) ---
+# --- Series | Series | Discovery Plus (309) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Menu Selvagem (2015)
 http://udsas.my:80/series/98751818/55956584/990
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Febre do Ouro: Corredeiras do Alasca (2018)
@@ -27928,8 +28002,10 @@ http://udsas.my:80/series/98751818/55956584/7645
 http://udsas.my:80/series/98751818/55956584/7671
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",O Velho Oeste com Kevin Costner (2025)
 http://udsas.my:80/series/98751818/55956584/7763
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Caca Tempestades
+http://udsas.my:80/series/98751818/55956584/7950
 
-# --- Series | Series | Disney Plus (423) ---
+# --- Series | Series | Disney Plus (436) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",9-1-1 (2018)
 http://udsas.my:80/series/98751818/55956584/2
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Castle (2009)
@@ -28776,8 +28852,34 @@ http://udsas.my:80/series/98751818/55956584/7847
 http://udsas.my:80/series/98751818/55956584/7850
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Verdade Oculta (2025)
 http://udsas.my:80/series/98751818/55956584/7863
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Adolepeixes
+http://udsas.my:80/series/98751818/55956584/7864
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Disney Twisted Wonderland A Serie
+http://udsas.my:80/series/98751818/55956584/7872
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Nove Pecas
+http://udsas.my:80/series/98751818/55956584/7880
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Playback Juntas Somos Uma
+http://udsas.my:80/series/98751818/55956584/7884
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Cisne Vermelho
+http://udsas.my:80/series/98751818/55956584/7939
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Nova York Contra o Crime
+http://udsas.my:80/series/98751818/55956584/7942
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",O Manipulado
+http://udsas.my:80/series/98751818/55956584/7944
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Criadores do Futuro
+http://udsas.my:80/series/98751818/55956584/7964
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Reabilitacao Canina
+http://udsas.my:80/series/98751818/55956584/7967
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Vampirina O Show das Sinistras
+http://udsas.my:80/series/98751818/55956584/7971
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Cancoes de Halloween do Mickey e da Minnie
+http://udsas.my:80/series/98751818/55956584/7975
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",A Bastarda
+http://udsas.my:80/series/98751818/55956584/7999
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Sobrevoando
+http://udsas.my:80/series/98751818/55956584/8002
 
-# --- Series | Series | Dorama (634) ---
+# --- Series | Series | Dorama (646) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Love Alarm (2019)
 http://udsas.my:80/series/98751818/55956584/325
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Tudo Bem Nao Ser Normal [L] (2020)
@@ -30046,6 +30148,30 @@ http://udsas.my:80/series/98751818/55956584/7808
 http://udsas.my:80/series/98751818/55956584/7815
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Romanticos Anonimos (2025)
 http://udsas.my:80/series/98751818/55956584/7826
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Desprazer em te Conhecer
+http://udsas.my:80/series/98751818/55956584/7894
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Amor Sadico [L]
+http://udsas.my:80/series/98751818/55956584/7899
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Assumindo as Redeas [L]
+http://udsas.my:80/series/98751818/55956584/7902
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Ate Eu Destruir a Outra Familia do Meu Marido [L]
+http://udsas.my:80/series/98751818/55956584/7903
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",For You in Full Blossom [L]
+http://udsas.my:80/series/98751818/55956584/7914
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Homens Apaixonados [L]
+http://udsas.my:80/series/98751818/55956584/7919
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Libere a Maldicao do Taekwondo [L]
+http://udsas.my:80/series/98751818/55956584/7920
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",My Safe Zone [L]
+http://udsas.my:80/series/98751818/55956584/7923
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",O Mundo E Um Teatro [L]
+http://udsas.my:80/series/98751818/55956584/7926
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",O Retorno da Rainha [L]
+http://udsas.my:80/series/98751818/55956584/7927
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Verao Passado [L]
+http://udsas.my:80/series/98751818/55956584/7936
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Amor de Mentirinha
+http://udsas.my:80/series/98751818/55956584/7973
 
 # --- Series | Series | Funimation Now (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Dragon Ball Z (1989)
@@ -30093,7 +30219,7 @@ http://udsas.my:80/series/98751818/55956584/2482
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Uzaki-chan wa Asobitai!
 http://udsas.my:80/series/98751818/55956584/3220
 
-# --- Series | Series | Globoplay (445) ---
+# --- Series | Series | Globoplay (446) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Assédio (2018)
 http://udsas.my:80/series/98751818/55956584/12
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Chicago Fire: Heróis Contra o Fogo (2012)
@@ -30984,8 +31110,10 @@ http://udsas.my:80/series/98751818/55956584/7744
 http://udsas.my:80/series/98751818/55956584/7835
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Reencarne (2025)
 http://udsas.my:80/series/98751818/55956584/7859
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Poderosas do Cerrado
+http://udsas.my:80/series/98751818/55956584/7885
 
-# --- Series | Series | Legendadas (1308) ---
+# --- Series | Series | Legendadas (1351) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Cobra Kai [L] (2018)
 http://udsas.my:80/series/98751818/55956584/30
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Krypton [L] (2018)
@@ -31952,7 +32080,7 @@ http://udsas.my:80/series/98751818/55956584/4670
 http://udsas.my:80/series/98751818/55956584/4671
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",ONIMAI Im Now Your Sister [L] (2023)
 http://udsas.my:80/series/98751818/55956584/4674
-#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Oshi no Ko [L] (2023)
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",OSHI NO KO [L] (2023)
 http://udsas.my:80/series/98751818/55956584/4676
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Tokyo Revengers [L] (2021)
 http://udsas.my:80/series/98751818/55956584/4678
@@ -33602,6 +33730,92 @@ http://udsas.my:80/series/98751818/55956584/7814
 http://udsas.my:80/series/98751818/55956584/7816
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Sobrenatural [L] (2005)
 http://udsas.my:80/series/98751818/55956584/7822
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",4Ever [L]
+http://udsas.my:80/series/98751818/55956584/7895
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",548 Dias Capturada por uma Seita [L]
+http://udsas.my:80/series/98751818/55956584/7896
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",911 Nashville [L]
+http://udsas.my:80/series/98751818/55956584/7897
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Allen Iv3rson [L]
+http://udsas.my:80/series/98751818/55956584/7898
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Amor nas Nuvens [L]
+http://udsas.my:80/series/98751818/55956584/7900
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Are You Sure [L]
+http://udsas.my:80/series/98751818/55956584/7901
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Bebes Assassinos Todos os Dias [L]
+http://udsas.my:80/series/98751818/55956584/7904
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",ClaireBell [L]
+http://udsas.my:80/series/98751818/55956584/7906
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Codigo do Silencio [L]
+http://udsas.my:80/series/98751818/55956584/7907
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Coma [L]
+http://udsas.my:80/series/98751818/55956584/7908
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Como Escapei a Minha Seita [L]
+http://udsas.my:80/series/98751818/55956584/7909
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Cozinhar Um Urso [L]
+http://udsas.my:80/series/98751818/55956584/7910
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Cronicas de um Lar [L]
+http://udsas.my:80/series/98751818/55956584/7911
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",DMV [L]
+http://udsas.my:80/series/98751818/55956584/7912
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Dr Rabugento De Plantao na Escola [L]
+http://udsas.my:80/series/98751818/55956584/7913
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Fraude em Hollywood Brilho Glamour e Golpe [L]
+http://udsas.my:80/series/98751818/55956584/7915
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Gang War Pusher Street [L]
+http://udsas.my:80/series/98751818/55956584/7916
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Hal and Harper [L]
+http://udsas.my:80/series/98751818/55956584/7917
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Heroi ou Quase Isso [L]
+http://udsas.my:80/series/98751818/55956584/7918
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Marido Voce Nao Vai Morrer por Mim [L]
+http://udsas.my:80/series/98751818/55956584/7921
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",My Gift Lvl 9999 Unlimited Gacha [L]
+http://udsas.my:80/series/98751818/55956584/7922
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",O Caso Iris [L]
+http://udsas.my:80/series/98751818/55956584/7924
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",O Lendario Martin Scorsese [L]
+http://udsas.my:80/series/98751818/55956584/7925
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Os Sentinelas [L]
+http://udsas.my:80/series/98751818/55956584/7928
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Polowanie na cmy [L]
+http://udsas.my:80/series/98751818/55956584/7929
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",RESET [L]
+http://udsas.my:80/series/98751818/55956584/7930
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Renegade Immortal [L]
+http://udsas.my:80/series/98751818/55956584/7931
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Rise of the Raven [L]
+http://udsas.my:80/series/98751818/55956584/7932
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Sem Freios [L]
+http://udsas.my:80/series/98751818/55956584/7933
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Sheriff Country [L]
+http://udsas.my:80/series/98751818/55956584/7934
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Talamasca de Anne Rice A Ordem Secreta [L]
+http://udsas.my:80/series/98751818/55956584/7935
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",With you Our Love will Make it Through [L]
+http://udsas.my:80/series/98751818/55956584/7937
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Zomvivor [L]
+http://udsas.my:80/series/98751818/55956584/7938
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Alien Earth [L]
+http://udsas.my:80/series/98751818/55956584/7982
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",My Love Story [L]
+http://udsas.my:80/series/98751818/55956584/7983
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Stranger Things [L]
+http://udsas.my:80/series/98751818/55956584/7984
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Last of Us [L]
+http://udsas.my:80/series/98751818/55956584/7985
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",The Witcher [L]
+http://udsas.my:80/series/98751818/55956584/7986
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Wandinha [L]
+http://udsas.my:80/series/98751818/55956584/7987
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Xogum A Gloriosa Saga do Japao [L]
+http://udsas.my:80/series/98751818/55956584/7988
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",1% de Alguma Coisa [L]
+http://udsas.my:80/series/98751818/55956584/8007
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Destinado a Te Amar [L]
+http://udsas.my:80/series/98751818/55956584/8008
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendadas",Tokusatsu GaGaGa [L]
+http://udsas.my:80/series/98751818/55956584/8009
 
 # --- Series | Series | Lionsgate (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Da Vinci's Demons (2013)
@@ -33619,7 +33833,7 @@ http://udsas.my:80/series/98751818/55956584/3520
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Survivor's Remorse (2014)
 http://udsas.my:80/series/98751818/55956584/3864
 
-# --- Series | Series | Max (508) ---
+# --- Series | Series | Max (516) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",A Sete Palmos (2001)
 http://udsas.my:80/series/98751818/55956584/11
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Ballers (2015)
@@ -34636,8 +34850,24 @@ http://udsas.my:80/series/98751818/55956584/7837
 http://udsas.my:80/series/98751818/55956584/7842
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Veterinario das Montanhas (2015)
 http://udsas.my:80/series/98751818/55956584/7846
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Reforma a Venda
+http://udsas.my:80/series/98751818/55956584/7868
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Jellystone
+http://udsas.my:80/series/98751818/55956584/7941
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Um Tanto Familiar
+http://udsas.my:80/series/98751818/55956584/7946
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Meu Ayrton por Adriane Galisteu
+http://udsas.my:80/series/98751818/55956584/7955
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Agentes do Caos
+http://udsas.my:80/series/98751818/55956584/7972
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Frango Robo
+http://udsas.my:80/series/98751818/55956584/7989
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Funk Doc Popular e Proibido
+http://udsas.my:80/series/98751818/55956584/8004
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Pesca Mortal Inferno no Mar
+http://udsas.my:80/series/98751818/55956584/8005
 
-# --- Series | Series | Netflix (1458) ---
+# --- Series | Series | Netflix (1486) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Bíblia (2021)
 http://udsas.my:80/series/98751818/55956584/3
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Altered Carbon (2018)
@@ -37554,8 +37784,64 @@ http://udsas.my:80/series/98751818/55956584/7849
 http://udsas.my:80/series/98751818/55956584/7852
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Monstro de Florenca (2025)
 http://udsas.my:80/series/98751818/55956584/7857
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Lista Negra
+http://udsas.my:80/series/98751818/55956584/7867
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Agente
+http://udsas.my:80/series/98751818/55956584/7869
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Batalha dos 100 Asia
+http://udsas.my:80/series/98751818/55956584/7870
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Imperio de Amsterda
+http://udsas.my:80/series/98751818/55956584/7876
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Juan Gabriel Devo Posso e Quero
+http://udsas.my:80/series/98751818/55956584/7877
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Ma Influencer
+http://udsas.my:80/series/98751818/55956584/7878
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Verao em que Hikaru Morreu
+http://udsas.my:80/series/98751818/55956584/7881
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Os Donos do Jogo
+http://udsas.my:80/series/98751818/55956584/7882
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Parish
+http://udsas.my:80/series/98751818/55956584/7883
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Rhythm Flow France
+http://udsas.my:80/series/98751818/55956584/7886
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Son of a Donkey
+http://udsas.my:80/series/98751818/55956584/7889
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Naufragio do Heweliusz
+http://udsas.my:80/series/98751818/55956584/7945
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Bad Genius The Series (2020)
+http://udsas.my:80/series/98751818/55956584/7948
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Como um Relampago
+http://udsas.my:80/series/98751818/55956584/7951
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",De Bilionario a Presidiario
+http://udsas.my:80/series/98751818/55956584/7952
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",MARINES
+http://udsas.my:80/series/98751818/55956584/7954
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Os Caras Malvados No Pedaco
+http://udsas.my:80/series/98751818/55956584/7956
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Voce Estava La
+http://udsas.my:80/series/98751818/55956584/7961
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",PJ Masks Herois de Pijama
+http://udsas.my:80/series/98751818/55956584/7966
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Simplesmente Alicia
+http://udsas.my:80/series/98751818/55956584/7969
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Beijo Explosivo
+http://udsas.my:80/series/98751818/55956584/7974
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Como Ganhar na Loteria
+http://udsas.my:80/series/98751818/55956584/7976
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Cuco de Cristal
+http://udsas.my:80/series/98751818/55956584/7978
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",O Monstro em Mim
+http://udsas.my:80/series/98751818/55956584/7979
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Sra Playmen
+http://udsas.my:80/series/98751818/55956584/7980
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Ate o Ultimo Samurai
+http://udsas.my:80/series/98751818/55956584/7981
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Neo Yokio
+http://udsas.my:80/series/98751818/55956584/7995
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Platonico
+http://udsas.my:80/series/98751818/55956584/8006
 
-# --- Series | Series | Outras Produtoras (724) ---
+# --- Series | Series | Outras Produtoras (734) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",3 Palavrinhas (2013)
 http://udsas.my:80/series/98751818/55956584/1
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Lifeline (2017)
@@ -39004,6 +39290,26 @@ http://udsas.my:80/series/98751818/55956584/7820
 http://udsas.my:80/series/98751818/55956584/7830
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Son of Zorn (2016)
 http://udsas.my:80/series/98751818/55956584/7848
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Tudo Novo de Novo
+http://udsas.my:80/series/98751818/55956584/7866
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Jovem Davi
+http://udsas.my:80/series/98751818/55956584/7953
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",A Academia
+http://udsas.my:80/series/98751818/55956584/7963
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Gigantes da Industria
+http://udsas.my:80/series/98751818/55956584/7965
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Revolucao
+http://udsas.my:80/series/98751818/55956584/7968
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Meu Marido
+http://udsas.my:80/series/98751818/55956584/7993
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Pure
+http://udsas.my:80/series/98751818/55956584/7996
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Touch Visoes do Futuro
+http://udsas.my:80/series/98751818/55956584/7997
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Columbo
+http://udsas.my:80/series/98751818/55956584/7998
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",MasterChef Celebridades
+http://udsas.my:80/series/98751818/55956584/8001
 
 # --- Series | Series | Paramount (180) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Anos Incríveis (2021)
@@ -39825,4 +40131,4 @@ http://udsas.my:80/series/98751818/55956584/7465
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://udsas.my:80/series/98751818/55956584/7729
 
-# Total: 19865
+# Total: 20018

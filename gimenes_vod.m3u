@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-11-30 07:16:49
+# Generated: 2025-11-30 18:26:08
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -28314,7 +28314,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/201326.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/200894.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA4irW4Pf9kntxTqv9rtlYZFzD9.jpg" group-title="Movies | FILMES TERROR",A MALDIÇÃO DO TITANIC (2022)
 http://gimenes.top:8080/movie/denisfonseca/4915334/200890.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTeZLJa1SRi0J8Qttotz1PIoN0j.jpg" group-title="Movies | FILMES TERROR",KRAMPUS: O ACORDO (2015)
+#EXTINF:-1 tvg-logo="None" group-title="Movies | FILMES TERROR",KRAMPUS: O ACORDO (2015)
 http://gimenes.top:8080/movie/denisfonseca/4915334/200458.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jR1nY5Cn4lpFpbsteGRTJtGDaVS.jpg" group-title="Movies | FILMES TERROR",ANIMAL (2014)
 http://gimenes.top:8080/movie/denisfonseca/4915334/200210.mp4

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-11-30 07:14:56
+# Generated: 2025-11-30 18:32:31
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -1399,7 +1399,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/236090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg" group-title="Movies | → VOD ANIME ←",Bleach: Hell Verse (2010)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/236092.mp4
 
-# --- Movies | → VOD AVENTURAS ← (602) ---
+# --- Movies | → VOD AVENTURAS ← (603) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg" group-title="Movies | → VOD AVENTURAS ←",Robin Hood, príncipe de los ladrones
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278676.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovspKcx8UmWaurGYo0SaeUH999Q.jpg" group-title="Movies | → VOD AVENTURAS ←",El Alucinante viaje de Bill y Ted
 http://fastream.xyz:8080/movie/940246862tv/12ws79/277921.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg7zMOc3DtTJyEazjHCojIBKSrD.jpg" group-title="Movies | → VOD AVENTURAS ←",Bill y Ted salvan el universo
@@ -8863,7 +8865,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3397.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G1iktbjCGU8KMAL5btBmRro85K.jpg" group-title="Movies | → VOD ESPECIAL CANTINFLAS ←",Un Quijote Sin Mancha (1969)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3398.mp4
 
-# --- Movies | → VOD ESPECIAL VAN DAMME ← (10) ---
+# --- Movies | → VOD ESPECIAL VAN DAMME ← (11) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5KpNrp8jPaNTkyENgQ9aPrM20V.jpg" group-title="Movies | → VOD ESPECIAL VAN DAMME ←",Hard Target
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278675.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xoizvqv9k0Am1vNQrTHkVFXzBE.jpg" group-title="Movies | → VOD ESPECIAL VAN DAMME ←",Doble Impacto
 http://fastream.xyz:8080/movie/940246862tv/12ws79/271140.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz2BL1qMVqX80NzUBrTSombrwmN.jpg" group-title="Movies | → VOD ESPECIAL VAN DAMME ←",Cyborg
@@ -13243,7 +13247,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (245) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (246) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEF0Fjzx5EgA0X1ECa7POLVySDZ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Fritos a balazos (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278677.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oflNtC0av7EoQkvasSP2HV3h0yC.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Educación de Polly McClusky (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278669.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3ajNbRXDbqUl5UpejM9e6cNYEH.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Noviembre (2025)
@@ -19527,4 +19533,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9688
+# Total: 9691

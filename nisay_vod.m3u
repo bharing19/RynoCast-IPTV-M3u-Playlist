@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-11-30 07:13:13
+# Generated: 2025-11-30 18:32:39
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -6199,7 +6199,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1709.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK SERI DIZI",Gupi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1756.mp4
 
-# --- Movies | COCUK VOD (333) ---
+# --- Movies | COCUK VOD (335) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJqj6tBEojifQVPEayWBlCU9tNV.jpg" group-title="Movies | COCUK VOD",Wayne ve Lanny Yaramaz Çocuğa Karşı (2011)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5ga2b2HZ2Q04AOaeOF1ort4DIl.jpg" group-title="Movies | COCUK VOD",Prep & Landing: The Snowball Protocol (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7hjVvftDqdgqZidGyoDkpXWjtK.jpg" group-title="Movies | COCUK VOD",Ratatuy (2007)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158698.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLi0InRJqjYEnkd4H9gl00hRkvb.jpg" group-title="Movies | COCUK VOD",Thomas ve Arkadaşları: Noel Mektubu (2024)
@@ -16767,7 +16771,17 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (356) ---
+# --- Movies | SON EKLENEN 300 FILM (361) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Gunslingers (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158854.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg" group-title="Movies | SON EKLENEN 300 FILM",LEGO Frozen: Operation Puffins (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158855.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40oBDh8aWKtVeJ4XFzrdeB9xJyC.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kim Demiş Kötüyüz Diye? 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158858.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbKZ5TASJwxOuAOFvb8J8O0NkN1.jpg" group-title="Movies | SON EKLENEN 300 FILM",Yarım Kalan İkizler (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158859.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSunawMF2FVq7qZffwIIxsYKVjn.jpg" group-title="Movies | SON EKLENEN 300 FILM",Agatha and the Curse of Ishtar (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158860.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KAGZV86KGq3idl60yISgdKu6U0.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kanlı Yolculuk (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158758.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPLaZcZ5WiVy4gPl1RL6KipphC3.jpg" group-title="Movies | SON EKLENEN 300 FILM",Duvarın Ötesi (2025)
@@ -19519,4 +19533,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9692
+# Total: 9699

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2025-11-30 07:07:17
+# Generated: 2025-11-30 18:30:08
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -1653,7 +1653,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/80374.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="Movies | Femije/Animuar",Justice League: Warworld (2023)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/80373.mkv
 
-# --- Movies | Filma Festiv (54) ---
+# --- Movies | Filma Festiv (55) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oat42hUw8XzKYUmfy0YLAxYd484.jpg" group-title="Movies | Filma Festiv",National Lampoon's Christmas Vacation (1989)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114382.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6h6HwucncSxn06sMNROJ9apLC5.jpg" group-title="Movies | Filma Festiv",Mickey's Once Upon a Christmas (1999)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/113850.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg" group-title="Movies | Filma Festiv",Four Christmases (2008)
@@ -11717,4 +11719,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 5825
+# Total: 5826
