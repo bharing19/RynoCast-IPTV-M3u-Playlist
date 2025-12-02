@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-01 18:30:57
+# Generated: 2025-12-02 07:01:27
 # Expires: 2026-02-27
 # Family Safe Edition
 # ==============================================
@@ -2186,17 +2186,17 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177700.m3u8
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/699720.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 1 - UFC FIGHT NIGHT | AMANDA LEMOS VS VIRNA JANDIROBA (MAIN CARD)
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179100.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 2 - CHINESE TAIPEI VS. JAPAN | Mon 01 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 2 - ARGENTINA VS. CUBA | Mon 01 Dec 22:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179099.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 3 - PHILIPPINES VS. GUAM | Mon 01 Dec 12:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 3 - PENGUINS @ FLYERS | Tue 02 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179098.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 4 - CANADA VS. BAHAMAS | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179097.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 5 - PUERTO RICO VS. JAMAICA | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179096.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 6 - UNITED STATES VS. NICARAGUA | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179095.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 7 - DOMINICAN REPUBLIC VS. MEXICO | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179094.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="|DE| DAZN PRIME",DE: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179093.m3u8
@@ -3580,19 +3580,19 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/807801.m3u8
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309636.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN 1 ᴴᴰ ᵃᵐᶻ
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309635.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 2 - CHINESE TAIPEI VS. JAPAN | Mon 01 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 2 - PENGUINS @ FLYERS | Tue 02 Dec 00:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309634.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 3 - PHILIPPINES VS. GUAM | Mon 01 Dec 12:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 3 - ARGENTINA VS. CUBA | Mon 01 Dec 22:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309633.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 4 - CANADA VS. BAHAMAS | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309632.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 5 - PUERTO RICO VS. JAMAICA | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309631.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 6 - UNITED STATES VS. NICARAGUA | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309630.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 7 - DOMINICAN REPUBLIC VS. MEXICO | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309629.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 8 - JETS @ SABRES | Tue 02 Dec 01:20 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309628.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| ESPAÑA DAZN PPV",ES: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1309627.m3u8

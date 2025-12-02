@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alphaplayer.ddns.net:25461
-# Generated: 2025-12-01 18:39:10
+# Generated: 2025-12-02 07:13:17
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -15657,7 +15657,7 @@ http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f85
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP7nwIZUCAUPpeIntgkZsWrlgsl.jpg" group-title="Movies | Family",The Wildman of Shaggy Creek (2025)
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/17618.mp4
 
-# --- Movies | Globo Play (29) ---
+# --- Movies | Globo Play (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Globo Play",Cine Holliúdy
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/47.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Globo Play",O Mecanismo
@@ -15716,6 +15716,10 @@ http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f85
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/211.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Globo Play",O Jogo Que Mudou a História
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/212.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Globo Play",Onde Está Meu Coração
+http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/214.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Globo Play",Pacto Brutal: O Assassinato de Daniella Perez
+http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/215.mp4
 
 # --- Movies | Horror (252) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="Movies | Horror",Glorious (2022)
@@ -16595,4 +16599,4 @@ http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f85
 #EXTINF:-1 tvg-logo="" group-title="Movies | Tv Shows",Stranger Things
 http://alphaplayer.ddns.net:25461/movie/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/213.mp4
 
-# Total: 8285
+# Total: 8287

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2025-12-01 18:41:44
+# Generated: 2025-12-02 07:11:55
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -11645,7 +11645,7 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366692.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR|DİZİ • Çarşamba Dizileri",Kuruluş: Orhan
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/368307.mp4
 
-# --- Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List (33) ---
+# --- Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List (35) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4P5TT9IXEfhBqzcgmDonrvMgbMv.jpg" group-title="Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List",Jurassic World: Yeniden Doğuş (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/368535.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/44GdjzHmL61vHBmacdgjMJuy80D.jpg" group-title="Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List",Gecenin Kıyısı (2025)
@@ -11712,6 +11712,10 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/369997.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/369999.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/40oBDh8aWKtVeJ4XFzrdeB9xJyC.jpg" group-title="Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List",Kim Demiş Kötüyüz Diye? 2 (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370015.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m0XqulO3M01pmrhaUoJ8H55Gcg1.jpg" group-title="Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List",F1 Filmi (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370022.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ppcDeziFymu7DBbjItsMHJ70Smd.jpg" group-title="Movies | TR|FİLM • 2025 Yeni Eklenen Filmler | 20 List",Esrarengiz Canavar 2 (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/370023.mp4
 
 # --- Movies | TR|FİLM • 4K Sinema (254) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wGHaEtBz6AXqGVooaADB1tlyjBp.jpg" group-title="Movies | TR|FİLM • 4K Sinema",4K Ajan Jade Black (2020)
@@ -31375,4 +31379,4 @@ http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4395
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Sky.de",[2025 DE] As You Stood By
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4440
 
-# Total: 15576
+# Total: 15578

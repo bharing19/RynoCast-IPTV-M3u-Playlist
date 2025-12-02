@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fortv.cc:8080
-# Generated: 2025-12-01 18:30:17
+# Generated: 2025-12-02 07:07:10
 # Expires: 2025-12-10
 # Family Safe Edition
 # ==============================================
@@ -4663,7 +4663,7 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/224954.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRO1wq5g4OJnEvRHfE1tpgIzQEV.jpg" group-title="Movies | 2024 Movies",Turn Me On (2024)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/224955.mp4
 
-# --- Movies | 2025 MOVIES (823) ---
+# --- Movies | 2025 MOVIES (880) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -4904,8 +4904,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226836.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226837.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92bo4Jp2YevmwXoxzGNtEMsgRRO.jpg" group-title="Movies | 2025 MOVIES",Chelsea Handler: The Feeling (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226839.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg" group-title="Movies | 2025 MOVIES",Cleaner (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226840.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5ZHflyzsxmR09Ce53w9Ng0tIx.jpg" group-title="Movies | 2025 MOVIES",Con Mum (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226842.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmQb07CrOddVGV0Q73aeU4e8I18.jpg" group-title="Movies | 2025 MOVIES",Control Freak (2025)
@@ -4960,8 +4958,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226872.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226873.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fg98cVo7da7OIK45csdLSd4NaU.jpg" group-title="Movies | 2025 MOVIES",The Life List (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226874.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg" group-title="Movies | 2025 MOVIES",The Monkey (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226875.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lMu14IMuHo0hKYCwCIogt7IioX.jpg" group-title="Movies | 2025 MOVIES",The Parenting (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/226876.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnGxAxFQES7qB9gs9yjuD9Jbze0.jpg" group-title="Movies | 2025 MOVIES",The Repairman (2025)
@@ -5122,8 +5118,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/227239.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/227240.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Alien Contact: Government Coverup (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/227541.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Ash (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/227542.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5KqfX06suVhASkbLx6Tzq5qalU.jpg" group-title="Movies | 2025 MOVIES",Dark Sanctuary: The Story of The Church (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/227543.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FJSlaWJVf1e2wa8ZVxtLYHMeJ.jpg" group-title="Movies | 2025 MOVIES",Fair Rain (2025)
@@ -5220,8 +5214,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/228225.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/228226.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBHqB18SoTOZ4Ob0expDnf7QSov.jpg" group-title="Movies | 2025 MOVIES",Project MKHEXE (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/228227.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLZhuHT97849WkWgty2X1hkWUa.jpg" group-title="Movies | 2025 MOVIES",Rosario (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/228228.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPBERJFecTqReSO0jqcfL6branG.jpg" group-title="Movies | 2025 MOVIES",Sarah Silverman: PostMortem (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/228229.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chtusaz0WQEyxa9QB65LBGr4Gkc.jpg" group-title="Movies | 2025 MOVIES",Searching for Sasquatch 15: Chasing Legends Through Oregon's Inferno (2025)
@@ -5304,8 +5296,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/233808.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/233810.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAqaeY6YcIvimvSUhI3PkyKrcL.jpg" group-title="Movies | 2025 MOVIES",The Quincy Avery Effect (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/233811.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg" group-title="Movies | 2025 MOVIES",The Woman in the Yard (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/233813.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77JOqndgcxQwmQb221fvLNbAHKl.jpg" group-title="Movies | 2025 MOVIES",To Barcelona, Forever (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/233814.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fCkQZBmZa6JRqr8Plb78NsXdK.jpg" group-title="Movies | 2025 MOVIES",Tom Daley: 1.6 Seconds (2025)
@@ -5416,8 +5406,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/233869.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234021.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNxwSPQ1mC3aiYjbfyu4Sc88w3w.jpg" group-title="Movies | 2025 MOVIES",Barbara Walters: Tell Me Everything (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234022.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAxteOtjaeQN045qNNbSEwu78c4.jpg" group-title="Movies | 2025 MOVIES",Becoming Led Zeppelin (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8Bx05ElCUIrWcMrJ7wYgjEkFpg.jpg" group-title="Movies | 2025 MOVIES",Enigma (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iLk2GrFYwvt8ZmKMDmzWmGZfNZ.jpg" group-title="Movies | 2025 MOVIES",Frozen: The Hit Broadway Musical (2025)
@@ -5440,8 +5428,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234032.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234033.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXNeVs4XkVfuQ2x5G67kOyRlAcx.jpg" group-title="Movies | 2025 MOVIES",Steph Tolev: Filth Queen (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234034.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg" group-title="Movies | 2025 MOVIES",The Amateur (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg" group-title="Movies | 2025 MOVIES",The Last Rodeo (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/234036.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg" group-title="Movies | 2025 MOVIES",The Ritual (2025)
@@ -5514,8 +5500,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/249983.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/249984.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8McJCLGntK15zFFUYBipjneXth.jpg" group-title="Movies | 2025 MOVIES",Everything's Going to Be Great (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/249985.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGh4Q6iY1uAEfiOuFVmFwRGlL6H.jpg" group-title="Movies | 2025 MOVIES",Hill (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/249986.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg" group-title="Movies | 2025 MOVIES",How to Train Your Dragon (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/249987.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahFW3TgGFz7VMvU5mh03YumkBLX.jpg" group-title="Movies | 2025 MOVIES",Jim Thorpe: Lit by Lightning (2025)
@@ -5580,15 +5564,13 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250203.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250204.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eg8M782cw6Sfj8OLSWo0kgYMA6e.jpg" group-title="Movies | 2025 MOVIES",The Kim Kardashian Diamond Heist (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250205.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEqpy0K1iVuCebRwWqT6BZ6jLN.jpg" group-title="Movies | 2025 MOVIES",The Phoenician Scheme (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250206.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gACBkTDNDP2GGspeFkn7AhCpiL3.jpg" group-title="Movies | 2025 MOVIES",Trainwreck: P.I. Moms (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250207.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/druY5vhbnJSbFeq3V0AfDHYfXfe.jpg" group-title="Movies | 2025 MOVIES",Vir Das: Fool Volume (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250208.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxwxts8NMAgA1z6h7wzuhigTpCN.jpg" group-title="Movies | 2025 MOVIES",Zarna Garg: Practical People Win (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250209.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",28 Years Later (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg" group-title="Movies | 2025 MOVIES",28 Years Later (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250325.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Before Your Father Finds Us (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250326.mp4
@@ -5666,8 +5648,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250649.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250650.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOzZDcOQEK5edBnVrine9n9Ht4n.jpg" group-title="Movies | 2025 MOVIES",Birthrite (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250651.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tObSf1VzzHt9xB0csanFtb3DRjf.jpg" group-title="Movies | 2025 MOVIES",Bring Her Back (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250652.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t35vgIEv7m58dPwNChUcsndl4JI.jpg" group-title="Movies | 2025 MOVIES",Cop & a Half (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250654.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vv8KtiBY59rQ5QiDGJVDSYQ2oOl.jpg" group-title="Movies | 2025 MOVIES",Dark Cuts: A Thriller Anthology (2025)
@@ -5692,8 +5672,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250663.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250664.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHI2JQPkBgu69mHsJ8U8MoT2rJx.jpg" group-title="Movies | 2025 MOVIES",Jafaican (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250665.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AEgggzRr1vZCLY86MAp93li43z.jpg" group-title="Movies | 2025 MOVIES",Karate Kid: Legends (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250666.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ5F5cxsSbsI3cljfgt6D7J6qxo.jpg" group-title="Movies | 2025 MOVIES",Leprechaun: The Beginning (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/250667.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" group-title="Movies | 2025 MOVIES",Mission: Impossible - The Final Reckoning (2025)
@@ -5760,8 +5738,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251162.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251163.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArMZkbKMc5upqbO1OEz2oi9LYrG.jpg" group-title="Movies | 2025 MOVIES",Football's Financial Shame: The Story of the V11 (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251164.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg" group-title="Movies | 2025 MOVIES",Forgive Us All (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251165.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfR5VnCIlb2jCOTzOB18FN76tXI.jpg" group-title="Movies | 2025 MOVIES",Found Footage: The Making of the Patterson Project (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251166.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg" group-title="Movies | 2025 MOVIES",Friendship (2025)
@@ -5788,8 +5764,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251180.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251181.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGhd4DurS1rhmNOb7b9EeobQTPe.jpg" group-title="Movies | 2025 MOVIES",President Down (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251182.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l10eghFN1nQmWwMSt91MlLvZZFA.jpg" group-title="Movies | 2025 MOVIES",Red Sonja (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251183.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r53mlGdc02HBEoVOpIBFvVWTxE.jpg" group-title="Movies | 2025 MOVIES",Stans (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251184.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPMxDPRemNgzuM8WsKm7QFz1WoT.jpg" group-title="Movies | 2025 MOVIES",The Centipede Strangler (2025)
@@ -5828,8 +5802,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251255.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251256.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg" group-title="Movies | 2025 MOVIES",Under Fire (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/251258.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg" group-title="Movies | 2025 MOVIES",28 Years Later (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252128.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly0h6GjrCDkbBhPdzGCX7DWX4VZ.jpg" group-title="Movies | 2025 MOVIES",A Husband to Die For: The Lisa Aguilar Story (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252129.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckghAN8FuYY2icUyJjVkKXiBrek.jpg" group-title="Movies | 2025 MOVIES",Akshardham: Operation Vajra Shakti (2025)
@@ -5894,8 +5866,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252159.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252160.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IlsM3OjkPM1JLEY1pqQZV5PdcJ.jpg" group-title="Movies | 2025 MOVIES",J.I.A.: The Justice Intelligence Agency (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252161.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg" group-title="Movies | 2025 MOVIES",Just Breathe (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252162.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PCI5HmNXRb9gx8BYTIUbThaymz.jpg" group-title="Movies | 2025 MOVIES",Lilith Fair: Building a Mystery (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252164.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EwwZ5ZQ4ThBjSXZJRI52y6irUj.jpg" group-title="Movies | 2025 MOVIES",Manor of Darkness (2025)
@@ -5934,8 +5904,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252180.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252181.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg" group-title="Movies | 2025 MOVIES",The Fantastic 4: First Steps (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252182.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8oSjAv37tWWzPlk2YfvZz55F9Z.jpg" group-title="Movies | 2025 MOVIES",The Home (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252183.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zpeH8wOrM8p2TTAmBetwhe2BIx.jpg" group-title="Movies | 2025 MOVIES",The Man in My Basement (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252184.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cjb7Fv2n8pN9La4RJO3uD1ngdz.jpg" group-title="Movies | 2025 MOVIES",The Night Time World (2025)
@@ -5954,58 +5922,22 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252493.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252494.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP3vvRzkGp22ipsrlDD3IpfgTgR.jpg" group-title="Movies | 2025 MOVIES",Bikini Nuns (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252495.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg" group-title="Movies | 2025 MOVIES",Borderline (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252496.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg" group-title="Movies | 2025 MOVIES",Bride Hard (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252497.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5VR3nhLYG60znxaqU84wv4VSCb.jpg" group-title="Movies | 2025 MOVIES",Bridget Jones: Mad About the Boy (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252498.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg" group-title="Movies | 2025 MOVIES",Cleaner (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252499.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bghFYMUMEKK6GyTHRA7XVC8uWn6.jpg" group-title="Movies | 2025 MOVIES",Clown in a Cornfield (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252500.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg" group-title="Movies | 2025 MOVIES",Companion (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252501.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MpAklfzhbIqonqt54MyGciDTjS.jpg" group-title="Movies | 2025 MOVIES",Desert Dawn (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252502.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg" group-title="Movies | 2025 MOVIES",Dog Man (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252503.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg" group-title="Movies | 2025 MOVIES",Flight Risk (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252504.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg" group-title="Movies | 2025 MOVIES",Freakier Friday (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252505.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrirqMQQfsvOzq3VC6vIW804xBo.jpg" group-title="Movies | 2025 MOVIES",Gabriel Iglesias: Legend of Fluffy (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252506.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg" group-title="Movies | 2025 MOVIES",Guns Up (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252507.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="Movies | 2025 MOVIES",Heart Eyes (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252508.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="Movies | 2025 MOVIES",High Rollers (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252509.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg" group-title="Movies | 2025 MOVIES",HIM (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252510.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1lwn6GWAjJ7CSn80ZcURb0Cj4G.jpg" group-title="Movies | 2025 MOVIES",Holy Ghost (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252511.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="Movies | 2025 MOVIES",Home Sweet Home: Rebirth (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252512.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg" group-title="Movies | 2025 MOVIES",Hurry Up Tomorrow (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252513.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQN9rZj06rXMVkk76UF1DfBAico.jpg" group-title="Movies | 2025 MOVIES",Ice Road: Vengeance (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252514.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" group-title="Movies | 2025 MOVIES",In the Lost Lands (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252515.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AEgggzRr1vZCLY86MAp93li43z.jpg" group-title="Movies | 2025 MOVIES",Karate Kid: Legends (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252516.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hncLbCGyynGiOzR1fbtJzHacebB.jpg" group-title="Movies | 2025 MOVIES",Kill Me Again (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252517.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg" group-title="Movies | 2025 MOVIES",Lilo & Stitch (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252518.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg" group-title="Movies | 2025 MOVIES",Locked (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252519.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" group-title="Movies | 2025 MOVIES",London Calling (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252520.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg" group-title="Movies | 2025 MOVIES",Love Hurts (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252521.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neQXEkTV79bUArhJCFWTT7gbXfj.jpg" group-title="Movies | 2025 MOVIES",Love of an Icon: The Legend of Crocodile Dundee (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252522.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYwB83GpmkhpQdgsDZwVxuLiBYx.jpg" group-title="Movies | 2025 MOVIES",Love & Rage: Munroe Bergdorf (2025)
@@ -6016,40 +5948,20 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252524.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252525.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj5H3NXD83lGfUWPgeuuyMOpuRj.jpg" group-title="Movies | 2025 MOVIES",Matt McCusker: A Humble Offering (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252526.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="Movies | 2025 MOVIES",Mickey 17 (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252527.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1KcNdCrz5s3ruij9eiT5IARter.jpg" group-title="Movies | 2025 MOVIES",Neighborhood Watch (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252528.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xa5RB5aXQOwDqrEslKQYTTd4TTl.jpg" group-title="Movies | 2025 MOVIES",Novocaine (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252529.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg" group-title="Movies | 2025 MOVIES",One of Them Days (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252530.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="Movies | 2025 MOVIES",Opus (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252531.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGrnqluS0WhpJ6OzBTIIxlYAA3u.jpg" group-title="Movies | 2025 MOVIES",Ozzy: No Escape from Now (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252532.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTG3gMlJa0nFlOS7WNKUJ2EDro.jpg" group-title="Movies | 2025 MOVIES",Peter Pan's Neverland Nightmare (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252533.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg" group-title="Movies | 2025 MOVIES",Rabbit Trap (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252534.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg" group-title="Movies | 2025 MOVIES",Rule Breakers (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252535.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWWg47tTfparvjK0WJNX4xL8lW2.jpg" group-title="Movies | 2025 MOVIES",Snow White (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252536.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CU1zgwlrwptRoOBkgWK5gxKT1o.jpg" group-title="Movies | 2025 MOVIES",Stay (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252537.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg" group-title="Movies | 2025 MOVIES",Steve (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252538.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZlNXEHZsBp7unqw009MeBbMv87.jpg" group-title="Movies | 2025 MOVIES",Stolen Girl (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252539.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="Movies | 2025 MOVIES",The Alto Knights (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252540.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg" group-title="Movies | 2025 MOVIES",The Amateur (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252541.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcQsHMpn3UQDneyiov001TjciCJ.jpg" group-title="Movies | 2025 MOVIES",The Baltimorons (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252542.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Movies | 2025 MOVIES",The Bayou (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252543.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg" group-title="Movies | 2025 MOVIES",The Conjuring: Last Rites (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252544.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EwX2jX9TvznIwRaPxABiRyTiHz.jpg" group-title="Movies | 2025 MOVIES",The Drowned (2025)
@@ -6066,14 +5978,8 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252549.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252550.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",The Threesome (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252551.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",The Wedding Banquet (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252552.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Tornado (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252553.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Twinless (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252554.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | 2025 MOVIES",Until Dawn (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252555.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdZUnzXVhVFAw5uQnRhHCi8iBW.jpg" group-title="Movies | 2025 MOVIES",V/H/S/HALLOWEEN (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/252556.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",A Big Bold Beautiful Journey (2025)
@@ -6092,8 +5998,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253331.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253332.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSAD12zaiEyPMc15pEHBsurkSfD.jpg" group-title="Movies | 2025 MOVIES",Downey Wrote That (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253333.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GIqZUgPZ146BhibsPHMHef2nXX.jpg" group-title="Movies | 2025 MOVIES",Eddington (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253334.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg" group-title="Movies | 2025 MOVIES",Gabby's Dollhouse: The Movie (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253335.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZWVRQMOgLp1WUt63VLSa6B9GR.jpg" group-title="Movies | 2025 MOVIES",Garden of Eden (2025)
@@ -6106,8 +6010,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253338.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253339.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | 2025 MOVIES",Introspection: The Creative Works of Suneeta Misra (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253340.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3lzzgOUgkubje7HR20qznAAGj.jpg" group-title="Movies | 2025 MOVIES",It Feeds (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253341.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg" group-title="Movies | 2025 MOVIES",John Candy: I Like Me (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253342.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg" group-title="Movies | 2025 MOVIES",Just Breathe (2025)
@@ -6124,16 +6026,12 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253348.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253349.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gultnK0rYs4xLLYhxQ9ZnvPfVAn.jpg" group-title="Movies | 2025 MOVIES",The Alabama Solution (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253350.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg" group-title="Movies | 2025 MOVIES",The Astronaut (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH54bfA72eJSEPK96lxLn8J49tP.jpg" group-title="Movies | 2025 MOVIES",The Clouds (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253352.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZzkf0eIKqUNmGOrSGQ6bqeMVQw.jpg" group-title="Movies | 2025 MOVIES",The Healing (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253353.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qkTmVQB74QYKsSri17TbEvpspA.jpg" group-title="Movies | 2025 MOVIES",The Household (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253354.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giV7FS7HGyxRbwqxudXPvv1RgXD.jpg" group-title="Movies | 2025 MOVIES",The Jester 2 (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253355.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg" group-title="Movies | 2025 MOVIES",The Mannequin (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253356.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg" group-title="Movies | 2025 MOVIES",The Perfect Neighbor (2025)
@@ -6152,8 +6050,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253362.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253363.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg" group-title="Movies | 2025 MOVIES",Trust (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253364.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Movies | 2025 MOVIES",Valiant One (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253365.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg" group-title="Movies | 2025 MOVIES",Vicious (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/253366.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNbho0m3u6KYhPRqh3pRIDPrAM.jpg" group-title="Movies | 2025 MOVIES",Woman to Woman (2025)
@@ -6226,8 +6122,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254429.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254430.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtiU8rHroLF3xdnl9sz7RAOTE2l.jpg" group-title="Movies | 2025 MOVIES",Motor City Waves (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254431.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg" group-title="Movies | 2025 MOVIES",Off the Grid (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254432.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg" group-title="Movies | 2025 MOVIES",Red Sonja (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254433.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLZhuHT97849WkWgty2X1hkWUa.jpg" group-title="Movies | 2025 MOVIES",Rosario (2025)
@@ -6284,10 +6178,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254800.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254801.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4JtvGlQO7DByTI6frUobqvSL3R.jpg" group-title="Movies | 2025 MOVIES",Frankenstein (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254802.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg" group-title="Movies | 2025 MOVIES",Good Fortune (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254803.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg" group-title="Movies | 2025 MOVIES",HIM (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254804.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="Movies | 2025 MOVIES",Icefall (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254805.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sr2GJyTZpdv8HvSneDCwRbhmFt.jpg" group-title="Movies | 2025 MOVIES",Love+War (2025)
@@ -6296,8 +6186,6 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254806.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254807.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7URwJrHpcN0G5j7T5Cq82sQRA6L.jpg" group-title="Movies | 2025 MOVIES",October 7: Bearing Witness to the Massacre (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254808.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZlNXEHZsBp7unqw009MeBbMv87.jpg" group-title="Movies | 2025 MOVIES",Stolen Girl (2025)
-http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254809.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43bgegr9XQVBM0i5xEMCBLQUzWE.jpg" group-title="Movies | 2025 MOVIES",Tangled Hearts (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254810.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BsJIXITKVXpbEu3ozo0DmAKpou.jpg" group-title="Movies | 2025 MOVIES",The Great Christmas Snow-In (2025)
@@ -6310,6 +6198,232 @@ http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254813.mp4
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/254814.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg" group-title="Movies | 2025 MOVIES",Good Fortune (2025)
 http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/255717.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puQMWEXZ9wpqwniz9ac3MTAe6BB.jpg" group-title="Movies | 2025 MOVIES",Lookout (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256220.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mESXfzHMvrhWdoFUBlLuOM0HFW.jpg" group-title="Movies | 2025 MOVIES",A Chuck E. Cheese Christmas (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256222.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg" group-title="Movies | 2025 MOVIES",After the Hunt (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256223.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg" group-title="Movies | 2025 MOVIES",Altered (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256224.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg" group-title="Movies | 2025 MOVIES",Anniversary (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256225.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRa8B3tQCUK6pVwjasIyQehbvpF.jpg" group-title="Movies | 2025 MOVIES",Ash (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256226.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAxteOtjaeQN045qNNbSEwu78c4.jpg" group-title="Movies | 2025 MOVIES",Becoming Led Zeppelin (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256227.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu54drUl5ZPSTrTOHSuFnImMz4A.jpg" group-title="Movies | 2025 MOVIES",Book of Joshua: Walls of Jericho (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256229.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg" group-title="Movies | 2025 MOVIES",Borderline (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256230.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pk8kCIOXiMlRc5pnBtU2zyJycR.jpg" group-title="Movies | 2025 MOVIES",Bravery & Betrayal (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256231.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31NpTFAZVsuxWEWv9XjVuRtqHX2.jpg" group-title="Movies | 2025 MOVIES",Breed of Greed (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256232.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVli4kL16OFYPWvn5yTnZusX4l0.jpg" group-title="Movies | 2025 MOVIES",Bride Hard (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256233.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5VR3nhLYG60znxaqU84wv4VSCb.jpg" group-title="Movies | 2025 MOVIES",Bridget Jones: Mad About the Boy (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256234.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg" group-title="Movies | 2025 MOVIES",Bring Her Back (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256235.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | 2025 MOVIES",Bugonia (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256236.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg" group-title="Movies | 2025 MOVIES",Chris Hemsworth: A Road Trip to Remember (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256237.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW5xZPKXtuu5XSiMMKsXHom7ADU.jpg" group-title="Movies | 2025 MOVIES",Christmas on Every Page (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256239.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg" group-title="Movies | 2025 MOVIES",Cleaner (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256240.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg" group-title="Movies | 2025 MOVIES",Clown in a Cornfield (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256241.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg" group-title="Movies | 2025 MOVIES",Companion (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256242.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxkMRuTwWNDsYDB9uFLhjcpFS7L.jpg" group-title="Movies | 2025 MOVIES",Day of a Lion (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256243.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MpAklfzhbIqonqt54MyGciDTjS.jpg" group-title="Movies | 2025 MOVIES",Desert Dawn (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256244.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg" group-title="Movies | 2025 MOVIES",Dog Man (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256245.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GIqZUgPZ146BhibsPHMHef2nXX.jpg" group-title="Movies | 2025 MOVIES",Eddington (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256246.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/le3d7kRe8CWPY8lBJjduaBxgJtv.jpg" group-title="Movies | 2025 MOVIES",Field of Fears - The Haunting of Randolph County Asylum (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256247.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg" group-title="Movies | 2025 MOVIES",Flight Risk (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256248.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg" group-title="Movies | 2025 MOVIES",Forgive Us All (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256249.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ce9L27FE2u1zwSCFqtwkC3umgaf.jpg" group-title="Movies | 2025 MOVIES",Frenzy Moon (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256250.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3CDZLSWlvcYTsJB1ESShwQsVlL.jpg" group-title="Movies | 2025 MOVIES",Friend Zone (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256251.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrirqMQQfsvOzq3VC6vIW804xBo.jpg" group-title="Movies | 2025 MOVIES",Gabriel Iglesias: Legend of Fluffy (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256252.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymH9eGV2Z48iW5hz15qcyhoQAhh.jpg" group-title="Movies | 2025 MOVIES",Girl in the Attic (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256253.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg" group-title="Movies | 2025 MOVIES",Guns Up (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256254.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="Movies | 2025 MOVIES",Heart Eyes (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256255.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="Movies | 2025 MOVIES",High Rollers (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256256.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGh4Q6iY1uAEfiOuFVmFwRGlL6H.jpg" group-title="Movies | 2025 MOVIES",Hill (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256257.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg" group-title="Movies | 2025 MOVIES",HIM (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256258.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="Movies | 2025 MOVIES",Home Sweet Home: Rebirth (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256259.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg" group-title="Movies | 2025 MOVIES",Hurry Up Tomorrow (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256260.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg" group-title="Movies | 2025 MOVIES",If I Had Legs I'd Kick You (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256261.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" group-title="Movies | 2025 MOVIES",In the Lost Lands (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256262.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3lzzgOUgkubje7HR20qznAAGj.jpg" group-title="Movies | 2025 MOVIES",It Feeds (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256263.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVOQF2Ucekug1B80A9crVx7Jn90.jpg" group-title="Movies | 2025 MOVIES",Jingle Bell Heist (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256264.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg" group-title="Movies | 2025 MOVIES",Just Breathe (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256265.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AEgggzRr1vZCLY86MAp93li43z.jpg" group-title="Movies | 2025 MOVIES",Karate Kid: Legends (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256266.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89HPieER8jX9sGKKzhagGIGkMxi.jpg" group-title="Movies | 2025 MOVIES",Kevin Hart: Acting My Age (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256267.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Killer.Rental.2025.720p.WEBRip.x264.AAC-[YTS.LT]
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256268.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Lake.Jesup.Bonecrushers.Revenge.2025.720p.WEBRip.x264.AAC-[YTS.LT]
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256269.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg" group-title="Movies | 2025 MOVIES",Last Days (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256270.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg" group-title="Movies | 2025 MOVIES",LEGO Frozen: Operation Puffins (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256271.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg" group-title="Movies | 2025 MOVIES",Lilo & Stitch (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256272.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BHcqtKzbSIFyMlSuHJMxvo1Xjb.jpg" group-title="Movies | 2025 MOVIES",Lobito Bound: A Journey to Africa's New Frontier (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256273.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg" group-title="Movies | 2025 MOVIES",Locked (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256274.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo9SC1rfxO6Hxj86YgaFZ061Mgw.jpg" group-title="Movies | 2025 MOVIES",Louvre Heist: Minute by Minute (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256275.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg" group-title="Movies | 2025 MOVIES",Love Hurts (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256276.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Marlon.Williams.Nga.Ao.E.Rua.-.Two.Worlds.2025.720p.WEBRip.x264.AAC-[YTS.LT]
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256277.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Married.To.A.Balla.2.2025.720p.WEBRip.x264.AAC-[YTS.LT]
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256278.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10RrWFTCWL01PG2cDOQBEY0GojR.jpg" group-title="Movies | 2025 MOVIES",Melt My Heart This Christmas (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256279.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Merry.Little.Mistery.2025.720p.WEBRip.x264.AAC-[YTS.LT]
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256280.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="Movies | 2025 MOVIES",Mickey 17 (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256281.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq0CRv8qM6jaKF1Wg2rYlrJRUQs.jpg" group-title="Movies | 2025 MOVIES",Minding Your Business (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256282.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suJXN8r8dmf0UIPaHdAjZbvinPb.jpg" group-title="Movies | 2025 MOVIES",Monsters Within (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256283.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPqoEKCSlImD2JIBf6uWMsU3Gag.jpg" group-title="Movies | 2025 MOVIES",Montana Mavericks (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256284.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DBmBItPdy0A2ol59jgHhS54Lua.jpg" group-title="Movies | 2025 MOVIES",Murder at the Embassy (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256285.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1KcNdCrz5s3ruij9eiT5IARter.jpg" group-title="Movies | 2025 MOVIES",Neighborhood Watch (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256286.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg" group-title="Movies | 2025 MOVIES",Novocaine (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256287.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg" group-title="Movies | 2025 MOVIES",Off the Grid (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256288.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg" group-title="Movies | 2025 MOVIES",One of Them Days (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256289.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="Movies | 2025 MOVIES",Opus (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256291.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTG3gMlJa0nFlOS7WNKUJ2EDro.jpg" group-title="Movies | 2025 MOVIES",Peter Pan's Neverland Nightmare (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256292.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg" group-title="Movies | 2025 MOVIES",Red Sonja (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256293.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5KSZ4TXPKWTnQNdzHZFrlvy1t9.jpg" group-title="Movies | 2025 MOVIES",Resurrection Road (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256294.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg" group-title="Movies | 2025 MOVIES",Roofman (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256295.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLZhuHT97849WkWgty2X1hkWUa.jpg" group-title="Movies | 2025 MOVIES",Rosario (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256296.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg" group-title="Movies | 2025 MOVIES",Rule Breakers (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256297.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6gRde2TqBimsn1WTj4bgx0mnL.jpg" group-title="Movies | 2025 MOVIES",Sangre del Toro (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256298.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc46foM2FVrJTgOYg6ou8WGZiqx.jpg" group-title="Movies | 2025 MOVIES",Sara Huntington: Rust Belt Royalty (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256299.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57oa6OsooJc6wQy5PeeFVFQV5PZ.jpg" group-title="Movies | 2025 MOVIES",Second Guessing Fate (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256300.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Selena.Y.Los.Dinos.2025.720p.WEBRip.x264.AAC-[YTS.MX]
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256301.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olgwPDLSXcWhvNptdn84j8RKt8K.jpg" group-title="Movies | 2025 MOVIES",Sense & Sensibility: A Modern Retelling (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256302.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWWg47tTfparvjK0WJNX4xL8lW2.jpg" group-title="Movies | 2025 MOVIES",Snow White (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256303.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUMmG3Q0JyAuSx9QpIiMFhI5zDo.jpg" group-title="Movies | 2025 MOVIES",Soul on Fire (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256304.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3HSCi3gxEnFB4ZeArhiR0SDR8B.jpg" group-title="Movies | 2025 MOVIES",Stan the Man (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256305.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZlNXEHZsBp7unqw009MeBbMv87.jpg" group-title="Movies | 2025 MOVIES",Stolen Girl (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256306.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQbQmatyiRFsYuLOSxAxxG0E0Kl.jpg" group-title="Movies | 2025 MOVIES",Stone Cold Fox (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256307.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nL10LPMJBH2OeRP26rhnysLANSm.jpg" group-title="Movies | 2025 MOVIES",Sugarcane (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256308.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="Movies | 2025 MOVIES",The Alto Knights (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256309.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg" group-title="Movies | 2025 MOVIES",The Amateur (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256310.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg" group-title="Movies | 2025 MOVIES",The Astronaut (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256311.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mLRpo992kIpnYQJKqfLFsrXr3m.jpg" group-title="Movies | 2025 MOVIES",The Bad Guys: Little Lies and Alibis (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256312.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Movies | 2025 MOVIES",The Bayou (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256313.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg" group-title="Movies | 2025 MOVIES",The Crucifix: Blood of the Exorcist (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256314.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/semFxuYx6HcrkZzslgAkBqfJvZk.jpg" group-title="Movies | 2025 MOVIES",The Family Plan 2 (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256315.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOdeDd2XZADoiYJ8QGS9FGgF6n8.jpg" group-title="Movies | 2025 MOVIES",The Grove (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256316.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekPR9836hklELxE07k4LiWI5pTj.jpg" group-title="Movies | 2025 MOVIES",The Hem (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256317.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0NUt1M62StNgvSLmLsmJADbHpg.jpg" group-title="Movies | 2025 MOVIES",The Home (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256318.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg" group-title="Movies | 2025 MOVIES",The Jester 2 (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg" group-title="Movies | 2025 MOVIES",The Monkey (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256320.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg" group-title="Movies | 2025 MOVIES",The Phoenician Scheme (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256321.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK4nXh6M0qZVJ7u4LFiMUuEjqHa.jpg" group-title="Movies | 2025 MOVIES",The Showffeür (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256322.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJzjKLeRBuKw8XzngFZFuqHeDq4.jpg" group-title="Movies | 2025 MOVIES",The Shuffle (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256323.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48scEvAG0H4PBWTt86sJeazExpN.jpg" group-title="Movies | 2025 MOVIES",The Wedding Banquet (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256325.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg" group-title="Movies | 2025 MOVIES",The Woman in the Yard (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256326.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg" group-title="Movies | 2025 MOVIES",Thoughts & Prayers (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256327.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B59ieVpMESoKNircV4GyvdJ48U.jpg" group-title="Movies | 2025 MOVIES",Tidings for the Season (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256328.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHRLMwAtMR6rDZlheUmFwbjhCnN.jpg" group-title="Movies | 2025 MOVIES",Timeless Tidings of Joy (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256329.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg" group-title="Movies | 2025 MOVIES",Tornado (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256330.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg" group-title="Movies | 2025 MOVIES",Train Dreams (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256331.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | 2025 MOVIES",TRON: Ares (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256332.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUMdbrjHhMFDY327B31ctpF9MuY.jpg" group-title="Movies | 2025 MOVIES",Tyler Perry's Finding Joy (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256333.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="Movies | 2025 MOVIES",Until Dawn (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256334.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg" group-title="Movies | 2025 MOVIES",Urchin (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256335.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Movies | 2025 MOVIES",Valiant One (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256336.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies | 2025 MOVIES",Wildcat (2025)
+http://fortv.cc:8080/movie/k4rGMRc/hh2m6S1xW6/256337.mp4
 
 # --- Movies | Action Movies (1598) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -27499,7 +27613,7 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2318
 #EXTINF:-1 tvg-logo="" group-title="Series | 2023 TV Series",Funny Woman
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2324
 
-# --- Series | 2024 TV Series (66) ---
+# --- Series | 2024 TV Series (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Mr. & Mrs. Smith
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2231
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Criminal Record
@@ -27632,8 +27746,10 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2316
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2323
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Doctor Odyssey
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2332
+#EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",A Man on the Inside
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2344
 
-# --- Series | 2025 TV Series (17) ---
+# --- Series | 2025 TV Series (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -27668,6 +27784,16 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2337
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2338
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Your Friends & Neighbors
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2341
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",IT: Welcome to Derry
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2342
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",All Her Fault
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2343
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",The Beast in Me
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2345
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Pluribus
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2346
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Last Samurai Standing
+http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2347
 
 # --- Series | All Series (330) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -28331,4 +28457,4 @@ http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
 http://fortv.cc:8080/series/k4rGMRc/hh2m6S1xW6/2319
 
-# Total: 14108
+# Total: 14171

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2025-12-01 18:35:47
+# Generated: 2025-12-02 07:05:31
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1073,19 +1073,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (97) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/pkyhvtvi8fi51nfbi24mzxj1s_image-header_pDach_1763808878000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Uruguay - Panama (2025-12-01 00:40:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171306.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7i7xu7n0qitjfhuq9pf0nvc0j_image-header_pDach_1762869142000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Broncos @ Commanders (deutscher Kommentar) (2025-12-01 01:20:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171307.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vhvbeip2ptgi1oiiw3jjo8651_image-header_pDach_1763812935000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",New Zealand - Australia (2025-12-01 06:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171308.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qmv1293vsgy51onl0rvdz68x2_image-header_pDach_1763812935000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Chinese Taipei - Japan (2025-12-01 11:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171309.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8qr6if2ueml85ssadnlcxhw1z_image-header_pDach_1762950690000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Deutschland U23 - Frankreich U23 (2025-12-01 17:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171310.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q82ozxxnkuxa1jyeavg5p2vrz_image-header_pDach_1762942997000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inside The Ring (2025-12-01 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171311.m3u8
+# --- DE-DAZN EVENT (91) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2coe3gx1jdysqvpl5d0wxpbs_image-header_pDach_1762513062000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bologna - Cremonese (italienischer Kommentar) (2025-12-01 19:45:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171312.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8wot0n5o5g3ogzz40973rjsbs_image-header_pDach_1762513062000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bologna - Cremonese (2025-12-01 19:45:00)
@@ -6462,7 +6450,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/48039.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/35950.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS 1 HD (HEVC)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/97028.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS 1 HD (Gercek hevc)
+#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS 1 HD (4K) Mac Saati
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27314.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS 1 HD (Backup 2)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/141061.m3u8
@@ -6917,4 +6905,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3398
+# Total: 3392

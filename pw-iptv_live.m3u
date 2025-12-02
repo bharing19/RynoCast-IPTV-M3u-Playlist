@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2025-12-01 18:28:39
+# Generated: 2025-12-02 07:08:58
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -4820,11 +4820,11 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/203151.m3u8
 # --- AR| TOD SPORT ⁸ᴷ & PPV ⚽ (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkv1rsh4/TOD-GIF.gif" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",#### TOD SPORT ⁸ᴷ & PPV ####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - ORLANDO MAGIC VS CHICAGO BULLS - ARABIC | Tue 02 Dec 00:55 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - ORLANDO MAGIC VS CHICAGO BULLS - ENGLISH | Tue 02 Dec 00:55 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036846.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 3 - NEW ENGLAND PATRIOTS VS NEW YORK GIANTS | Tue 02 Dec 01:55 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036845.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1036844.m3u8
@@ -5689,25 +5689,23 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1174195.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",DE: DAZN MOTO AMERICA ᴿᴬᵂ
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1174193.m3u8
 
-# --- DE| DAZN PPV (51) ---
+# --- DE| DAZN PPV (50) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="DE| DAZN PPV",##### DAZN PPV #####
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/299317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - KOREA REPUBLIC VS. CHINA PR | Mon 01 Dec 10:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - JETS @ SABRES | Tue 02 Dec 01:20 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - CHINESE TAIPEI VS. JAPAN | Mon 01 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - PHILIPPINES VS. GUAM | Mon 01 Dec 12:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - PENGUINS @ FLYERS | Tue 02 Dec 00:50 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - CANADA VS. BAHAMAS | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - PUERTO RICO VS. JAMAICA | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919834.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - UNITED STATES VS. NICARAGUA | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919833.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - DOMINICAN REPUBLIC VS. MEXICO | Tue 02 Dec 01:00 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919831.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/919830.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
@@ -7674,7 +7672,7 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/816704.m3u8
 # --- DE| NOW TV SPORTS PPV (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| NOW TV SPORTS PPV",####### NOW TV PPV #######
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055929.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - DER MITTAG | Mon 01 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - NBA: CHICAGO BULLS @ ORLANDO MAGIC | Tue 02 Dec 01:30 | 8K EXCLUSIVE
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055928.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NO EVENT STREAMING -
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1055927.m3u8
@@ -9753,4 +9751,4 @@ http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1667444.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6454.png?76365" group-title="DE| WOW SPORT ᴴᴰ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",WOW: SKY SPORT 10 ᴴᴰ ◉
 http://pw-iptv.online:8080/live/RadouanLibi/c421afe42c/1667443.m3u8
 
-# Total: 4764
+# Total: 4763

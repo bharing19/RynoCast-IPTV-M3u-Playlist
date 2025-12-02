@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2025-12-01 18:31:18
+# Generated: 2025-12-02 07:01:50
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -16395,7 +16395,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2150912.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehhJzxVV566RxPKmotY4E6xU477.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",While She Was Out [PRE] [2008]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2150913.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5305) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5307) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wobVTa99eW0ht6c1rNNzLkazPtR.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Long Walk [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2135470.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVTGlKuJUeqgmznxhlpKDKClili.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Age of Disclosure [PRE] [2025]
@@ -27006,6 +27006,10 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2153761.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2153762.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XfxvKm0gAgOFBOL8vguBCiLxiI.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Holiday Road [PRE] [2023]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2153763.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMxiz9KwVminT5HCGOubkcHsK0c.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Merchants of Joy [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2157020.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",TRON: Ares [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2157021.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -27075,4 +27079,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | VOD: Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13523
+# Total: 13525

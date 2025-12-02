@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-01 18:41:08
+# Generated: 2025-12-02 07:10:06
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -754,7 +754,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/72583.m3u8
 # --- |DE| KIDS (12) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/Austria/siptvslogo.png" group-title="|DE| KIDS",* * * * KIDS * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35383.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/CARTOONNETWORK.png" group-title="|DE| KIDS",DE: CARTOON  NETWORK ᴴᴰ
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/CARTOONNETWORK.png" group-title="|DE| KIDS",DE: CARTOON NETWORK
 http://siptvs.com:8080/live/Biljana12/Biljana12/35385.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/DISNEYCHANNELHD.png" group-title="|DE| KIDS",DE: DISNEY CHANNEL ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35387.m3u8
@@ -766,7 +766,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35390.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35391.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/toggoplus.png" group-title="|DE| KIDS",DE: TOGGO PLUS
 http://siptvs.com:8080/live/Biljana12/Biljana12/35392.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/boomerang.png" group-title="|DE| KIDS",DE: BOOMERANG
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/boomerang.png" group-title="|DE| KIDS",DE: CARTOONITO
 http://siptvs.com:8080/live/Biljana12/Biljana12/35384.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/boomerang.png" group-title="|DE| KIDS",DE: RIC
 http://siptvs.com:8080/live/Biljana12/Biljana12/84760.m3u8
@@ -842,7 +842,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/5160.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/5161.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMAFAMILYHD.png" group-title="|DE| SKY",|DE| SKY CINEMA FAMILY
 http://siptvs.com:8080/live/Biljana12/Biljana12/5165.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMANOSTALGIE.png" group-title="|DE| SKY",|DE| SKY CINEMA NOSTALGIE
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMANOSTALGIE.png" group-title="|DE| SKY",|DE| SKY CINEMA CLASSICS
 http://siptvs.com:8080/live/Biljana12/Biljana12/5166.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/skyreplay.png" group-title="|DE| SKY",|DE| SKY REPLAY
 http://siptvs.com:8080/live/Biljana12/Biljana12/5151.m3u8
@@ -920,7 +920,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35190.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/84193.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Sky_Sport_Tennis.png" group-title="|DE| SPORT",DE: SKY SPORT TENNIS
 http://siptvs.com:8080/live/Biljana12/Biljana12/35191.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Sky_Sport_Mix.png" group-title="|DE| SPORT",DE: SKY SPORT  MIX
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Sky_Sport_Mix.png" group-title="|DE| SPORT",DE: SKY SPORT MIX
 http://siptvs.com:8080/live/Biljana12/Biljana12/35192.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/SkySport1HD.png" group-title="|DE| SPORT",DE: SKY SPORT 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/79781.m3u8
@@ -1947,7 +1947,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/112980.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/MACEDONIA/hugo.png" group-title="|EXYU| MAKEDONIJA",MK: HUGO 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/112981.m3u8
 
-# --- |EXYU| MUZICKI (50) ---
+# --- |EXYU| MUZICKI (49) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/yuplanet.png" group-title="|EXYU| MUZICKI",YU PLANET
 http://siptvs.com:8080/live/Biljana12/Biljana12/35357.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/grand%20%281%29.png" group-title="|EXYU| MUZICKI",GRAND TV
@@ -1996,8 +1996,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/38133.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/39688.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/dmc.png" group-title="|EXYU| MUZICKI",DMC
 http://siptvs.com:8080/live/Biljana12/Biljana12/60199.m3u8
-#EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/962815c6f9bf14ba6ebcbbcc1c5a7a90.png" group-title="|EXYU| MUZICKI",PTV VIENNA
-http://siptvs.com:8080/live/Biljana12/Biljana12/62589.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/kcn1.png" group-title="|EXYU| MUZICKI",KCN JAGODINA
 http://siptvs.com:8080/live/Biljana12/Biljana12/67619.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/kcn2.png" group-title="|EXYU| MUZICKI",KCN 2
@@ -3001,4 +2999,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1469
+# Total: 1468

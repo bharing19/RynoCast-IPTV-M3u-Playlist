@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-01 18:36:28
+# Generated: 2025-12-02 07:03:22
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -6279,9 +6279,11 @@ http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/67409.mkv
 
-# --- Movies | Vod de (1348) ---
+# --- Movies | Vod de (1349) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/80934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5k2WV1i6jcnbPmRhoXSEQWQGT9u.jpg" group-title="Movies | Vod de",One Battle After Another (2025) DE
+http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/81898.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6YgUnANs1Xtn9oNzO3PzRs23mD.jpg" group-title="Movies | Vod de",The Family Plan 2 (2025) DE
 http://predator.digital:8080/movie/VenerantSpaqi12/mFln9pmThI/81798.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2eQHH7Ruh0KduSIWT5lNlrrau.jpg" group-title="Movies | Vod de",Heidi - Die Legende vom Luchs (2025)
@@ -9001,4 +9003,4 @@ http://predator.digital:8080/series/VenerantSpaqi12/mFln9pmThI/255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES-ITA",MINDHUNTER (2017) ITA
 http://predator.digital:8080/series/VenerantSpaqi12/mFln9pmThI/258
 
-# Total: 4487
+# Total: 4488

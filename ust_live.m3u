@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ust.lat:80
-# Generated: 2025-12-01 18:40:53
+# Generated: 2025-12-02 07:02:18
 # Expires: 2025-12-19
 # Family Safe Edition
 # ==============================================
@@ -1133,26 +1133,22 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/6546.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/id.png" group-title="DISCOVERY",Investigação Discovery SD²
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100517.m3u8
 
-# --- DISNEY+ (29) ---
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Eastern Washington x Portland
+# --- DISNEY+ (27) ---
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ab6b9-b860-7ac8-a730-31f93a3b7cad/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Puerto Rico x St. Lucia
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346368.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Curacao x Panama
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ab6bb-3719-7e29-b893-b206bff05de5/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Guyana x Nicaragua
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346369.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Belize x Haiti
-http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346370.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Boca Juniors x Argentinos Jrs.
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/f78e8a53-b5b6-44e7-84f0-045c1ca5f9a3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Pittsburgh Penguins x Philadelphia Flyers
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346371.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Buffalo Bills x Pittsburgh Steelers
-http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346372.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",CSU Monterey Bay x San Francisco
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/f78e8a53-b5b6-44e7-84f0-045c1ca5f9a3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Pittsburgh Penguins x Philadelphia Flyers
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346373.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Premier Padel: Acapulco - Centre Court (Finales)
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ac6a0-22a3-7087-be3b-7a32d0385eca/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Racing Club x Tigre
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346374.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Ottawa Senators x Dallas Stars
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019abb32-e5cc-719f-a1e0-48a3d7f8c327/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Chicago Bulls x Orlando Magic
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346375.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Boca Juniors x Argentinos Jrs.
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ac247-54e0-7c78-acf6-63e2f09f56f4/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Winnipeg Jets x Buffalo Sabres
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346376.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Calgary Flames x Carolina Hurricanes
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ac247-54e0-7c78-acf6-63e2f09f56f4/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",Winnipeg Jets x Buffalo Sabres
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346377.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Calgary Flames x Carolina Hurricanes
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/346378.m3u8
@@ -2816,9 +2812,9 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100488.m3u8
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/100489.m3u8
 
 # --- JOGOS DO DIA (60) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Noruega x Dinamarca - 14:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fenerbahce X Galatasaray - 14:00 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355630.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Noruega x Dinamarca - 14:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fenerbahce X Galatasaray - 14:00 HD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355631.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bologna x Cremonese - 16:45 FHD
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/355632.m3u8
@@ -4461,4 +4457,4 @@ http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/155608.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://ust.lat:80/live/OdairJoseRodycz/o1m375j6/155606.m3u8
 
-# Total: 2182
+# Total: 2180

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2025-12-01 18:27:52
+# Generated: 2025-12-02 07:01:26
 # Expires: 2026-05-25
 # Family Safe Edition
 # ==============================================
@@ -5167,8 +5167,8 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/42742.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/motorsporttv.png" group-title="IT - SPORTS",(IT) Motor Trend 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/89787.m3u8
 
-# --- KU : KURDISH (181) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/suroyotv.png" group-title="KU : KURDISH",(KU) Suboro TV
+# --- KU : KURDISH (180) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/suroyotv.png" group-title="KU : KURDISH",(KU) Suboro TV HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201388.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/suroyotv.png" group-title="KU : KURDISH",(KU) Suboro TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/44727.m3u8
@@ -5182,6 +5182,70 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/12751.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201386.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdistantv.png" group-title="KU : KURDISH",(KU) Kurdistan TV HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31264.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/arynews.png" group-title="KU : KURDISH",(KU) Aryen TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7870.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ciratv.png" group-title="KU : KURDISH",(KU) Cira TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31282.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/suroyotv.png" group-title="KU : KURDISH",(KU) Jin TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/34455.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/korektv.png" group-title="KU : KURDISH",(KU) Korek TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kani 4K
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201113.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdmaxtv.png" group-title="KU : KURDISH",(KU) Kurd Max
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7862.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdsatiqnews.png" group-title="KU : KURDISH",(KU) Kurdsat News HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31283.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdsat.png" group-title="KU : KURDISH",(KU) Kurdsat
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurdshow HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201102.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdistan24iq.png" group-title="KU : KURDISH",(KU) Kurdistan 24
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31272.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdmaxiqshow.png" group-title="KU : KURDISH",(KU) Kurdmax Show FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7863.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdmaxtv.png" group-title="KU : KURDISH",(KU) Kurdmax TV FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7868.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/trtkurditr.png" group-title="KU : KURDISH",(KU) TRT Kurdi FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7873.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/galikurdistan.png" group-title="KU : KURDISH",(KU) GalI Kurdistan HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31273.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(TR) TRT Kurdi FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/30187.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/medmuzik.png" group-title="KU : KURDISH",(KU) Med Music
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7874.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/medyam14tr.png" group-title="KU : KURDISH",(KU) Medya Haber
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7876.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nettv.png" group-title="KU : KURDISH",(KU) Net TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31263.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nrtiq.png" group-title="KU : KURDISH",(KU) Nrt HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31262.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nrtiq2.png" group-title="KU : KURDISH",(KU) Nrt 2 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7855.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/payamiqtv.png" group-title="KU : KURDISH",(KU) Payam TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7860.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ronahi.png" group-title="KU : KURDISH",(KU) Ronahi TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/121315.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rojhelat.png" group-title="KU : KURDISH",(KU) Rojava-
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31261.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rudaw.png" group-title="KU : KURDISH",(KU) Rudaw TV 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7853.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rudaw.png" group-title="KU : KURDISH",(KU) Rosan TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/103879.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sterktv.png" group-title="KU : KURDISH",(KU) Sterk TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7877.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sahar.png" group-title="KU : KURDISH",(KU) Sahar Kurdi 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7856.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Srusht FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201203.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/waartviq.png" group-title="KU : KURDISH",(KU) Waar TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7851.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zaroktvtr.png" group-title="KU : KURDISH",(KU) Zarok TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7871.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zagrostviq.png" group-title="KU : KURDISH",(KU) Zagros TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7872.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vintv.png" group-title="KU : KURDISH",(KU) Zed FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7857.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Ava TV FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201148.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Arti TV FHD
@@ -5192,98 +5256,66 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201138.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201211.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) K24 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201152.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ii/ishtar_tv.png" group-title="KU : KURDISH",(KU) Ishtar TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Ishtar TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/105389.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/trtkurditr.png" group-title="KU : KURDISH",(KU) TRT Kurdi FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7873.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(TR) TRT Kurdi FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/30187.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/arynews.png" group-title="KU : KURDISH",(KU) Aryen TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7870.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Asman HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Asman TV HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Asman TV HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201084.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Amozhgary TV HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Amozhgary TV HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201143.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/aa/ava-entertainment-iq.png" group-title="KU : KURDISH",(KU) Ava Entertainment
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Ava Entertainment
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/103877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Bask 4K
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Bask FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201112.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Bmc FHD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Bmc FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201077.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Bangawaz
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Bangawaz FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201142.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ciratv.png" group-title="KU : KURDISH",(KU) Cira TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) C TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) C TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201160.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Derin 4K
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Derin FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201115.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Derwaze 4K
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Derwaze FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201131.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Dahen TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Dahen TV FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201076.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Duhok TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Duhok TV FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Evin TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Evin TV  FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Euro Kurd HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Euro Kurd HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201074.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Iraqia Kurd
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Iraqia Kurd
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201145.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/suroyotv.png" group-title="KU : KURDISH",(KU) Jin TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/34455.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Judy HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Judy HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Gem Kurd
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Gem Kurd
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201158.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/galikurdistan.png" group-title="KU : KURDISH",(KU) GalI Kurdistan HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31273.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Helhelok TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Helhelok TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201073.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/korektv.png" group-title="KU : KURDISH",(KU) Korek TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7864.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdmaxtv.png" group-title="KU : KURDISH",(KU) Kurd Max
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kani 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201113.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Koya HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201215.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Khak HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201218.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Kurdana FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201216.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdsatiqnews.png" group-title="KU : KURDISH",(KU) Kurdsat News HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurdmax Kurmanji
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Kurdmax Kurmanji FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201147.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdmaxiqshow.png" group-title="KU : KURDISH",(KU) Kurdmax Show
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurdmax Pepule Sorani
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Kurdmax Pepule Sorani
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201157.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Kurdmax Music FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201212.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdsat.png" group-title="KU : KURDISH",(KU) Kurdsat
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7859.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdmaxtv.png" group-title="KU : KURDISH",(KU) Kurdmax TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7868.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kirkuk TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201150.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurd Channel HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurdshow HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201102.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Krd Wild Life HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201106.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kurdistan24iq.png" group-title="KU : KURDISH",(KU) Kurdistan 24
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31272.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Kurtce Mix 1
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/184579.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Kurtce Mix 2
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/184580.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/medmuzik.png" group-title="KU : KURDISH",(KU) Med Music
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7874.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Livedream HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201101.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ll/lalish_tv_de.png" group-title="KU : KURDISH",(KU) Lalish
@@ -5294,10 +5326,8 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201118.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201214.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Motor 1 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Mihrab TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Mihrab TV  FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201202.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/medyam14tr.png" group-title="KU : KURDISH",(KU) Medya Haber
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7876.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Minara TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201100.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) NR 1 FHD
@@ -5310,12 +5340,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201090.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Niga Family HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201089.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nettv.png" group-title="KU : KURDISH",(KU) Net TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31263.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nrtiq2.png" group-title="KU : KURDISH",(KU) Nrt 2 4K+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7855.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nrtiq.png" group-title="KU : KURDISH",(KU) Nrt HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31262.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Newline 1 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201137.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) NewMax HD
@@ -5338,34 +5362,18 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201126.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201124.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Newmax Comedy HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201111.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/payamiqtv.png" group-title="KU : KURDISH",(KU) Payam TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7860.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ronahi.png" group-title="KU : KURDISH",(KU) Ronahi TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/121315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Ranya HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201122.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Rasan HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201088.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rojhelat.png" group-title="KU : KURDISH",(KU) Rojava-
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31261.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rudaw.png" group-title="KU : KURDISH",(KU) Rudaw TV 4K+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7853.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rudaw.png" group-title="KU : KURDISH",(KU) Rosan TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/103879.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Reng HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201135.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Raman FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201206.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Reng Document HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201134.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sterktv.png" group-title="KU : KURDISH",(KU) Sterk TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7877.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Saudi Sunnah
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201087.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sahar.png" group-title="KU : KURDISH",(KU) Sahar Kurdi 4K+
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7856.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Srusht FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201203.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ss/speda-channel-iq.png" group-title="KU : KURDISH",(KU)  Speda Channel 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/105214.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Speda Drama HD
@@ -5374,16 +5382,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201200.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201086.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Vin
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201153.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/waartviq.png" group-title="KU : KURDISH",(KU) Waar TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Zarok TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201139.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zaroktvtr.png" group-title="KU : KURDISH",(KU) Zarok TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7871.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zagrostviq.png" group-title="KU : KURDISH",(KU) Zagros TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7872.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vintv.png" group-title="KU : KURDISH",(KU) Zed FHD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7857.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Znar 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Zaxo 4K
@@ -5394,7 +5392,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201085.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201219.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Qellat HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Imk TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Imk TV  FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201205.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Astera Family HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201081.m3u8
@@ -5430,7 +5428,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201114.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201119.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) See Sport 3 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201117.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) MMN Action HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) MMN Action FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) MMN Drama HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201199.m3u8
@@ -5454,29 +5452,29 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201092.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201091.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Sport 1 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 1 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 1 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201197.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurdcinema Action HD2
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) Kurdcinema Action HD3
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 4 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 4 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 5 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 5 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 6 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 6 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 7 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 7 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 8 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201189.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 9 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 10 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 10 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 11 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 11 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Action 12 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="KU : KURDISH",(KU) Cinema Action 12 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201191.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KU : KURDISH",(KU) KurdCinema Animation 1 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/201187.m3u8
@@ -10275,4 +10273,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 4998
+# Total: 4997

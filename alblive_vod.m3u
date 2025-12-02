@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-01 18:31:38
+# Generated: 2025-12-02 07:04:44
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -2569,7 +2569,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15513.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQcHvMc7gVG6OWVotVLDeRkrRl.jpg" group-title="Movies | DE: Disney Kinder",Burrow (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15711.mkv
 
-# --- Movies | DE: NETFLIX UHD 4K (264) ---
+# --- Movies | DE: NETFLIX UHD 4K (292) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Fall for Me (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15529.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Havoc (2025)
@@ -3084,6 +3084,62 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16993.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16994.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg" group-title="Movies | DE: NETFLIX UHD 4K",World War Z (2013)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16995.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Alien Xmas (2020)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17065.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qBQDIED8O8ehWODVt3s304KQlt.jpg" group-title="Movies | DE: NETFLIX UHD 4K",A Merry Christmas Wish (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17066.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7A4sPNcTnwtHW2lPaPrKHFVSMON.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Angel Falls Christmas (2021)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17067.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Champagne Problems (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17068.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDWHhiVLllPWBU2ADV61acyqT7.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Christmas on Windmill Way (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17069.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5ZHflyzsxmR09Ce53w9Ng0tIx.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Con Mum (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17070.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rVOQF2Ucekug1B80A9crVx7Jn90.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Jingle Bell Heist (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17071.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5RbyHIVydD3Krmec1LlUV7rRjet.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Jingle Jangle: A Christmas Journey (2020)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17072.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Last Christmas (2019)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17073.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Scrooge: A Christmas Carol (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17074.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m0clsFEXidLVJ0TueqWOvvImOMh.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Tall Girl (2019)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17075.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg" group-title="Movies | DE: NETFLIX UHD 4K",The Boy in the Striped Pyjamas (2008)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17076.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nSYgOCTC8lIys1exhKE9Ivo0ZAE.jpg" group-title="Movies | DE: NETFLIX UHD 4K",The Claus Family (2020)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17077.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k1m0SgH91AtSVcAY9p7dtqh0Pgr.jpg" group-title="Movies | DE: NETFLIX UHD 4K",The Claus Family 2 (2021)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17078.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg" group-title="Movies | DE: NETFLIX UHD 4K",The Noel Diary (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17079.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iS4MXjwNEhA5pqfQDz0cP43zRul.jpg" group-title="Movies | DE: NETFLIX UHD 4K",A Cinderella Christmas Ball (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17080.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rNvfIcaYjQjczvW6o3qdB7W4vz.jpg" group-title="Movies | DE: NETFLIX UHD 4K",A Kindhearted Christmas (2021)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17081.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5GGWK9BTu3rMv4IxucJsvrELAXa.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Christmas Under the Northern Lights (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17082.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/37018RONS3c5qusxIJV5BHrFF97.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Renovation Romance (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17083.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bGjcWn55YmVsDn1SORwqnHYPTLo.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Swing Into Romance (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17084.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="Movies | DE: NETFLIX UHD 4K",The Revenant (2015)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17085.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ftutOnMM5JHl69mvkNbs8f1AUR.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Angela's Christmas Wish (2020)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17086.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Jack Reacher: Never Go Back (2016)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17087.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg" group-title="Movies | DE: NETFLIX UHD 4K",That Christmas (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17088.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg" group-title="Movies | DE: NETFLIX UHD 4K",In Your Dreams (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17089.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1yQZflwRQavzVYD98M0G5v2TA4K.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Operation Mistletoe (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17090.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ulgKdif3ubMACDltr8VZy6fyVjW.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Troll (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17091.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Troll 2 (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17092.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Beauty in Black
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Billionaires' Bunker
@@ -10039,4 +10095,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 4987
+# Total: 5015

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lambda38705.cdnsilver.me
-# Generated: 2025-12-01 18:27:35
+# Generated: 2025-12-02 07:02:12
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -1555,6 +1555,34 @@ http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/544798.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 9 HEVC
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/544797.m3u8
 
+# --- AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽ (13) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",#### FIFA ARAB CUP 2025 ᴺᴹ ⚽ ####
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709607.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/534.jpg?52214" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: BEIN SPORTS ⁴ᴷ
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709606.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/534.jpg?52214" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: BEIN SPORTS ᴴᴰ ⁷²⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709605.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/534.jpg?52214" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: BEIN SPORTS ˢᴰ ⁴⁸⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709604.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/557.png?15613" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: AL KASS ONE ⁴ᴷ
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709603.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/557.png?15613" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: AL KASS ONE ᴴᴰ ⁷²⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709602.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/557.png?15613" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: AL KASS ONE ˢᴰ ⁴⁸⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709601.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/572.jpg?15046" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: AD SPORT 1 ⁴ᴋ
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709600.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/572.jpg?15046" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: AD SPORT 1 ᴴᴰ ⁷²⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709599.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/572.jpg?15046" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: AD SPORT 1 ˢᴰ ⁴⁸⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709598.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/572.jpg?10730" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: DUBAI SPORT 1 ⁴ᴋ
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709597.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/572.jpg?10730" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: DUBAI SPORT 1 ᴴᴰ ⁷²⁰
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709596.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14473.jpg?97084" group-title="AR| FIFA ARAB CUP 2025 ᴺᴹ ⚽",M: SHASHA SPORT 1
+http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1709595.m3u8
+
 # --- AR| ISLAMIC 4K ☾ اسلامية (42) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/12/ee/af12eec22f944331f2d98afd0232b429.gif" group-title="AR| ISLAMIC 4K ☾ اسلامية",###### ISLAMIC TV ######
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/251794.m3u8
@@ -2628,9 +2656,9 @@ http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/534011.m3u8
 # --- AR| TOD SPORT ⁸ᴷ & PPV ⚽ (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkv1rsh4/TOD-GIF.gif" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",#### TOD SPORT ⁸ᴷ & PPV ####
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1036848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 1 - ORLANDO MAGIC VS CHICAGO BULLS - ARABIC | Tue 02 Dec 00:55 | 8K EXCLUSIVE
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1036847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 2 - ORLANDO MAGIC VS CHICAGO BULLS - ENGLISH | Tue 02 Dec 00:55 | 8K EXCLUSIVE
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1036846.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",AR: TOD PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/1036845.m3u8
@@ -4619,4 +4647,4 @@ http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/207226.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12553.jpg?33706" group-title="FR| SPORT HD/4K",FR: AUTOMOTO TV HD
 http://lambda38705.cdnsilver.me/live/695be9689672/757cd33ab2/207245.m3u8
 
-# Total: 2239
+# Total: 2252

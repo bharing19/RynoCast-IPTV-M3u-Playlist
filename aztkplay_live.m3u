@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2025-12-01 18:37:10
+# Generated: 2025-12-02 07:03:14
 # Expires: 2025-12-18
 # Family Safe Edition
 # ==============================================
@@ -3319,7 +3319,11 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314980.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wn6ULSU.jpg" group-title="PARAGUAY",GEN TV PY
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314981.m3u8
 
-# --- PEDIDO TV (24) ---
+# --- PEDIDO TV (28) ---
+#EXTINF:-1 tvg-logo="" group-title="PEDIDO TV",WWE Friday Night Smackdown ENG
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/60142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PEDIDO TV",WWE Monday Night Raw (ESP)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/92827.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PEDIDO TV",NBC | KCEN
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206314.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/aa/azteca_mx.png" group-title="PEDIDO TV",Azteca Deportes HD
@@ -3334,6 +3338,8 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/223178.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/223180.m3u8
 #EXTINF:-1 tvg-logo="http://tecno.win:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opti5h-Tid0bscNUSJJAoEaoYDaDR0jy5-Dsaj6dxRXHwNnhOzjz8OLmXJ8XFBKA_UJY.png" group-title="PEDIDO TV",Halmmark Channel
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/223985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PEDIDO TV",WWE Monday Night Raw
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/265572.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yz8sNnH.jpg" group-title="PEDIDO TV",ES: TVE Internaational
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/318193.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jKMIpDE.png" group-title="PEDIDO TV",TV Land USA
@@ -3368,6 +3374,8 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/379575.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/391762.m3u8
 #EXTINF:-1 tvg-logo="https://logos.xbots.com.mx/2414.png" group-title="PEDIDO TV",MX | LIFETIME HD
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/581126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PEDIDO TV",WWE Friday Night Smackdown ESP
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591522.m3u8
 
 # --- PERU (11) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/10nKOcl.png" group-title="PERU",America Next
@@ -3393,7 +3401,7 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/315078.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/htUFrgp.png" group-title="PERU",Willax
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/315079.m3u8
 
-# --- PPV (9) ---
+# --- PPV (16) ---
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Oi80u0.png" group-title="PPV",UFC FIGHT PASS FHD
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/319420.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV",WWE Monday Night Esp
@@ -3412,6 +3420,20 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/356910.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/590065.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV",Monday night raw Eng
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/590066.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="PPV",* FOX ON SOLO PPV*
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591523.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/FOXONE/PELICULAS/FOXONE1/EXPORTACION_WEB/SS/FOXONE1_t-290x163.png" group-title="PPV",MX  | FOX ONE 1
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591524.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/FOXONE/PELICULAS/FOXONE2/EXPORTACION_WEB/SS/FOXONE2_t-290x163.png" group-title="PPV",MX | FOX ONE 2
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591525.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/FOXONE/PELICULAS/FOXONE3/EXPORTACION_WEB/SS/FOXONE3_t-290x163.png" group-title="PPV",MX | FOX ONE 3
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591526.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/FOXONE/PELICULAS/FOXONE4/EXPORTACION_WEB/SS/FOXONE4_t-290x163.png" group-title="PPV",MX | FOX ONE 4
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591527.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/FOXONE/PELICULAS/FOXONE5/EXPORTACION_WEB/SS/FOXONE5_t-290x163.png" group-title="PPV",MX | FOX ONE 5
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591528.m3u8
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/FOXONE/PELICULAS/FOXONE6/EXPORTACION_WEB/SS/FOXONE6_t-290x163.png" group-title="PPV",MX | FOX ONE 6
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/591529.m3u8
 
 # --- PUERTO RICO (35) ---
 #EXTINF:-1 tvg-logo="http://www.latinsonghall.com/access/wp-content/uploads/2013/03/logo-megatv-300x300.png" group-title="PUERTO RICO",MEGA PUERTO RICO (K)
@@ -3965,23 +3987,17 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555517.m3u8
 #EXTINF:-1 tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRD1AkZUaTSF1epZGo_yFYjeP2uS-j9i4YpnIFhkfMTnlK0tOpHZWJZh5B9--z1z2R2idtkCzwNDyxGwKGajL5unqPLfAPWU0rQIFOoyTqgiE.png" group-title="USA",USA | NBC Sports Chicago +
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555518.m3u8
 
-# --- Unknown (8) ---
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X52hFyu.jpg" group-title="Unknown",WWE K
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/60142.m3u8
+# --- Unknown (5) ---
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Oi80u0.png" group-title="Unknown",Fight pass op2
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/60443.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",21:00 pm  Evento Box Edgar Berlanga vs Alexis Angulo
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/91641.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unknown",ESPN2 WWE Survivor
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/92827.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",20:00 pm  Evento Box Joet González vs Isaac Dogboe...
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/110771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",19:00 pm College Football Ball St vs Tennessee
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/125461.m3u8
 #EXTINF:-1 tvg-logo="http://allstar.is-by.us:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png" group-title="Unknown",LIGA MX (TUDN NET HD PPV)
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/188124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unknown",WWE ROYAL RUMBLE 2024 OPC1
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/265572.m3u8
 
 # --- VENEZUELA (17) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8ZmujU.png" group-title="VENEZUELA",MERIDIANO TV
@@ -4029,4 +4045,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 1948
+# Total: 1956

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-01 18:35:08
+# Generated: 2025-12-02 07:13:33
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -7969,9 +7969,15 @@ http://italians-app.net:8080/movie/hele/cart@/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://italians-app.net:8080/movie/hele/cart@/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (952) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (955) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://italians-app.net:8080/movie/hele/cart@/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e6dbc3755da29f303803557a41da343b.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",E fuori nevica! (2014)
+http://italians-app.net:8080/movie/hele/cart@/85817.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/42b335d023266bb7b4f468d3698ea46a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",L'amico del cuore (1998)
+http://italians-app.net:8080/movie/hele/cart@/85818.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8fb6e73a512f4c59d2ce9d55fd2185f6.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Una festa esagerata (2018)
+http://italians-app.net:8080/movie/hele/cart@/85819.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c3a19939d031fc3aa099592cd9055ef8.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Body Guards - Guardie del Corpo (2000)
 http://italians-app.net:8080/movie/hele/cart@/85796.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a16008e25609b14579185bd4b4dd3da5.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Christmas in Love (2004)
@@ -32611,4 +32617,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16274
+# Total: 16277

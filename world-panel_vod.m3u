@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-01 18:29:29
+# Generated: 2025-12-02 07:01:47
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7601,9 +7601,15 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/44491.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/342baf3fbe69391f255aa4405bb042c8.jpg" group-title="Movies | NETFLIX AMAZON COMICO",Jerry e Marge giocano alla lotteria (2022)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/61271.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (952) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (955) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e6dbc3755da29f303803557a41da343b.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",E fuori nevica! (2014)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85817.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/42b335d023266bb7b4f468d3698ea46a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",L'amico del cuore (1998)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85818.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8fb6e73a512f4c59d2ce9d55fd2185f6.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Una festa esagerata (2018)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85819.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c3a19939d031fc3aa099592cd9055ef8.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Body Guards - Guardie del Corpo (2000)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85796.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a16008e25609b14579185bd4b4dd3da5.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Christmas in Love (2004)
@@ -32261,4 +32267,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16099
+# Total: 16102

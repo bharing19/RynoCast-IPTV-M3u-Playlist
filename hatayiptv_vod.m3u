@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: hatayiptv.com:8000
-# Generated: 2025-12-01 18:33:26
+# Generated: 2025-12-02 07:10:59
 # Expires: 2025-12-26
 # Family Safe Edition
 # ==============================================
@@ -9739,7 +9739,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/160408.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi CARSAMBA",Aşka Mahkum 72.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168158.mkv
 
-# --- Movies | DiZi CUMA (52) ---
+# --- Movies | DiZi CUMA (51) ---
 #EXTINF:-1 tvg-logo="https://iili.io/37dZtOg.jpg" group-title="Movies | DiZi CUMA",Sustalı Ceylan 06.BLM (final)
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/160438.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/37dZtOg.jpg" group-title="Movies | DiZi CUMA",Sustalı Ceylan 05.BLM
@@ -9842,8 +9842,6 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167606.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167392.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi CUMA",Aşka Mahkum 74.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168179.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi CUMA",Aşka Mahkum 69.Bölüm
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168047.mkv
 
 # --- Movies | DiZi CUMARTESi (39) ---
 #EXTINF:-1 tvg-logo="https://iili.io/2Vl5vzN.jpg" group-title="Movies | DiZi CUMARTESi",Can Borcu 26.BLM
@@ -10021,7 +10019,9 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167725.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="Movies | DiZi PAZAR",Bereketli Topraklar 1.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167637.mkv
 
-# --- Movies | DiZi PAZARTESi (29) ---
+# --- Movies | DiZi PAZARTESi (31) ---
+#EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 40.BLM
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168215.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 39.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168106.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 38.BLM
@@ -10042,6 +10042,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/157375.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/156808.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2iIUSrg.jpg" group-title="Movies | DiZi PAZARTESi",Kızıl Goncalar 43.BLM
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/155367.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | DiZi PAZARTESi",Cennetin Çocukları 12.Bölüm
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168213.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | DiZi PAZARTESi",Cennetin Çocukları 11.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168105.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | DiZi PAZARTESi",Cennetin Çocukları 10.Bölüm
@@ -10076,10 +10078,10 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164578.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164280.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXJthDakc4aDdd6sUH85xXUKtED.jpg" group-title="Movies | DiZi PAZARTESi",Çarpıntı 6.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167335.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi PAZARTESi",Aşka Mahkum 75.Bölüm
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168212.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi PAZARTESi",Aşka Mahkum 70.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168104.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi PAZARTESi",Aşka Mahkum 68.Bölüm
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168040.mkv
 
 # --- Movies | DiZi PERSEMBE (34) ---
 #EXTINF:-1 tvg-logo="https://iili.io/2sQee7n.jpg" group-title="Movies | DiZi PERSEMBE",Başka Bir Gün 10..BLM final
@@ -10415,7 +10417,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/56366.mkv
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="Movies | TR: BOLLYWOOD",TR-Bollywood: Uri - Ölümcül görev
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/56364.mkv
 
-# --- Movies | TR: COCUK FILM (459) ---
+# --- Movies | TR: COCUK FILM (462) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg" group-title="Movies | TR: COCUK FILM",Dr. Seuss: Sniçler
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168174.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLi0InRJqjYEnkd4H9gl00hRkvb.jpg" group-title="Movies | TR: COCUK FILM",Thomas & Friends: The Christmas Letter Express
@@ -11334,6 +11336,12 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/51106.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/50937.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pw1YgzcBw4GmwylrFlXMzLdELRo.jpg" group-title="Movies | TR: COCUK FILM",Zamanın Unuttuğu Oyuncak Hikayesi
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/50938.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40oBDh8aWKtVeJ4XFzrdeB9xJyC.jpg" group-title="Movies | TR: COCUK FILM",Kim Demiş Kötüyüz Diye? 2
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168205.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="Movies | TR: COCUK FILM",LEGO Frozen Northern Lights
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168204.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olbxBEAGaYCgyi2EEecuwa5tuUl.jpg" group-title="Movies | TR: COCUK FILM",Prep & Landing: The Snowball Protocol
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168203.mkv
 
 # --- Movies | TR: DINI-VOD (36) ---
 #EXTINF:-1 tvg-logo="https://filmindir.be/wp-content/uploads/2016/06/%C4%B0slam-Adalettir-353x500.jpg" group-title="Movies | TR: DINI-VOD",Islam Adalettir
@@ -11777,7 +11785,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1774.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Sekizinci Aile
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1789.mp4
 
-# --- Movies | TR: DUBLAJ (1602) ---
+# --- Movies | TR: DUBLAJ (1605) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg" group-title="Movies | TR: DUBLAJ",Inheritance
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168178.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="Movies | TR: DUBLAJ",Gunslingers
@@ -14982,6 +14990,12 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/51692.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/51718.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg" group-title="Movies | TR: DUBLAJ",Zombi Ülkesi: Çift Vuruş
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/51640.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0XqulO3M01pmrhaUoJ8H55Gcg1.jpg" group-title="Movies | TR: DUBLAJ",F1 Filmi
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168199.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppcDeziFymu7DBbjItsMHJ70Smd.jpg" group-title="Movies | TR: DUBLAJ",Esrarengiz Canavar 2
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168206.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2sXJBlf3QmzOlpx8J4qIxbq0W5.jpg" group-title="Movies | TR: DUBLAJ",Boş Kalan Odalar
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168201.mkv
 
 # --- Movies | TR: EFSANE FILMLER (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YY9olih5CJEqNoTxLF3Fsjjbu4.jpg" group-title="Movies | TR: EFSANE FILMLER",Evde Tek Başına 2: New York'ta Kayıp
@@ -16750,6 +16764,8 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164596.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164581.mkv
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mxJUlUjy0clIxDI0iy1sJmofyBi3dwR8egJEQmKpQ8n-VG0dJFJp-4yxL1dd0CMv99dPwBfOVTc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Movies | TR: TV SHOW´S",Yetenek Sizsiniz 16.Bölüm
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/164580.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 01.12.2025
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168214.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 30.11.2025
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168198.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 29.11.2025
@@ -16764,8 +16780,6 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168157.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168142.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 24.11.2025
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168107.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 23.11.2025
-http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168103.mkv
 
 # --- Movies | TR: Tabii (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: Tabii",Yeşil Deniz Milenyum
@@ -16857,7 +16871,7 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1755.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: Tabii",Antrenör
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/1783.mp4
 
-# --- Movies | TR: YERLI SINEMA (1121) ---
+# --- Movies | TR: YERLI SINEMA (1125) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVfbJov70hS8ktoPZkx5fwa6NTx.jpg" group-title="Movies | TR: YERLI SINEMA",Lefter: Bir Ordinaryüs Hikayesi
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/167843.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la8LmZSfBgGZKd7uDssR7EjAHCD.jpg" group-title="Movies | TR: YERLI SINEMA",Son Osmanlı: Yandım Ali
@@ -19100,6 +19114,14 @@ http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/49679.mkv
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/49454.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/debwPPUvX961kN877E4dbuBc6mK.jpg" group-title="Movies | TR: YERLI SINEMA",Zincirbozan
 http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/49373.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJp1hr8i8VOwWsHcDdXG7U3XmKW.jpg" group-title="Movies | TR: YERLI SINEMA",Yanlis Paket
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168208.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahzRKiIW7fyzR5h8Gsw6qzOOGBW.jpg" group-title="Movies | TR: YERLI SINEMA",YALANDAN Sevgilim
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168207.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCn68G1i3KaJkyjmK883IPhZRdM.jpg" group-title="Movies | TR: YERLI SINEMA",Efendiler
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168200.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oJh0ifYnIMQkIOOM2Xbj1yYSSg.jpg" group-title="Movies | TR: YERLI SINEMA",Sev Arkadaş
+http://hatayiptv.com:8000/movie/Ertanguclu/tR0BFZiXDe/168202.mkv
 
 # --- Series | TR: BEIN SERIES (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",TR: Aile Şirketi
@@ -19129,4 +19151,4 @@ http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://hatayiptv.com:8000/series/Ertanguclu/tR0BFZiXDe/1409
 
-# Total: 9517
+# Total: 9528

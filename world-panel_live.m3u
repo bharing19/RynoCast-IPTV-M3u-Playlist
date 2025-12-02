@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-01 18:29:29
+# Generated: 2025-12-02 07:01:47
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -760,6 +760,12 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/57140.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/57141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Amazon Prime 1 HD [Live During Events Only]
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/57142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 1 FHD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 2 FHD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 3 FHD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: DAZN 1 HD (Only Live Event)
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/59350.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: DAZN 2 HD (Only Live Event)
@@ -794,12 +800,6 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/59335.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/59334.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: DAZN 10 HD (Only Live Event)
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/59341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 1 FHD
-http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 2 FHD
-http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 3 FHD
-http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85320.m3u8
 
 # --- DE - Sky Unterhaltung (14) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Unterhaltung",DE: AXN black HD

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: mag.4k365.xyz:80
-# Generated: 2025-12-01 18:34:17
+# Generated: 2025-12-02 07:04:44
 # Expires: 2026-03-23
 # Family Safe Edition
 # ==============================================
@@ -718,7 +718,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1121739.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/880363.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880382.png" group-title="PL| INFORMACYJNE",PL| TVP POLONIA FHD
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/880382.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/WYDARZENIA-24.png" group-title="PL| INFORMACYJNE",PL| WYDARZENIA 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1977093.png" group-title="PL| INFORMACYJNE",PL| WYDARZENIA 24
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1977093.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880441.png" group-title="PL| INFORMACYJNE",PL| POLSAT NEWS FHD
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/880441.m3u8
@@ -898,7 +898,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1433903.m3u8
 # --- PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="" group-title="PL| MAX PPV",####### MAX PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640751.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640750.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640750.png" group-title="PL| MAX PPV",PL: MAX PPV 1 - ORLANDO MAGIC - CHICAGO BULLS | Tue 02 Dec 01:30 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640750.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1640749.png" group-title="PL| MAX PPV",PL: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1640749.m3u8
@@ -3148,7 +3148,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602185.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602186.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602187.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602187.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602188.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NEW ZEALAND - WEST INDIES | Mon 01 Dec 21:30 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602188.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602189.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1602189.m3u8
@@ -4145,7 +4145,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1032832.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1032831.png" group-title="UK| GAA GO PPV",GaaGo Fixtures 10:  TBA vs TBA // UK Sun 23 Apr 10:15pm // ET Sun 23 Apr 5:15pm
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1032831.m3u8
 
-# --- UK| GENERAL (160) ---
+# --- UK| GENERAL (159) ---
 #EXTINF:-1 tvg-logo="" group-title="UK| GENERAL",##### GENERAL FHD #####
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/229420.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/30581.png" group-title="UK| GENERAL",UK| BBC 1 HD
@@ -4224,8 +4224,6 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1014327.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1014326.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014323.png" group-title="UK| GENERAL",UK| HOBBY MAKER
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1014323.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1283922.png" group-title="UK| GENERAL",UK| AYOZAT TV
-http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1283922.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014320.png" group-title="UK| GENERAL",UK| QUEST RED
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1014320.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014319.png" group-title="UK| GENERAL",UK| TRUE CRIME XTRA
@@ -6160,7 +6158,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/997056.m3u8
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/507138.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1333143.png" group-title="UK| PPV EVENTS",UFC 294: Pre-Fight Press Conference
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1333143.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022191.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022191.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - 8PM WWE Monday Night Raw
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022191.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1022190.png" group-title="UK| PPV EVENTS",LIVE EVENT 02 - NO EVENT
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1022190.m3u8
@@ -7910,7 +7908,7 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1387222.m3u8
 # --- UK| VOLLEY BALL WORLD PPV (31) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",####### VOLLEY BALL WORLD PPV #######
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1887442.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - BRASILIA VOLEI - RENASCE SOROCABA | ROUND 8 | Tue 02 Dec 00:20 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921441.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/FIV3.png" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - PFRETZSCHNER, L./WINTER (GER) V MOL, A./SØRUM, C. (NOR) | MAIN DRAW | JOÃO PESSOA 2025 | Fri 19 Sep 12:57 | 8K EXCLUSIVE
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1921440.m3u8
@@ -9103,4 +9101,4 @@ http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1066678.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066677.png" group-title="Unknown",EN| CHRISTMAS MOVIES 6 FHD
 http://mag.4k365.xyz:80/live/a87d90570a/d8a18f6d4a/1066677.m3u8
 
-# Total: 4444
+# Total: 4443

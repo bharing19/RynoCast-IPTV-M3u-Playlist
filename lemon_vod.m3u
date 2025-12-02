@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-01 18:28:39
+# Generated: 2025-12-02 07:09:59
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -10223,7 +10223,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/128736.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1m0SgH91AtSVcAY9p7dtqh0Pgr.jpg" group-title="Movies | KERSTFILMS",De Familie Claus 2 (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/129312.mkv
 
-# --- Movies | Laatst toegevoegd (376) ---
+# --- Movies | Laatst toegevoegd (379) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Laatst toegevoegd",Martijn Koning Oudejaarsconference
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/117600.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIQOxsEFXiTbgHDpuFX3vK0hoQ.jpg" group-title="Movies | Laatst toegevoegd",Martijn Koning: Koning van de Lach (2017)
@@ -10976,6 +10976,12 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190674.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190696.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89HPieER8jX9sGKKzhagGIGkMxi.jpg" group-title="Movies | Laatst toegevoegd",Kevin Hart: Acting My Age (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190753.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVOQF2Ucekug1B80A9crVx7Jn90.jpg" group-title="Movies | Laatst toegevoegd",Jingle Bell Heist (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190760.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKB59pPIYvjRxxEXoRoyUfaiBoD.jpg" group-title="Movies | Laatst toegevoegd",Stand Your Ground (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190761.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | Laatst toegevoegd",Bugonia (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190762.mkv
 
 # --- Movies | MUZIEKCONCERTEN (25) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHt8XZqLHqzv8ks4IEKOKzFZ6zk.jpg" group-title="Movies | MUZIEKCONCERTEN",Guus Meeuwis – Groots Met Een Zachte G 2019 - 2019
@@ -21977,4 +21983,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 10933
+# Total: 10936
